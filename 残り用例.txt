@@ -1,0 +1,68 @@
+Hireskef sien.|着る服がない。
+doreが省略されている。
+Hiresku sien muze.|服を着ない。
+Sien hiresku muze.|服を着ない。
+否定する場所には気を付ける必要があるが、場合によって殆ど意味に差はない。この場合、後者の方が否定文であることが早く伝わるため好まれる。
+Ref narau fagave. |私はあなたを赦す。
+Ref narau sien fagave. |私はあなたを赦さない。
+S'af sien reu ab narau fagave.|彼は私ではなく彼を赦す。
+ｎｏｔ Ａ ｂｕｔ Ｂ の構文とは違い、対比の接続詞を用いる。
+Ref s'ahur kun akserra mirsinoet.|私はこの戦いで彼に勝った。
+Ref ta mirvar'aet.|私も笑った。
+S'af ta ref mirvar'aret.|彼と私は笑った(接続詞)。
+S'af ta ref ta mirvar'aet.|彼も私も笑った(1つ目が接続詞、2つ目が助詞)。
+S'a ca ref edoke.|彼とともに私は歩く。
+Ref edoke ca tire.|私は歩きながら話す。
+Ze edoke ca ze tire f rarkromin.|歩きながら話すのは危険だ。
+Ref s'ahur kun akserra mirrisudet.|私はこの戦いで彼に負けた。
+Fiidancu meive.|親に寄生する。
+S'af suu mazaetra.|彼はそれを指差している。
+Mareskef suu s'enatni mazaittera.|表示物はそれが鏡であると示していた。
+S'af mirmadeet.|彼は自らを中立化した。
+S'af kou madeetra.|彼は食事を中断している。
+Dasdif moutrikin.|今日は休日だ。
+Ref moutrikin.|私は失職中だ。
+Tuf bavar.|これは自転車だ。
+Tuf min bavar?|これは自転車なの？
+Tun bavaref res.|この自転車は私の物だ。
+Tun bavaref min res?|この自転車は「あなたの物」なの？
+Min tun bavaref res?|「この自転車」があなたの物なの？
+Ref fiidanc 2n u muzetra.|私は2人の両親を持つ。=私には2人の両親が居る。
+S'af ze edoke fasderin u muzetra.|彼は不自由な歩行を持つ。=彼は歩くのが不自由だ。
+"Mef satidesk dun!" "Mm? Seven?" |「お前は卑しいクズ野郎だ！」「あ？何？」
+Tuf fendamavera dore ur'an! |それはおとぎの国にしかない。=そんなのは夢のまた夢だ。
+Denef fasderse.|走ることは禁止されている。
+S'af ze edoke fasderin u muze.|彼は不自由な歩行を持つ。=彼は歩くのが不自由だ。
+Sevenef 1u 1ni fankese?|1に1を加えると何？
+Ref koe fankromin tein.|私は一緒に食事がしたい。
+Ref ta s'af koe.|私は彼と食事をする。(対象を明示する例)
+fankromgisdaresk kravian|ピアノ協奏曲
+Ref sariu fansaretra.|私は神(にまつわる説や考え方)を信仰している。
+Ref dor sarin u fansaretra.|私は神の存在を信じている。
+5-iri-fadoa|5歳
+3-nati-fadoa|生後3日
+5-fadoa|5歳(年齢の話をしているときは、単位は年であると考えられるのが普通であるため)
+Tun fomef tuu tire. Ab kun fomef kuu tire.|ある人はああ言い、またある人はこう言う。
+Mef reu s'enarogdu gamkeze.|貴方が私を幸せで満たす。
+Daeskef fidu gamkeze.|嘘で失敗を埋め合わせる。
+Fid gamkezin ef sien fid.|埋め合わされた失敗は失敗ではない。
+Arkaf s'au govet.|怒りが彼を怒鳴らせた。
+Res soref s'au arkadu govet.|私の行為は彼を怒りで怒鳴らせた。
+Ref ta s'af miretigittera gun.|私と彼は殴りあった。
+Akeref ta sendaf mirkize gun.|光と音が影響しあう。
+S'af dirin (dore). |それは赤い。
+Ref ze s'af dirin dore u sedoet. |私はそれが赤いことを知った。
+Ref sedoet, ze s'af dirin dore u. |私は知った、それが赤いことを。(倒置)
+Ref ze pabris eru cienze u zere.|私は大衆の心を変えることが出来る。
+Ref pabris eris cienzu zere.|私は大衆を心変わりさせられる。
+どちらも同じ意味で、表現方法が違うのみ。
+Ze dingu vame f ze dingvame.|電気を作る事を発電と言う。
+Ref koe diman sorin.|私は食べることのみができる。
+Re ur'an ef suu uikee.|私にしかそれを理解できない。
+Re diman ef suu uikee.|私のみがそれを理解できる。
+S'as dukeseskef dukesin.|彼の理論は論理的だ。
+Ref 7-bant-temadi mirnariettin.|私は7時間寝た。
+1-natif 24-bant.|1日は24時間だ。
+Eatau veane.|涙を拭う。
+Tiabau veane.|机を拭く。
+Tiabas butau veane.|机の水を拭く。

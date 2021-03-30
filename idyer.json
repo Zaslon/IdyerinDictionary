@@ -12,9 +12,6 @@
     "contents" : [ {
       "title" : "語法",
       "text" : "英語の～ａｂｌｅと同様の意味を持つ。この際、能力可能と状況可能を区別しない。この接尾辞によって生成された記述詞に修飾されるのは、元の動詞形における対格に来る語である。"
-    }, {
-      "title" : "用例",
-      "text" : "Fomis eref cienzarin sampan.\n状況可能解釈なら「人の心は移ろいやすい」、能力可能解釈なら「人を心変わりさせるのは容易い」になる。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -507,12 +504,21 @@
     "contents" : [ {
       "title" : "語法",
       "text" : "二つ以上の要素に挟んで用いる。記述詞にしか用いることができない。また、このo-はもととなった名詞の最後の母音を書き換える。"
-    }, {
-      "title" : "用例",
-      "text" : "coko-pamin|父母の\nsono-pabrin|国家人民間の"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 746,
+        "form" : "coko-pamin"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 3795,
+        "form" : "sono-pabrin"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 26,
@@ -762,6 +768,12 @@
       "entry" : {
         "id" : 3659,
         "form" : "sien"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4737,
+        "form" : "Ze negau fagave ab sien fagave f avvomot tigin."
       }
     } ]
   }, {
@@ -1028,16 +1040,19 @@
       "forms" : [ "(議題や意見に対して)反対する", "否定する" ]
     } ],
     "tags" : [ ],
-    "contents" : [ {
-      "title" : "用例",
-      "text" : "Z'amangedef omagedes tiresku abiaetra.|陸軍としては海軍の提案に反対である。"
-    } ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
       "title" : "参照",
       "entry" : {
         "id" : 1351,
         "form" : "faniae"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4731,
+        "form" : "Z'amangedef omagedes tiresku abiaetra."
       }
     } ]
   }, {
@@ -1092,14 +1107,17 @@
       "title" : "語法",
       "text" : "主格に結果、奪格に被減数、対格に減数を取る。"
     }, {
-      "title" : "用例",
-      "text" : "5f 3u 8hur abkese.|5は3を8から引いた数である。"
-    }, {
       "title" : "語源",
       "text" : "*ab+kes"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4736,
+        "form" : "5f 3u 8hur abkese."
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 58,
@@ -2527,12 +2545,15 @@
     "contents" : [ {
       "title" : "語法",
       "text" : "hを溜めて大げさに発音する。あまり大げさにし過ぎると皮肉っぽくなる。"
-    }, {
-      "title" : "用例",
-      "text" : "Ahha, uike! |ああ、わかった！"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4730,
+        "form" : "Ahha, uike!"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 138,
@@ -3668,14 +3689,17 @@
       "title" : "文化",
       "text" : "少なくともイジェール王国においては軍旗と軍艦旗、戦闘旗の区別はない。外国にはその区別を持つ国もあるが、だいたい纏めてakserberと言われるので混乱する。"
     }, {
-      "title" : "用例",
-      "text" : "Akserberu kagire.|戦旗を掲げる＝狼煙を上げる"
-    }, {
       "title" : "語源",
       "text" : "akser+per"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "ことわざ",
+      "entry" : {
+        "id" : 4732,
+        "form" : "Akserberu kagire"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 198,
@@ -4579,12 +4603,15 @@
     "contents" : [ {
       "title" : "語法",
       "text" : "「語られることのない」という意味。人が黙っていることではなく、内容が語られないこと。修飾対象は内容である。"
-    }, {
-      "title" : "用例",
-      "text" : "asderi amdirin|語られぬ歴史"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4735,
+        "form" : "asderi amdirin"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 246,
@@ -6683,6 +6710,12 @@
         "id" : 796,
         "form" : "dasdi"
       }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4742,
+        "form" : "Mef ardira sevore?"
+      }
     } ]
   }, {
     "entry" : {
@@ -7581,7 +7614,19 @@
       "text" : "a|歴史"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "ことわざ",
+      "entry" : {
+        "id" : 411,
+        "form" : "Asderif kunee"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4735,
+        "form" : "asderi amdirin"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 411,
@@ -7597,7 +7642,19 @@
       "text" : "勝者や権力者は歴史を作り、その歴史は国民や構成員を意のままに操ることが出来るということ。浅はかな権威主義や自国賞賛を戒める定型節として用いられるほか、皮肉的に勝者が全てを決めるという意味で用いられる。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "ことわざ",
+      "entry" : {
+        "id" : 410,
+        "form" : "asderi"
+      }
+    }, {
+      "title" : "ことわざ",
+      "entry" : {
+        "id" : 2340,
+        "form" : "kunee"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 412,
@@ -7726,14 +7783,17 @@
       "title" : "語法",
       "text" : "対格に取った語を、いざこざに巻き込まれた状態にすること。日本語の「喧嘩」よりも範囲が広く、法廷に持ち込まれている場合でも、口喧嘩のみの場合でも、とにかく諍いがある状態を指す。"
     }, {
-      "title" : "用例",
-      "text" : "Ref ta s'af as'eretra.|私と彼は喧嘩をしている。"
-    }, {
       "title" : "語源",
       "text" : "*as'+aksere>"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4733,
+        "form" : "Ref ta s'af as'eretra."
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 419,
@@ -8933,9 +8993,6 @@
       "title" : "語法",
       "text" : "共同体と対置される存在としての個人。ネットワークや共同体から切り離された一人の人間。avvomotの形で「個人にとって、人それぞれ、各人、各々、おのおのの人にとって」という意味になる。"
     }, {
-      "title" : "用例",
-      "text" : "Ze negau fagave ab sien fagave f avvomot tigin.|何を赦せて何を赦せないかは人によって異なる。"
-    }, {
       "title" : "語源",
       "text" : "*ab+fom"
     } ],
@@ -8951,6 +9008,12 @@
       "entry" : {
         "id" : 1384,
         "form" : "fanvom"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4737,
+        "form" : "Ze negau fagave ab sien fagave f avvomot tigin."
       }
     } ]
   }, {
@@ -9953,9 +10016,6 @@
     "contents" : [ {
       "title" : "文化",
       "text" : "大中小の頭文字であるb,m,sからとって作られた語。そのうち分にあたる*mentだけが廃れたので、部分的に対応が崩れている。元々の時間単位が他国の単位と整合性が無かったため作られた。"
-    }, {
-      "title" : "用例",
-      "text" : "Ref 7-bant-temadi mirnariettin.|私は7時間寝た。\n1-natif 24-bant.|1日は24時間だ。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -12565,9 +12625,6 @@
     "contents" : [ {
       "title" : "語法",
       "text" : "H ca K で「Hとともに居るK」を表す。あくまでHとして修飾されたKが句の中心になる。動詞同士を繋いだり、ze節を繋いだりすると「HしながらK」という意味になる。何れにせよ、Hを伴った状態のKを指す接続詞である。"
-    }, {
-      "title" : "用例",
-      "text" : "S'a ca ref edoke.|彼とともに私は歩く。\nRef edoke ca tire.|私は歩きながら話す。\nZe edoke ca ze tire f rarkromin.|歩きながら話すのは危険だ。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -13543,7 +13600,13 @@
       "text" : "cienze+arin"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4734,
+        "form" : "Fomis eref cienzarin sampan."
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 733,
@@ -13829,6 +13892,12 @@
         "id" : 3079,
         "form" : "pam"
       }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 746,
+        "form" : "coko-pamin"
+      }
     } ]
   }, {
     "entry" : {
@@ -13845,7 +13914,25 @@
       "text" : "cok+o+pam"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 745,
+        "form" : "cok"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 25,
+        "form" : "-o-"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 3079,
+        "form" : "pam"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 747,
@@ -16600,9 +16687,6 @@
     "contents" : [ {
       "title" : "語法",
       "text" : "ur'anと異なり、否定的なニュアンスを含まない。ur'anと論理的には同じことを、肯定的に指す。"
-    }, {
-      "title" : "用例",
-      "text" : "Ref koe diman sorin.|私は食べることのみができる。\nRe ur'an ef suu uikee.|私にしかそれを理解できない。\nRe diman ef suu uikee.|私のみがそれを理解できる。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -16610,6 +16694,12 @@
       "entry" : {
         "id" : 4279,
         "form" : "ur'an"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4741,
+        "form" : "Re diman ef suu uikee."
       }
     } ]
   }, {
@@ -17099,10 +17189,7 @@
       "forms" : [ "発電する" ]
     } ],
     "tags" : [ ],
-    "contents" : [ {
-      "title" : "用例",
-      "text" : "Ze dingu vame f ze dingvame.|電気を作る事を発電と言う。"
-    } ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -18137,6 +18224,12 @@
         "id" : 2965,
         "form" : "nore"
       }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4726,
+        "form" : "Ref ze enadif sefomin dore u medare perzen."
+      }
     } ]
   }, {
     "entry" : {
@@ -18569,6 +18662,12 @@
         "id" : 1894,
         "form" : "ides"
       }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4738,
+        "form" : "mef dukesin iebin."
+      }
     } ]
   }, {
     "entry" : {
@@ -18599,9 +18698,6 @@
     "contents" : [ {
       "title" : "語法",
       "text" : "理論化されたもの。「論理学」の論理ではなく、「進化論」というときの論。"
-    }, {
-      "title" : "用例",
-      "text" : "S'as dukeseskef dukesin.|彼の理論は論理的だ。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -19474,6 +19570,12 @@
         "id" : 1259,
         "form" : "f"
       }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4725,
+        "form" : "Mang tun eken ef guze."
+      }
     } ]
   }, {
     "entry" : {
@@ -20005,12 +20107,15 @@
       "forms" : [ "～以外に", "～の他に", "これ以上の", "それ以上の", "～を除いて" ]
     } ],
     "tags" : [ ],
-    "contents" : [ {
-      "title" : "用例",
-      "text" : "Mang tun eken ef guze.|これ以外何も要らない。"
-    } ],
+    "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4725,
+        "form" : "Mang tun eken ef guze."
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 1074,
@@ -21166,12 +21271,21 @@
     "contents" : [ {
       "title" : "語法",
       "text" : "行動や影響が届く時間や空間の幅のこと。日本語や英語と同様、範囲の限界を示すことに使われることが多く、「範囲内」を示すためには処格を用いる必要がある。"
-    }, {
-      "title" : "用例",
-      "text" : "Enif senhur guni.|範囲は三から五までだ。\nTakef kaunanis enira.|敵は射程内だ。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4728,
+        "form" : "Enif senhur guni."
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4729,
+        "form" : "Takef kaunanis enira."
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 1140,
@@ -22235,6 +22349,12 @@
       "entry" : {
         "id" : 3650,
         "form" : "sides"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4734,
+        "form" : "Fomis eref cienzarin sampan."
       }
     } ]
   }, {
@@ -24125,9 +24245,6 @@
     "contents" : [ {
       "title" : "語法",
       "text" : "数字-単位-fadoaの形で「～歳」や「築～」を指す。単位を省略すると、修飾対象から考えられる常識的な単位であると理解される。"
-    }, {
-      "title" : "用例",
-      "text" : "5-iri-fadoa|5歳\n3-nati-fadoa|生後3日\n5-fadoa|5歳(年齢の話をしているときは、単位は年であると考えられるのが普通であるため)"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -24444,6 +24561,12 @@
       "entry" : {
         "id" : 98,
         "form" : "adose"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4737,
+        "form" : "Ze negau fagave ab sien fagave f avvomot tigin."
       }
     } ]
   }, {
@@ -25099,9 +25222,6 @@
       "title" : "語法",
       "text" : "主格が結果、対格が被加数、与格が加数である。"
     }, {
-      "title" : "用例",
-      "text" : "Sevenef 1u 1ni fankese?|1に1を加えると何？"
-    }, {
       "title" : "語源",
       "text" : "*fan+kes"
     } ],
@@ -25137,9 +25257,6 @@
       "title" : "語法",
       "text" : "管弦楽と共に演奏する形態の曲のこと。この単語の後に独奏楽器の名称を伴うことが多い。"
     }, {
-      "title" : "用例",
-      "text" : "fankromgisdaresk kravian|ピアノ協奏曲"
-    }, {
       "title" : "語源",
       "text" : "fankromin+kisdaresk"
     } ],
@@ -25158,9 +25275,6 @@
     "contents" : [ {
       "title" : "語法",
       "text" : "Ｔｏｇｅｔｈｅｒと似ている。専ら副詞的用法で用いられる。対象を列挙しなくても、文脈でわかる誰かと一緒にいることを示せることが利点。"
-    }, {
-      "title" : "用例",
-      "text" : "Ref koe fankromin tein.|私は一緒に食事がしたい。\nRef ta s'af koe.|私は彼と食事をする。(対象を明示する例)"
     }, {
       "title" : "語源",
       "text" : "*fan+*krom"
@@ -25359,9 +25473,6 @@
     "contents" : [ {
       "title" : "語法",
       "text" : "実在を信じるかどうかではなく、その対象の意見や思想に共感すること。「彼の存在」のような名詞を対象にすれば、実在を信じるかどうかにも使える。"
-    }, {
-      "title" : "用例",
-      "text" : "Ref sariu fansaretra.|私は神(にまつわる説や考え方)を信仰している。\nRef dor sarin u fansaretra.|私は神の存在を信じている。"
     }, {
       "title" : "語源",
       "text" : "*fan+sar"
@@ -26836,9 +26947,6 @@
     "contents" : [ {
       "title" : "語法",
       "text" : "この語が修飾するのは不自由となっている対象であり、人ではない。歩けない人に対して「不自由な人」という時にこの語を用いることはできないが、「不自由な歩きを持つ人」という言い方は出来る。"
-    }, {
-      "title" : "用例",
-      "text" : "S'af ze edoke fasderin u muze.|彼は不自由な歩行を持つ。=彼は歩くのが不自由だ。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -27498,9 +27606,6 @@
     "contents" : [ {
       "title" : "文化",
       "text" : "あり得ないことばかりが起こる場所の象徴。"
-    }, {
-      "title" : "用例",
-      "text" : "Tuf fendamavera dore ur'an! |それはおとぎの国にしかない。=そんなのは夢のまた夢だ。"
     }, {
       "title" : "語源",
       "text" : "fendam+ave"
@@ -29422,9 +29527,6 @@
     "contents" : [ {
       "title" : "語法",
       "text" : "「～という人」、や「人は誰しも～」等に使う。機械や物に対する人。生物学的ヒトはiomen。蒙昧なる大衆の意味ではfega。"
-    }, {
-      "title" : "用例",
-      "text" : "Tun fomef tuu tire. Ab kun fomef kuu tire.|ある人はああ言い、またある人はこう言う。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -29444,6 +29546,12 @@
       "entry" : {
         "id" : 482,
         "form" : "avvom"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4734,
+        "form" : "Fomis eref cienzarin sampan."
       }
     } ]
   }, {
@@ -30817,9 +30925,6 @@
       "title" : "語法",
       "text" : "何かの損失を、別の何かで満たすこと。ニュアンスは中立。主格に満たすものが来ることも、具格に満たすものを取って主格に人を取ることもある。"
     }, {
-      "title" : "用例",
-      "text" : "Mef reu s'enarogdu gamkeze.|貴方が私を幸せで満たす。\nDaeskef fidu gamkeze.|嘘で失敗を埋め合わせる。"
-    }, {
       "title" : "語源",
       "text" : "r|欺瞞"
     } ],
@@ -30838,9 +30943,6 @@
     "contents" : [ {
       "title" : "語法",
       "text" : "修飾対象に取るのは損失である。"
-    }, {
-      "title" : "用例",
-      "text" : "Fid gamkezin ef sien fid.|埋め合わされた失敗は失敗ではない。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -32802,9 +32904,6 @@
       "title" : "語法",
       "text" : "対格を与格に向かって怒鳴らせること。主格に来るのは出来事や怒鳴る要因である。要因を具格に取ることもできる。原義は「大声をあげさせること」であり、その要因が怒りでなくても構わない。"
     }, {
-      "title" : "用例",
-      "text" : "Arkaf s'au govet.|怒りが彼を怒鳴らせた。\nRes soref s'au arkadu govet.|私の行為は彼を怒りで怒鳴らせた。"
-    }, {
       "title" : "語源",
       "text" : "r"
     } ],
@@ -33083,7 +33182,19 @@
       "text" : "r>i.s"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4728,
+        "form" : "Enif senhur guni."
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4736,
+        "form" : "5f 3u 8hur abkese."
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 1790,
@@ -33186,9 +33297,6 @@
     "contents" : [ {
       "title" : "語法",
       "text" : "副詞として用いる場合は、主格が文脈から想定されうる何かと互いに作用しあうことを指す。形容詞として用いる場合は、互いに同じものを持っている場合を想定して、互いのそれらをまとめて指すことができる。"
-    }, {
-      "title" : "用例",
-      "text" : "Ref ta s'af miretigittera gun.|私と彼は殴りあった。\nAkeref ta sendaf mirkize gun.|光と音が影響しあう。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -33343,7 +33451,13 @@
       "text" : "r"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4725,
+        "form" : "Mang tun eken ef guze."
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 1804,
@@ -35593,14 +35707,17 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用例",
-      "text" : "mef dukesin iebin.|お前は理屈っぽすぎる。"
-    }, {
       "title" : "語源",
       "text" : "r"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4738,
+        "form" : "mef dukesin iebin."
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 1922,
@@ -37947,14 +38064,17 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用例",
-      "text" : "Akserberu kagire|戦旗を掲げる。\n「狼煙をあげる」の意味。"
-    }, {
       "title" : "語源",
       "text" : "r"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "ことわざ",
+      "entry" : {
+        "id" : 4732,
+        "form" : "Akserberu kagire"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 2056,
@@ -39152,7 +39272,13 @@
       "text" : "a>i.k"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4729,
+        "form" : "Takef kaunanis enira."
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 2123,
@@ -41508,6 +41634,12 @@
         "id" : 2234,
         "form" : "ko"
       }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4739,
+        "form" : "Ref koe ur'an sorin."
+      }
     } ]
   }, {
     "entry" : {
@@ -43162,6 +43294,12 @@
         "id" : 1420,
         "form" : "farne"
       }
+    }, {
+      "title" : "ことわざ",
+      "entry" : {
+        "id" : 411,
+        "form" : "Asderif kunee"
+      }
     } ]
   }, {
     "entry" : {
@@ -43725,9 +43863,6 @@
     "contents" : [ {
       "title" : "語法",
       "text" : "対象を中くらいの状態にしておくこと。名詞を取る場合は中立やニュートラルを意味することが多く、ze節を取ると中止や中断を意味することが多い。その後再開するか、そのまま中止するかは文脈次第である。中断と中止は共に頻度が高い意味であるにもかかわらず多義的であるため、複合語としての使用が避けられがちである。"
-    }, {
-      "title" : "用例",
-      "text" : "S'af mirmadeet.|彼は自らを中立化した。\nS'af kou madeetra.|彼は食事を中断している。"
     }, {
       "title" : "語源",
       "text" : "maden>"
@@ -44868,6 +45003,12 @@
         "id" : 2363,
         "form" : "mad"
       }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4725,
+        "form" : "Mang tun eken ef guze."
+      }
     } ]
   }, {
     "entry" : {
@@ -45964,9 +46105,6 @@
       "title" : "語法",
       "text" : "対格を与格であると示すこと。"
     }, {
-      "title" : "用例",
-      "text" : "S'af suu mazaetra.|彼はそれを指差している。\nMareskef suu s'enatni mazaittera.|表示物はそれが鏡であると示していた。"
-    }, {
       "title" : "語源",
       "text" : "r"
     } ],
@@ -46085,6 +46223,24 @@
         "id" : 2828,
         "form" : "nara"
       }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4738,
+        "form" : "mef dukesin iebin."
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4742,
+        "form" : "Mef ardira sevore?"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4743,
+        "form" : "Mef suu sevore?"
+      }
     } ]
   }, {
     "entry" : {
@@ -46117,7 +46273,13 @@
       "text" : "*me+dare|心の中で深く読む"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4726,
+        "form" : "Ref ze enadif sefomin dore u medare perzen."
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 2503,
@@ -46499,9 +46661,6 @@
     "contents" : [ {
       "title" : "語法",
       "text" : "対格に寄生対象、与格に奪う物を取るので、日本語と異なることに注意。富や栄養を毟り取ることが原義で、搾取する側とされる側の上下関係を気にしない。"
-    }, {
-      "title" : "用例",
-      "text" : "Fiidancu meive.|親に寄生する。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -47904,9 +48063,6 @@
     "contents" : [ {
       "title" : "語法",
       "text" : "正確には該当する訳が存在しない。尋ねたい内容をminで修飾することで疑問文を作ることができる。"
-    }, {
-      "title" : "用例",
-      "text" : "Tuf bavar.|これは自転車だ。\nTuf min bavar?|これは自転車なの？\nTun bavaref res.|この自転車は私の物だ。\nTun bavaref min res?|この自転車は「あなたの物」なの？\nMin tun bavaref res?|「この自転車」があなたの物なの？"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -49093,9 +49249,6 @@
     "contents" : [ {
       "title" : "語法",
       "text" : "語尾を上げながら言う。マンガや小説では、鬱陶しがっている様子を表すためにmを重ねることがある。丁寧な言い方ではなく、通常は多少の苛立ちを含意する。mを重ねるほどイライラを表す。"
-    }, {
-      "title" : "用例",
-      "text" : "\"Mef satidesk dun!\" \"Mm? Seven?\" |「お前は卑しいクズ野郎だ！」「あ？何？」"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -50557,9 +50710,6 @@
       "title" : "語法",
       "text" : "仕事が無い状態であること。一時的か永続的かを問わない為、失職中なのか休日なのかはこの語単体では判断できない。ただし、通例休日を指す場合は日を修飾するため、人を就職すると失職中の意味で解される可能性が高い。"
     }, {
-      "title" : "用例",
-      "text" : "Dasdif moutrikin.|今日は休日だ。\nRef moutrikin.|私は失職中だ。"
-    }, {
       "title" : "語源",
       "text" : "mo+utrike"
     } ],
@@ -51518,9 +51668,6 @@
     "contents" : [ {
       "title" : "語法",
       "text" : "イジェール語はｈａｖｅ言語なので、日本語で「ある、いる」を用いる場面でこの語を用いる。また、所有状態への移行が意味の中心なので、持っている状態を示すためには継続相にする必要がある。"
-    }, {
-      "title" : "用例",
-      "text" : "Ref fiidanc 2n u muzetra.|私は2人の両親を持つ。=私には2人の両親が居る。\nS'af ze edoke fasderin u muzetra.|彼は不自由な歩行を持つ。=彼は歩くのが不自由だ。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -53030,6 +53177,12 @@
       "entry" : {
         "id" : 825,
         "form" : "dega"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4737,
+        "form" : "Ze negau fagave ab sien fagave f avvomot tigin."
       }
     } ]
   }, {
@@ -55410,7 +55563,13 @@
       "text" : "oma+kede"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4731,
+        "form" : "Z'amangedef omagedes tiresku abiaetra."
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 3010,
@@ -56335,6 +56494,12 @@
         "id" : 1474,
         "form" : "fega"
       }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 3795,
+        "form" : "sono-pabrin"
+      }
     } ]
   }, {
     "entry" : {
@@ -56655,6 +56820,12 @@
       "entry" : {
         "id" : 745,
         "form" : "cok"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 746,
+        "form" : "coko-pamin"
       }
     } ]
   }, {
@@ -57314,6 +57485,12 @@
         "id" : 2715,
         "form" : "momandin"
       }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4726,
+        "form" : "Ref ze enadif sefomin dore u medare perzen."
+      }
     } ]
   }, {
     "entry" : {
@@ -57813,7 +57990,13 @@
       "text" : "rape+etige"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "ことわざ",
+      "entry" : {
+        "id" : 3629,
+        "form" : "Setini rabdige"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 3142,
@@ -58956,7 +59139,37 @@
       "text" : "u"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4726,
+        "form" : "Ref ze enadif sefomin dore u medare perzen."
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4733,
+        "form" : "Ref ta s'af as'eretra."
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4739,
+        "form" : "Ref koe ur'an sorin."
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4740,
+        "form" : "Re ur'an ef suu uikee."
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4741,
+        "form" : "Re diman ef suu uikee."
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 3205,
@@ -59807,9 +60020,6 @@
     "contents" : [ {
       "title" : "語法",
       "text" : "敗北する人を対格に、勝った対象を奪格に取る。試合や大会は処格に取る。"
-    }, {
-      "title" : "用例",
-      "text" : "Ref s'ahur kun akserra mirrisudet.|私はこの戦いで彼に負けた。"
     }, {
       "title" : "語源",
       "text" : "r>i.a"
@@ -60791,9 +61001,6 @@
     "translations" : [ {
       "title" : "代名詞",
       "forms" : [ "(三人称単数有生)彼", "彼女" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "(数)四", "4" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -60809,6 +61016,18 @@
       "entry" : {
         "id" : 4714,
         "form" : "su"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4727,
+        "form" : "Suf s'as enadis tarebesk."
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4733,
+        "form" : "Ref ta s'af as'eretra."
       }
     } ]
   }, {
@@ -61820,6 +62039,12 @@
       "entry" : {
         "id" : 2764,
         "form" : "mozon"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4734,
+        "form" : "Fomis eref cienzarin sampan."
       }
     } ]
   }, {
@@ -64213,7 +64438,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4726,
+        "form" : "Ref ze enadif sefomin dore u medare perzen."
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 3495,
@@ -65112,7 +65343,19 @@
       "text" : "r>i.s"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4728,
+        "form" : "Enif senhur guni."
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4736,
+        "form" : "5f 3u 8hur abkese."
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 3545,
@@ -66582,6 +66825,12 @@
         "id" : 4584,
         "form" : "omzeti"
       }
+    }, {
+      "title" : "ことわざ",
+      "entry" : {
+        "id" : 3629,
+        "form" : "Setini rabdige"
+      }
     } ]
   }, {
     "entry" : {
@@ -66646,7 +66895,19 @@
       "text" : "後には引けない決断をすること。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "ことわざ",
+      "entry" : {
+        "id" : 3625,
+        "form" : "seti"
+      }
+    }, {
+      "title" : "ことわざ",
+      "entry" : {
+        "id" : 3141,
+        "form" : "rabdige"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 3630,
@@ -66776,12 +67037,21 @@
     "contents" : [ {
       "title" : "語法",
       "text" : "動詞の部分に何が入るのかを尋ねる疑問文を作る動詞。"
-    }, {
-      "title" : "用例",
-      "text" : "Mef ardira sevore? | あなた、昨日は何してたの？\nMef suu sevore? | あなた、それをどうするの？"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4742,
+        "form" : "Mef ardira sevore?"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4743,
+        "form" : "Mef suu sevore?"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 3639,
@@ -67203,14 +67473,17 @@
       "title" : "語法",
       "text" : "通常の記述詞同様、名詞や記述詞、動詞の前に来る。sienの直後に来る語を否定する。用例に示すように、何所で否定しても文全体の意味が同じになる場合、出来るだけ分の頭に近い部分で否定しようとする傾向がある。"
     }, {
-      "title" : "用例",
-      "text" : "Hireskef sien.|着る服がない。\ndoreが省略されている。\nHiresku sien muze.|服を着ない。\nSien hiresku muze.|服を着ない。\n否定する場所には気を付ける必要があるが、場合によって殆ど意味に差はない。この場合、後者の方が否定文であることが早く伝わるため好まれる。\nRef narau fagave. |私はあなたを赦す。\nRef narau sien fagave. |私はあなたを赦さない。\nS'af sien reu ab narau fagave.|彼は私ではなく彼を赦す。\nｎｏｔ Ａ ｂｕｔ Ｂ の構文とは違い、対比の接続詞を用いる。"
-    }, {
       "title" : "語源",
       "text" : "u"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4737,
+        "form" : "Ze negau fagave ab sien fagave f avvomot tigin."
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 3660,
@@ -68165,9 +68438,6 @@
     "contents" : [ {
       "title" : "語法",
       "text" : "勝利する人を対格に、負かす対象を奪格に取る。試合や大会は処格に取る。"
-    }, {
-      "title" : "用例",
-      "text" : "Ref s'ahur kun akserra mirsinoet.|私はこの戦いで彼に勝った。"
     }, {
       "title" : "語源",
       "text" : "r>i.a"
@@ -69639,7 +69909,13 @@
       "text" : "u"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 3795,
+        "form" : "sono-pabrin"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 3788,
@@ -69779,7 +70055,25 @@
       "text" : "sone+o+pabri"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 3787,
+        "form" : "sone"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 25,
+        "form" : "-o-"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 3061,
+        "form" : "pabri"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 3796,
@@ -69904,6 +70198,12 @@
       "entry" : {
         "id" : 4520,
         "form" : "zerin"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4739,
+        "form" : "Ref koe ur'an sorin."
       }
     } ]
   }, {
@@ -71751,12 +72051,15 @@
     "contents" : [ {
       "title" : "語法",
       "text" : "格を表す助詞よりも外側に来るので、日本語と語順が違うことに注意。接続詞と助詞の2つの意味があり、単独で用いると「～も」、2個用いると「～も～も」の意味と解釈すれば問題ない。"
-    }, {
-      "title" : "用例",
-      "text" : "Ref ta mirvar'aet.|私も笑った。\nS'af ta ref mirvar'aret.|彼と私は笑った(接続詞)。\nS'af ta ref ta mirvar'aet.|彼も私も笑った(1つ目が接続詞、2つ目が助詞)。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4733,
+        "form" : "Ref ta s'af as'eretra."
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 3902,
@@ -71986,6 +72289,12 @@
       "entry" : {
         "id" : 4258,
         "form" : "uiri"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4729,
+        "form" : "Takef kaunanis enira."
       }
     } ]
   }, {
@@ -72337,7 +72646,13 @@
       "text" : "解決すべき事項のこと。設問の意味でも用いる。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4727,
+        "form" : "Suf s'as enadis tarebesk."
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 3934,
@@ -74510,6 +74825,12 @@
         "id" : 496,
         "form" : "bacon"
       }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4737,
+        "form" : "Ze negau fagave ab sien fagave f avvomot tigin."
+      }
     } ]
   }, {
     "entry" : {
@@ -75041,6 +75362,12 @@
       "entry" : {
         "id" : 1243,
         "form" : "etube"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4731,
+        "form" : "Z'amangedef omagedes tiresku abiaetra."
       }
     } ]
   }, {
@@ -76641,7 +76968,13 @@
       "text" : "日本語における「その」はこの語で表現して良い場合が多い。suは三人称の代名詞であるため、sunで場所や時間的な指定のための「その」という意味を表すことはできないためである。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4725,
+        "form" : "Mang tun eken ef guze."
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 4180,
@@ -78015,7 +78348,13 @@
       "text" : "uikee>"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4730,
+        "form" : "Ahha, uike!"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 4255,
@@ -78037,7 +78376,19 @@
       "text" : "r"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4740,
+        "form" : "Re ur'an ef suu uikee."
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4741,
+        "form" : "Re diman ef suu uikee."
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 4256,
@@ -78429,9 +78780,6 @@
       "title" : "語法",
       "text" : "マイナスの価値判断を含む。dimanと論理的には同じことを、否定的に指す。"
     }, {
-      "title" : "用例",
-      "text" : "Ref koe ur'an sorin.|私は食べることしかできない。\nRe ur'an ef suu uikee.|私にしかそれを理解できない。\nRe diman ef suu uikee.|私のみがそれを理解できる。"
-    }, {
       "title" : "語源",
       "text" : "a"
     } ],
@@ -78441,6 +78789,18 @@
       "entry" : {
         "id" : 893,
         "form" : "diman"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4739,
+        "form" : "Ref koe ur'an sorin."
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4740,
+        "form" : "Re ur'an ef suu uikee."
       }
     } ]
   }, {
@@ -78974,7 +79334,13 @@
       "text" : "r>i.s"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4736,
+        "form" : "5f 3u 8hur abkese."
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 4308,
@@ -80267,9 +80633,6 @@
     "contents" : [ {
       "title" : "語法",
       "text" : "対格に拭き取られる物を取るのが普通だが、場所を取ることもできる。両方を示すときは場所は属格で示す。"
-    }, {
-      "title" : "用例",
-      "text" : "Eatau veane.|涙を拭う。\nTiabau veane.|机を拭く。\nTiabas butau veane.|机の水を拭く。"
     }, {
       "title" : "語源",
       "text" : "a"
@@ -82439,7 +82802,13 @@
       "text" : "z'aman+kede"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 4731,
+        "form" : "Z'amangedef omagedes tiresku abiaetra."
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 4497,
@@ -82722,14 +83091,23 @@
       "title" : "語法",
       "text" : "動詞、記述詞、名詞および文に前置することで、節を作る。省略することも出来る。"
     }, {
-      "title" : "用例",
-      "text" : "S'af dirin (dore). |それは赤い。\nRef ze s'af dirin dore u sedoet. |私はそれが赤いことを知った。\nRef sedoet, ze s'af dirin dore u. |私は知った、それが赤いことを。(倒置)"
-    }, {
       "title" : "語源",
       "text" : "u"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4726,
+        "form" : "Ref ze enadif sefomin dore u medare perzen."
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4737,
+        "form" : "Ze negau fagave ab sien fagave f avvomot tigin."
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 4514,
@@ -82820,9 +83198,6 @@
     "contents" : [ {
       "title" : "語法",
       "text" : "主格が対格を可能にすること。元々は状況可能のみを指していたが、現在は状況可能と能力可能を分けない。接尾辞の-(a)rinは専ら被動作物を中心にした語を作り出すため、動作主を中心に表現したいならzereを使うとよい。"
-    }, {
-      "title" : "用例",
-      "text" : "Ref ze pabris eru cienze u zere.|私は大衆の心を変えることが出来る。\nRef pabris eris cienzu zere.|私は大衆を心変わりさせられる。\nどちらも同じ意味で、表現方法が違うのみ。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -85726,9 +86101,6 @@
     "contents" : [ {
       "title" : "語法",
       "text" : "制約を受ける行動を対格にとる。従って、何かが制限されていることを示したい場合には、受動態を伴うことが多い。"
-    }, {
-      "title" : "用例",
-      "text" : "Denef fasderse.|走ることは禁止されている。\n"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -86243,12 +86615,21 @@
     "contents" : [ {
       "title" : "語法",
       "text" : "自分自身のこと。属格を接続することで任意の誰か自身を指すことができる。"
-    }, {
-      "title" : "用例",
-      "text" : "Ref ze enadif sefomin dore u medare perzen.|私は自分が誰かということについて考えることがある。\nSuf s'as enadis tarebesk.|それは彼自身の問題だ。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4726,
+        "form" : "Ref ze enadif sefomin dore u medare perzen."
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4727,
+        "form" : "Suf s'as enadis tarebesk."
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 4709,
@@ -86394,6 +86775,30 @@
       "entry" : {
         "id" : 3309,
         "form" : "s'a"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4727,
+        "form" : "Suf s'as enadis tarebesk."
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4740,
+        "form" : "Re ur'an ef suu uikee."
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4741,
+        "form" : "Re diman ef suu uikee."
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4743,
+        "form" : "Mef suu sevore?"
       }
     } ]
   }, {
@@ -86599,6 +87004,682 @@
       "entry" : {
         "id" : 4722,
         "form" : "kronvametubee"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4725,
+      "form" : "Mang tun eken ef guze."
+    },
+    "translations" : [ {
+      "title" : "用例",
+      "forms" : [ "これ以外何も要らない。" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 2432,
+        "form" : "mang"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4179,
+        "form" : "tun"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 1073,
+        "form" : "eken"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 1803,
+        "form" : "guze"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4726,
+      "form" : "Ref ze enadif sefomin dore u medare perzen."
+    },
+    "translations" : [ {
+      "title" : "用例",
+      "forms" : [ "私は自分が誰かということについて考えることがある。" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 3204,
+        "form" : "re"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4513,
+        "form" : "ze"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4708,
+        "form" : "enadi"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 3494,
+        "form" : "sefom"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 973,
+        "form" : "dore"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 2502,
+        "form" : "medare"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 3113,
+        "form" : "perzen"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4727,
+      "form" : "Suf s'as enadis tarebesk."
+    },
+    "translations" : [ {
+      "title" : "用例",
+      "forms" : [ "それは彼自身の問題だ。" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4714,
+        "form" : "su"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 3309,
+        "form" : "s'a"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4708,
+        "form" : "enadi"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 3933,
+        "form" : "tarebesk"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4728,
+      "form" : "Enif senhur guni."
+    },
+    "translations" : [ {
+      "title" : "用例",
+      "forms" : [ "範囲は三から五までだ。" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 1139,
+        "form" : "eni"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 3544,
+        "form" : "sen"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 1789,
+        "form" : "gu"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4729,
+      "form" : "Takef kaunanis enira."
+    },
+    "translations" : [ {
+      "title" : "用例",
+      "forms" : [ "敵は射程内だ。" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 3913,
+        "form" : "tak"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 2122,
+        "form" : "kaunan"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 1139,
+        "form" : "eni"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4730,
+      "form" : "Ahha, uike!"
+    },
+    "translations" : [ {
+      "title" : "用例",
+      "forms" : [ "ああ", "わかった！" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 137,
+        "form" : "ahha"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4254,
+        "form" : "uike"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4731,
+      "form" : "Z'amangedef omagedes tiresku abiaetra."
+    },
+    "translations" : [ {
+      "title" : "用例",
+      "forms" : [ "陸軍としては海軍の提案に反対である。" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4496,
+        "form" : "z'amangede"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 3009,
+        "form" : "omagede"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4089,
+        "form" : "tiresk"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 54,
+        "form" : "abiae"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4732,
+      "form" : "Akserberu kagire"
+    },
+    "translations" : [ {
+      "title" : "ことわざ",
+      "forms" : [ "戦旗を掲げる", "狼煙を上げる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "ことわざ",
+      "entry" : {
+        "id" : 197,
+        "form" : "akserber"
+      }
+    }, {
+      "title" : "ことわざ",
+      "entry" : {
+        "id" : 2055,
+        "form" : "kagire"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4733,
+      "form" : "Ref ta s'af as'eretra."
+    },
+    "translations" : [ {
+      "title" : "用例",
+      "forms" : [ "私と彼は喧嘩をしている。" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 3204,
+        "form" : "re"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 3901,
+        "form" : "ta"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 3309,
+        "form" : "s'a"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 418,
+        "form" : "as'ere"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4734,
+      "form" : "Fomis eref cienzarin sampan."
+    },
+    "translations" : [ {
+      "title" : "用例",
+      "forms" : [ "人の心は移ろいやすい", "人を心変わりさせるのは容易い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "状況可能解釈なら「人の心は移ろいやすい」、能力可能解釈なら「人を心変わりさせるのは容易い」になる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 1592,
+        "form" : "fom"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 1196,
+        "form" : "er"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 732,
+        "form" : "cienzarin"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 3367,
+        "form" : "sampan"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4735,
+      "form" : "asderi amdirin"
+    },
+    "translations" : [ {
+      "title" : "用例",
+      "forms" : [ "語られない歴史" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 410,
+        "form" : "asderi"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 245,
+        "form" : "amdirin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4736,
+      "form" : "5f 3u 8hur abkese."
+    },
+    "translations" : [ {
+      "title" : "用例",
+      "forms" : [ "5は3を8から引いた数である。" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 1789,
+        "form" : "gu"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 3544,
+        "form" : "sen"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4307,
+        "form" : "ut'a"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 57,
+        "form" : "abkese"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4737,
+      "form" : "Ze negau fagave ab sien fagave f avvomot tigin."
+    },
+    "translations" : [ {
+      "title" : "用例",
+      "forms" : [ "何を赦せて何を赦せないかは人によって異なる。" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4513,
+        "form" : "ze"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 2880,
+        "form" : "nega"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 1317,
+        "form" : "fagave"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 39,
+        "form" : "ab"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 3659,
+        "form" : "sien"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 482,
+        "form" : "avvom"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4058,
+        "form" : "tigin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4738,
+      "form" : "mef dukesin iebin."
+    },
+    "translations" : [ {
+      "title" : "用例",
+      "forms" : [ "お前は理屈っぽすぎる。" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 2500,
+        "form" : "me"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 997,
+        "form" : "dukes"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 1921,
+        "form" : "iebin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4739,
+      "form" : "Ref koe ur'an sorin."
+    },
+    "translations" : [ {
+      "title" : "用例",
+      "forms" : [ "私は食べることしかできない。" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 3204,
+        "form" : "re"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 2249,
+        "form" : "koe"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4279,
+        "form" : "ur'an"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 3801,
+        "form" : "sorin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4740,
+      "form" : "Re ur'an ef suu uikee."
+    },
+    "translations" : [ {
+      "title" : "用例",
+      "forms" : [ "私にしかそれを理解できない。" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 3204,
+        "form" : "re"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4279,
+        "form" : "ur'an"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4714,
+        "form" : "su"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4255,
+        "form" : "uikee"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4741,
+      "form" : "Re diman ef suu uikee."
+    },
+    "translations" : [ {
+      "title" : "用例",
+      "forms" : [ "私のみがそれを理解できる。" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 3204,
+        "form" : "re"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 893,
+        "form" : "diman"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4714,
+        "form" : "su"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4255,
+        "form" : "uikee"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4742,
+      "form" : "Mef ardira sevore?"
+    },
+    "translations" : [ {
+      "title" : "用例",
+      "forms" : [ "あなた", "昨日は何してたの？" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 2500,
+        "form" : "me"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 358,
+        "form" : "ardi"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 3638,
+        "form" : "sevore"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4743,
+      "form" : "Mef suu sevore?"
+    },
+    "translations" : [ {
+      "title" : "用例",
+      "forms" : [ "あなた", "それをどうするの？" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 2500,
+        "form" : "me"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4714,
+        "form" : "su"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 3638,
+        "form" : "sevore"
       }
     } ]
   } ],

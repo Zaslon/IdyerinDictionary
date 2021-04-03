@@ -18230,6 +18230,12 @@
         "id" : 4726,
         "form" : "Ref ze enadif sefomin dore u medare perzen."
       }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4744,
+        "form" : "Hireskef sien (dore)."
+      }
     } ]
   }, {
     "entry" : {
@@ -34116,6 +34122,24 @@
       "entry" : {
         "id" : 3282,
         "form" : "ruk"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4744,
+        "form" : "Hireskef sien (dore)."
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4745,
+        "form" : "Hiresku sien muze."
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4746,
+        "form" : "Sien hiresku muze."
       }
     } ]
   }, {
@@ -51670,7 +51694,19 @@
       "text" : "イジェール語はｈａｖｅ言語なので、日本語で「ある、いる」を用いる場面でこの語を用いる。また、所有状態への移行が意味の中心なので、持っている状態を示すためには継続相にする必要がある。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4745,
+        "form" : "Hiresku sien muze."
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4746,
+        "form" : "Sien hiresku muze."
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 2795,
@@ -67482,6 +67518,24 @@
       "entry" : {
         "id" : 4737,
         "form" : "Ze negau fagave ab sien fagave f avvomot tigin."
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4744,
+        "form" : "Hireskef sien (dore)."
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4745,
+        "form" : "Hiresku sien muze."
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 4746,
+        "form" : "Sien hiresku muze."
       }
     } ]
   }, {
@@ -87680,6 +87734,117 @@
       "entry" : {
         "id" : 3638,
         "form" : "sevore"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4744,
+      "form" : "Hireskef sien (dore)."
+    },
+    "translations" : [ {
+      "title" : "用例",
+      "forms" : [ "着る服がない。" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "doreが省略されている。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 1839,
+        "form" : "hiresk"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 3659,
+        "form" : "sien"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 973,
+        "form" : "dore"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4745,
+      "form" : "Hiresku sien muze."
+    },
+    "translations" : [ {
+      "title" : "用例",
+      "forms" : [ "服を着ない。" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 1839,
+        "form" : "hiresk"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 3659,
+        "form" : "sien"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 2794,
+        "form" : "muze"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 4746,
+        "form" : "Sien hiresku muze."
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4746,
+      "form" : "Sien hiresku muze."
+    },
+    "translations" : [ {
+      "title" : "用例",
+      "forms" : [ "服を着ない。" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "否定する場所には気を付ける必要があるが、場合によって殆ど意味に差はない。この場合、後者の方が否定文であることが早く伝わるため好まれる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "用例",
+      "entry" : {
+        "id" : 3659,
+        "form" : "sien"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 1839,
+        "form" : "hiresk"
+      }
+    }, {
+      "title" : "用例",
+      "entry" : {
+        "id" : 2794,
+        "form" : "muze"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 4745,
+        "form" : "Hiresku sien muze."
       }
     } ]
   } ],

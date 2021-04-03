@@ -1,8 +1,3 @@
-Hireskef sien.|着る服がない。
-doreが省略されている。
-Hiresku sien muze.|服を着ない。
-Sien hiresku muze.|服を着ない。
-否定する場所には気を付ける必要があるが、場合によって殆ど意味に差はない。この場合、後者の方が否定文であることが早く伝わるため好まれる。
 Ref narau fagave. |私はあなたを赦す。
 Ref narau sien fagave. |私はあなたを赦さない。
 S'af sien reu ab narau fagave.|彼は私ではなく彼を赦す。

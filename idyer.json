@@ -13417,6 +13417,9 @@
     "contents" : [ {
       "title" : "語法",
       "text" : "原義は伝えられるもの。その手段を問わない為、とにかく伝えられる内容全てに使われる。"
+    }, {
+      "title" : "文化",
+      "text" : "一般的に、情報とデータを区別して用いることはない。客観的で数値的な項目の蓄積であるデータと、主観的な判断を加えた情報の区別はもっぱら修飾語による。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -60838,6 +60841,9 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
+      "title" : "語法",
+      "text" : "複数の文で構成された箱状の形式のこと。"
+    }, {
       "title" : "語源",
       "text" : "sabada+igus"
     } ],
@@ -86601,6 +86607,187 @@
         "form" : "kronvametubee"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 4725,
+      "form" : "makudi"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "建制順", "公式の順序" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "公式に定められた順序のこと。文脈によって、「あいうえお」のような順序や、「背の低い順」のような順序であっても、それが公式に強制された順序であるならこの語で示され得る。"
+    }, {
+      "title" : "語源",
+      "text" : "mak+udi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4726,
+      "form" : "tebemar"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "解像度", "分解能", "詳細度" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "詳細さの度合いのこと。"
+    }, {
+      "title" : "語源",
+      "text" : "te+bemarin"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4727,
+      "form" : "ceisruzem"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "(電算)データベース" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "データを集積したもののこと。電子情報に限らない。"
+    }, {
+      "title" : "語源",
+      "text" : "ceisesk+ruzem>"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4728,
+      "form" : "nezae"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "(内容を)(人に)説明する", "解説する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "対格の内容を与格に対して説明すること。"
+    }, {
+      "title" : "語源",
+      "text" : "r>i.a"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4729,
+      "form" : "neza"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "説明" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4730,
+      "form" : "nezaesk"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "解説" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4731,
+      "form" : "nuzaeda"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "チャート", "グラフ", "図説" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "説明を可視化するために用いられる図のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "nuzae+eda"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4732,
+      "form" : "guskurnezaeda"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "フローチャート" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "guskur+nezaeda"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "省略",
+      "entry" : {
+        "id" : 4733,
+        "form" : "guskureda"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4733,
+      "form" : "guskureda"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "(略)フローチャート" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "省略",
+      "entry" : {
+        "id" : 4732,
+        "form" : "guskurnezaeda"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4734,
+      "form" : "sindon"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "塊", "かたまり", "まとまり" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "一箇所に高密度で集積されたひとかたまりの物体のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "*sind"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

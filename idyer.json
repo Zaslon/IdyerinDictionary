@@ -28258,7 +28258,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語源",
-      "text" : "fii+*at>|つがい石>"
+      "text" : "fii+*at>"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -86785,6 +86785,108 @@
     }, {
       "title" : "語源",
       "text" : "*sind"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4735,
+      "form" : "kizave dingin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "(物)電場" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4736,
+        "form" : "kizave fiatin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4736,
+      "form" : "kizave fiatin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "(物)磁場" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4735,
+        "form" : "kizave dingin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4737,
+      "form" : "fiatin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "磁石の", "磁力に関する", "磁力の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "磁石そのものに関するという意味から派生して、磁石の生み出す力に関するものも含む。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4738,
+      "form" : "dingo-fiatin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "(物)電磁的な", "電磁の", "電磁式の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "英語の逐語訳。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4739,
+      "form" : "kizave dingo-fiatin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "電磁場", "電磁界" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "電場と磁場を併せて言う語。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4740,
+      "form" : "horguzave"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "(軍)弾薬庫" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "hor+kuzave"
     } ],
     "variations" : [ ],
     "relations" : [ ]

@@ -38963,7 +38963,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "排熱" ]
+      "forms" : [ "排熱", "廃熱" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -53622,6 +53622,9 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "足の裏" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "接地面" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -73102,7 +73105,19 @@
       "text" : "te+dingi"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4034,
+        "form" : "tevi"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4745,
+        "form" : "tazma"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 3979,
@@ -73135,7 +73150,7 @@
   }, {
     "entry" : {
       "id" : 3981,
-      "form" : "tedungi uivan"
+      "form" : "tazma uivan"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -74055,18 +74070,30 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "間隔", "距離" ]
+      "forms" : [ "距離", "範囲" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "2つ以上の物体の間の空間の長さ。物の長さには用いない。"
+      "text" : "2つ以上の物体の間の空間の長さを、特にある一点からの離れ具合として捉えた場合の長さのこと。物の長さには用いない。"
     }, {
       "title" : "語源",
-      "text" : "te+fi>"
+      "text" : "te+fi"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 3978,
+        "form" : "tedungi"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4745,
+        "form" : "tazma"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 4035,
@@ -86887,6 +86914,259 @@
     "contents" : [ {
       "title" : "語源",
       "text" : "hor+kuzave"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4741,
+      "form" : "tedungi encoskin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "半径" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4742,
+      "form" : "tedungi encoskin uivan"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "振幅" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "技術的な用語であり、一般には波高が使われる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 4744,
+        "form" : "tedaf uivan"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4743,
+      "form" : "tedaf"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "深さ", "深度" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "te+dafin"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4744,
+      "form" : "tedaf uivan"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "波高" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 4742,
+        "form" : "tedungi encoskin uivan"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4745,
+      "form" : "tazma"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "間隔" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "物体と物体の間の距離のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "te+azma"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4034,
+        "form" : "tevi"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 3978,
+        "form" : "tedungi"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4746,
+      "form" : "tazma varin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "輪距", "トレッド" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "左右の車輪間の距離のこと。典型的には車輪中心間の距離のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4752,
+        "form" : "tevato varnesforin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4747,
+      "form" : "tazma varnagnon"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "輪距", "ホイールベース" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "前後車軸間の距離のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4748,
+      "form" : "peib nigeruieomin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "ノズル" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "流体を加速させるための管路のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4751,
+        "form" : "peib nigerasuiomin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4749,
+      "form" : "nigeruieom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "流体を加速するもの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "nigere+uiee"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4750,
+      "form" : "nigerasuiom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "流体を減速させるもの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "nigere+asuie"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4751,
+      "form" : "peib nigerasuiomin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "ディフューザー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "流路を拡げることで流体を減速する管路のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4748,
+        "form" : "peib nigeruieomin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4752,
+      "form" : "tevato varnesforin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "トレッド", "トレッド幅", "タイヤ幅" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "タイヤを正面から見た場合の、接地面の幅のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4746,
+        "form" : "tazma varin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4753,
+      "form" : "varnesfor"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "タイヤ接地面", "トレッド" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "var+nesfor"
     } ],
     "variations" : [ ],
     "relations" : [ ]

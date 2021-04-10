@@ -87170,6 +87170,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4754,
+      "form" : "kocatgadie"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "歯磨きする", "歯を磨く" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "kocat+kadie"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

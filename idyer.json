@@ -11706,7 +11706,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "力をかけて自分から見て奥方向へ移動させること。ボタンを押す場合もボタンは奥側へ移動しているのでbozeで良い。回転扉を押す場合は厳密には物体全体の位置が移動しているわけではないが、間隔としては「扉が奥側に開いた」と認識されるため、bozeを用いてもよい。"
+      "text" : "力をかけて自分から見て奥方向へ移動させること。ボタンを押す場合もボタンは奥側へ移動しているのでbozeで良い。回転扉を押す場合は厳密には物体全体の位置が移動しているわけではないが、感覚としては「扉が奥側に開いた」と認識されるため、bozeを用いてもよい。"
     }, {
       "title" : "語源",
       "text" : "a"
@@ -15016,6 +15016,9 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "(どっしりとした横長の)土台", "台座", "ベース", "足場", "(家の)基礎" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(電算)プラットホーム", "プラットフォーム" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -38311,7 +38314,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "マイナスイメージのあるdirag。捨てて無駄になる空気、汚染された空気というイメージを含む。内燃機関からの排気はこちらを使うことが多い。"
+      "text" : "マイナスイメージのあるdirag。捨てて無駄になる空気、汚染された空気というイメージを含む。内燃機関の排気は価値判断に関わらずこちらを使うことが多い。"
     }, {
       "title" : "語源",
       "text" : "kar+ag"
@@ -78906,7 +78909,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "ボトル", "ビン", "瓶" ]
+      "forms" : [ "ボトル", "ビン", "瓶", "水筒" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -87186,6 +87189,158 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4755,
+      "form" : "dur sridin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "スライドドア", "引き戸" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4756,
+      "form" : "sridin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "スライド式の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4757,
+      "form" : "dur barin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "(手前に引く)引き戸" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "引いて開ける扉であることを明示する場合に使用する語。"
+    }, {
+      "title" : "文化",
+      "text" : "大抵の扉は手前か奥に押し引きして開ける扉であるため、わざわざこの語で明示されることは少ない。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4758,
+        "form" : "dur bozin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4758,
+      "form" : "dur bozin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "(奥に押し込むタイプの)押し戸" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "押して開ける扉であることを明示する場合に使用する語。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4757,
+        "form" : "dur barin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4759,
+      "form" : "dur mukian"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "巻き戸", "シャッター", "ロールカーテン", "鎧戸" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "巻き取って格納するタイプの扉のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4760,
+      "form" : "tedarar"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "可読性", "判読性", "読みやすさ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "文章や文字などがもつ性質としての、読むことができる度合いのこと。"
+    }, {
+      "title" : "語源",
+      "text" : "te+dare+arin"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4761,
+      "form" : "idoagzasom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "インテークマニホールド", "インマニ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "idoag+sase"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4762,
+        "form" : "karagenzasom"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4762,
+      "form" : "karagenzasom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "エキゾーストマニホールド", "エキマニ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "karag+enzase"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4761,
+        "form" : "idoagzasom"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

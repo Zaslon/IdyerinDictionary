@@ -3369,7 +3369,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "光ファイバー" ]
+      "forms" : [ "光ファイバーケーブル", "光ファイバー" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3380,7 +3380,25 @@
       "text" : "aker+fire"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 275,
+        "form" : "amuresk"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 1814,
+        "form" : "hamdura"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 1839,
+        "form" : "hiresk"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 182,
@@ -5160,7 +5178,13 @@
       "text" : "餃子の具や肉まんの具、砲弾の火薬や鉛筆の芯のような、詰められた物体のこと。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 181,
+        "form" : "akervire"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 276,
@@ -33525,7 +33549,13 @@
       "text" : "r"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 181,
+        "form" : "akervire"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 1815,
@@ -33995,7 +34025,13 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "着る物", "着物", "服", "洋服", "カバー", "外装", "コーティング", "被覆", "装備", "(書物の)表紙", "裏表紙", "(CDやDVDの)ジャケット" ]
+      "forms" : [ "着る物", "着物", "服", "洋服" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "カバー", "外装", "コーティング", "被覆", "装備" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(書物の)表紙", "裏表紙", "(CDやDVDの)ジャケット" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -34008,6 +34044,12 @@
       "entry" : {
         "id" : 3282,
         "form" : "ruk"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 181,
+        "form" : "akervire"
       }
     } ]
   }, {

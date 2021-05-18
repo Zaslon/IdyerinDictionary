@@ -9290,7 +9290,7 @@
       "text" : "ウォルフラムの直訳。"
     }, {
       "title" : "語源",
-      "text" : "badane+fansas>"
+      "text" : "badan+fansas>"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -24721,7 +24721,10 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "捕まえること", "キャッチ", "キャプチャー", "捕囚", "収監", "収容", "【俗】逮捕" ]
+      "forms" : [ "捕まえること", "キャッチ", "キャプチャー", "捕囚", "収監", "収容" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【俗】逮捕" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -27677,15 +27680,21 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "【数】関数" ]
+      "forms" : [ "機能" ]
     }, {
       "title" : "名詞",
-      "forms" : [ "機能" ]
+      "forms" : [ "【数】関数" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
+      "title" : "語法",
+      "text" : "ある目的をなすための、ひとかたまりの部分のこと。あるいは、そのようにみなした際の仮想の装置のこと。"
+    }, {
       "title" : "語源",
       "text" : "a"
+    }, {
+      "title" : "用例",
+      "text" : "fenzen dansenin|コンピュータ機能（機能としてコンピュータを担っている部分のこと）\ndansenis fenzen|コンピュータの機能（コンピュータが保有している機能のこと）"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -40089,7 +40098,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "【数】算術", "算数", "(読み書き算盤の)算盤", "そろばん" ]
+      "forms" : [ "【数】算術", "算数", "計算術", "計算" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -41154,12 +41163,15 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "【堅】逮捕", "拘束", "【軍】拿捕", "鹵獲", "捕獲", "拿獲" ]
+      "forms" : [ "【堅】逮捕する", "拘束する" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "【軍】拿捕する", "鹵獲する", "捕獲する", "拿獲する" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "国家権力が、実力行使をもって何かを高速すること。正式な用語。"
+      "text" : "国家権力が、実力行使をもって何かを拘束すること。正式な用語。"
     }, {
       "title" : "語源",
       "text" : "a>i.k"
@@ -50046,6 +50058,9 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "無秩序", "無規律", "無統制" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【機械】(モータの)脱調" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -87383,6 +87398,38 @@
         "form" : "idoagzasom"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 4763,
+      "form" : "kiupat'"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【堅】逮捕", "拘束" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【軍】拿捕", "鹵獲", "捕獲", "拿獲" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4764,
+      "form" : "kiupat'in"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "【堅】逮捕された", "拘束された" ]
+    }, {
+      "title" : "記述詞",
+      "forms" : [ "【軍】拿捕された", "鹵獲された", "捕獲された", "拿獲された" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

@@ -42742,7 +42742,7 @@
     },
     "translations" : [ {
       "title" : "間投詞",
-      "forms" : [ "【挨拶】ありがとう", "どうもありがとう", "有難う", "有り難う", "サンキュー" ]
+      "forms" : [ "【挨拶】ありがとう", "どうもありがとう", "有難う", "有り難う" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -42753,7 +42753,13 @@
       "text" : "*krom+*kis"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "省略",
+      "entry" : {
+        "id" : 4765,
+        "form" : "giska"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 2316,
@@ -48531,19 +48537,6 @@
     "translations" : [ {
       "title" : "動詞",
       "forms" : [ "潜む", "潜伏する", "隠れる" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 2635,
-      "form" : "mirgidone"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "(iuに)乗る" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -66607,7 +66600,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "星" ]
+      "forms" : [ "天体", "星" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -66672,10 +66665,13 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "(teを)(nirへ)大気圏突入させる", "再突入させる" ]
+      "forms" : [ "(対格を)(場所へ)大気圏突入させる", "再突入させる" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
+      "title" : "語法",
+      "text" : "対格を向格へ再突入させること。"
+    }, {
       "title" : "語源",
       "text" : "seti+doe"
     } ],
@@ -78884,7 +78880,10 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "(物を)挟む", "はさむ", "(人や計画を)板挟みにする" ]
+      "forms" : [ "(物を)挟む", "はさむ" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "(人や計画を)板挟みにする" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -87430,6 +87429,31 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4765,
+      "form" : "giska"
+    },
+    "translations" : [ {
+      "title" : "間投詞",
+      "forms" : [ "【挨拶】あり", "サンキュー", "ありがとう" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "krongiskaの砕けた言い方"
+    }, {
+      "title" : "語源",
+      "text" : "krongiska>"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "省略",
+      "entry" : {
+        "id" : 2315,
+        "form" : "krongiska"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

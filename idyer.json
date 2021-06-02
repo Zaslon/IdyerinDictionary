@@ -26787,10 +26787,13 @@
       "forms" : [ "ピストン" ]
     }, {
       "title" : "名詞",
-      "forms" : [ "往復便", "往還機(宇宙船)" ]
+      "forms" : [ "往復便", "往還機", "定期便" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
+      "title" : "語法",
+      "text" : "同じところで反復的な往復運動を繰り返す物体のこと。一般的には定期便をイメージするが、不定期に往復を繰り返す場合に対してこの単語を使うことは許容される。"
+    }, {
       "title" : "語源",
       "text" : "a>i.s"
     } ],
@@ -26812,7 +26815,7 @@
       "forms" : [ "ピストン式の" ]
     }, {
       "title" : "記述詞",
-      "forms" : [ "定期便の", "定期的な" ]
+      "forms" : [ "往復の", "定期便の", "定期的な" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -66715,7 +66718,7 @@
   }, {
     "entry" : {
       "id" : 3630,
-      "form" : "setivavareda"
+      "form" : "setivabareda"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -66724,7 +66727,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語源",
-      "text" : "seti+favareda"
+      "text" : "seti+fabareda"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -84241,44 +84244,6 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 4596,
-      "form" : "pam coda"
-    },
-    "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "母方の", "母に関する" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ {
-      "title" : "対義語",
-      "entry" : {
-        "id" : 4597,
-        "form" : "cok coda"
-      }
-    } ]
-  }, {
-    "entry" : {
-      "id" : 4597,
-      "form" : "cok coda"
-    },
-    "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "父方の", "父に関する" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ {
-      "title" : "対義語",
-      "entry" : {
-        "id" : 4596,
-        "form" : "pam coda"
-      }
-    } ]
-  }, {
-    "entry" : {
       "id" : 4598,
       "form" : "bebei"
     },
@@ -87452,6 +87417,76 @@
       "entry" : {
         "id" : 2315,
         "form" : "krongiska"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4766,
+      "form" : "den"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "走り", "走行", "ラン" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4767,
+      "form" : "den fasdenin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【運動】シャトルラン" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4768,
+      "form" : "cokzufin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "父方の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "cok+zuf"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4769,
+        "form" : "pamzufin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4769,
+      "form" : "pamzufin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "母方の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "pam+zuf"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4768,
+        "form" : "cokzufin"
       }
     } ]
   } ],

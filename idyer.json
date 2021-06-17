@@ -2196,7 +2196,7 @@
   }, {
     "entry" : {
       "id" : 119,
-      "form" : "Afr'ika envurin"
+      "form" : "Afr'ika Envurin"
     },
     "translations" : [ {
       "title" : "固有名詞",
@@ -15745,7 +15745,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 2011,
+        "form" : "itt"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 850,
@@ -37218,7 +37224,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "終了", "終結", "完結", "完了" ]
+      "forms" : [ "終了", "終結", "完結", "完了", "終端" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -37226,7 +37232,13 @@
       "text" : "動作の終結。中断ではなく終了することを指す。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 849,
+        "form" : "des"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 2012,
@@ -38797,7 +38809,7 @@
   }, {
     "entry" : {
       "id" : 2100,
-      "form" : "Karidona erdesan"
+      "form" : "Karidona Erdesan"
     },
     "translations" : [ {
       "title" : "固有名詞",
@@ -48981,7 +48993,13 @@
       "text" : "r"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 2663,
+        "form" : "misava"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 2663,
@@ -48997,7 +49015,7 @@
       "text" : "星と星の間の空間を指し、軌道上は基本的にイメージされない。定義上は軌道上も含む。"
     }, {
       "title" : "文化",
-      "text" : "宗教用語としての地獄の転用。無生物の死の空間をイメージする。"
+      "text" : "宗教用語としての地獄の転用。無生物の死の空間であることから、転じて宇宙のことを指す。"
     }, {
       "title" : "語源",
       "text" : "u"
@@ -49008,6 +49026,12 @@
       "entry" : {
         "id" : 2667,
         "form" : "misavavadis"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 2662,
+        "form" : "Misava"
       }
     } ]
   }, {
@@ -56826,7 +56850,7 @@
   }, {
     "entry" : {
       "id" : 3085,
-      "form" : "Papua Gvinea erdesan"
+      "form" : "Papua Gvinea Erdesan"
     },
     "translations" : [ {
       "title" : "固有名詞",
@@ -66060,7 +66084,10 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "【宗】【緯】涙の川", "【文】宇宙" ]
+      "forms" : [ "【宗】【緯】涙の川" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【文】宇宙" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -68637,7 +68664,13 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "(人や物を)(経路に従って)通す", "通過させる", "通行させる", "(橋を正規の方向に)渡らせる", "(時や季節が)流れる", "巡る", "廻る" ]
+      "forms" : [ "(人や物を)(経路に従って)通す", "通過させる", "通行させる" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "(橋を正規の方向に)渡らせる" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "(時や季節が)流れる", "巡る", "廻る" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -87489,6 +87522,75 @@
         "form" : "cokzufin"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 4770,
+      "form" : "desave"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "開始点", "開始場所", "スタート地点" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【運動】スタート地点" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【音】イントロ", "開幕部" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "des+ave"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4771,
+        "form" : "ittave"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4771,
+      "form" : "ittave"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "終端部", "末端", "ターミナル" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【音】終幕", "アウトロ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "itt+ave"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4770,
+        "form" : "desave"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4772,
+      "form" : "s'o fiatin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【緯】磁力靴", "磁石靴", "マグネットブーツ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "宇宙船内で空中に浮かび上がらないために装着する磁力式の靴のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

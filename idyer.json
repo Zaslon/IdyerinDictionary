@@ -2453,7 +2453,13 @@
       "text" : "ag+idoe+ve"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4774,
+        "form" : "aggarave"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 134,
@@ -17435,19 +17441,6 @@
     } ]
   }, {
     "entry" : {
-      "id" : 938,
-      "form" : "dirage"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "排気する" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
       "id" : 939,
       "form" : "diragrog"
     },
@@ -17458,7 +17451,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "あくまで排気筒の意味なので、もくもくと煙が立ち上っていなくてもdiragrogである。"
+      "text" : "排気に用いる塔のことなので、煙が立ち上っていなくても良い。"
     }, {
       "title" : "語源",
       "text" : "dirag+rog"
@@ -23878,7 +23871,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "参照",
+      "title" : "関連",
       "entry" : {
         "id" : 3239,
         "form" : "ridioveveom"
@@ -24382,12 +24375,6 @@
     "variations" : [ ],
     "relations" : [ {
       "title" : "対義語",
-      "entry" : {
-        "id" : 576,
-        "form" : "behin"
-      }
-    }, {
-      "title" : "参照",
       "entry" : {
         "id" : 576,
         "form" : "behin"
@@ -35245,7 +35232,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "内側に入ってくる気体のこと。吸気する行為は指さないのに注意。"
+      "text" : "内側に入ってくる気体のこと、あるいは吸気する行為のこと。"
     }, {
       "title" : "語源",
       "text" : "ido+ag"
@@ -35258,19 +35245,6 @@
         "form" : "dirag"
       }
     } ]
-  }, {
-    "entry" : {
-      "id" : 1900,
-      "form" : "idoage"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "吸気する" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
   }, {
     "entry" : {
       "id" : 1901,
@@ -38395,7 +38369,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "マイナスイメージのあるdirag。捨てて無駄になる空気、汚染された空気というイメージを含む。内燃機関の排気は価値判断に関わらずこちらを使うことが多い。"
+      "text" : "マイナスイメージのあるdirag。捨てて無駄になる空気、汚染された空気というイメージを含む。内燃機関の排気は非活性空気であることを明示するために、価値判断に関わらずこちらを使うことが多い。"
     }, {
       "title" : "語源",
       "text" : "kar+ag"
@@ -48610,28 +48584,6 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 2638,
-      "form" : "miridoe"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "(nirへ)入る" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語源",
-      "text" : "idoe>"
-    } ],
-    "variations" : [ ],
-    "relations" : [ {
-      "title" : "対義語",
-      "entry" : {
-        "id" : 943,
-        "form" : "dire"
-      }
-    } ]
   }, {
     "entry" : {
       "id" : 2639,
@@ -59678,18 +59630,24 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "ジェットエンジン" ]
+      "forms" : [ "噴流推進エンジン", "ジェットエンジン", "ロケットエンジン" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "噴流発動機のことなのでロケットエンジンも含みそうだが、実用上混ぜて得をしないので、ロケットエンジンはfaderveveomになっている。"
+      "text" : "噴流発動機のことなのでロケットエンジンも含む。ロケットエンジンのみを指す場合はfaderveveomを用いるが、この語で表しても間違いではない。"
     }, {
       "title" : "語源",
       "text" : "ridio+feveom"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 1286,
+        "form" : "faderveveom"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 3240,
@@ -87638,6 +87596,28 @@
       "entry" : {
         "id" : 1794,
         "form" : "guizunom"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4774,
+      "form" : "aggarave"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【機械】排気口", "イグゾースト", "アウトレット" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "ag+kare+ve"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 133,
+        "form" : "agidove"
       }
     } ]
   } ],

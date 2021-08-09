@@ -52560,7 +52560,7 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "(縄やロープや三つ編みを)(紐や髪の毛から)よる", "縒る", "撚る", "編む" ]
+      "forms" : [ "(縄やロープや三つ編みを)(紐や髪の毛から)よる", "縒る", "撚る", "ツイストする" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -87714,6 +87714,32 @@
       "title" : "語源",
       "text" : "nem+barki"
     } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4778,
+      "form" : "naskin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "よられた", "撚られた", "縒られた" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4779,
+      "form" : "fii peibin naskin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "ツイストペアケーブル", "撚り対線" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   } ],

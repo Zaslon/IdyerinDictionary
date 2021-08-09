@@ -14148,6 +14148,12 @@
         "id" : 2512,
         "form" : "mefae"
       }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 1165,
+        "form" : "entadabe"
+      }
     } ]
   }, {
     "entry" : {
@@ -21706,7 +21712,19 @@
       "text" : "enta+dabe"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 2512,
+        "form" : "mefae"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 761,
+        "form" : "dabe"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 1166,
@@ -40509,7 +40527,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "針", "トゲ", "棘", "スパイク", "(固定用の)ピン" ]
+      "forms" : [ "針", "トゲ", "棘", "スパイク", "(固定用の)ピン", "串" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -46406,6 +46424,12 @@
       "entry" : {
         "id" : 112,
         "form" : "affae"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 1165,
+        "form" : "entadabe"
       }
     } ]
   }, {
@@ -87670,6 +87694,28 @@
         "form" : "niruerte"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 4777,
+      "form" : "nembarki"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "金網" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "焼き網", "グリル" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "金属製の網のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "nem+barki"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

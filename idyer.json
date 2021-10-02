@@ -23195,6 +23195,9 @@
     "contents" : [ {
       "title" : "語法",
       "text" : "システムとしての言語を指す。発話内容自体を指す場合はtiresk。"
+    }, {
+      "title" : "用例",
+      "text" : "Etube angrian ef sien res 1s etube.|英語は私の第一言語ではありません。"
     } ],
     "variations" : [ ],
     "relations" : [ {

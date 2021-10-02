@@ -87822,6 +87822,54 @@
         "form" : "fadeae"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 4782,
+      "form" : "daben"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "リボン", "テープ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "細長く薄い帯状のもの。"
+    }, {
+      "title" : "語源",
+      "text" : "r"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4783,
+      "form" : "dabenanserin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "リボン状の", "帯状の", "テープ状の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "daben+anserin"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4784,
+      "form" : "mukiaom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "巻き取り装置", "リール", "巻き芯" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

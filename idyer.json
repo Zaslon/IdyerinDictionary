@@ -34361,7 +34361,13 @@
       "text" : "英語のABC、日本語のいろはに相当。発音はhekeseである。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4785,
+        "form" : "makudi HKSn"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 1854,
@@ -87870,6 +87876,28 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4785,
+      "form" : "makudi HKSn"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "HKS順" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "英語のABC順、日本語のあいうえお順に対応するイジェール語にとっての順序のこと。公式に定められた順序はeaoiuhkstcnrmpfgzdbvである。変音記号は無視されるため、teh、t'ek、tesはこの順に並ぶ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 1853,
+        "form" : "HKS"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

@@ -32631,7 +32631,10 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "消す", "オフにする", "(可逆的な)不使用状態にする", "不活性化する", "無効化する", "シャットダウンする", "閉じる", "収納する", "格納する", "【軍】無力化する" ]
+      "forms" : [ "消す", "オフにする", "(可逆的な)不使用状態にする", "不活性化する", "無効化する", "シャットダウンする", "閉じる", "収納する", "格納する" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "【軍】無力化する" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -79007,10 +79010,13 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "トング", "ピンセット" ]
+      "forms" : [ "プライヤー", "トング", "ピンセット", "ペンチ" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "挟む工具全般のこと。構造ではなく目的を基にした造語であるため、挟む構造であってもニッパーや鋏を含まない。"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -87898,6 +87904,51 @@
         "form" : "HKS"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 4786,
+      "form" : "asuiusemaom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "ブレーキキャリパー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "asui+usemae"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4787,
+      "form" : "asuiom sekdaadun"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "ディスクブレーキ", "ディスク式ブレーキ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "ブレーキ装置のうち、制動にディスクを用いる物のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4788,
+      "form" : "asuiom peibin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "ドラムブレーキ", "ドラム式ブレーキ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

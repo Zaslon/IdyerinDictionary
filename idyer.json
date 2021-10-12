@@ -58484,7 +58484,13 @@
       "text" : "*rar+senda>"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4790,
+        "form" : "raruiva"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 3172,
@@ -85811,7 +85817,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "非破壊的な方法で小さい形状にすること。"
+      "text" : "折ることで小さい形状にすること。"
     }, {
       "title" : "語源",
       "text" : "a>i.t"
@@ -86699,7 +86705,7 @@
     },
     "translations" : [ {
       "title" : "記述詞",
-      "forms" : [ "巻かれた", "巻き取られた", "巻取り式の", "ロールした", "スクロール式の" ]
+      "forms" : [ "巻かれた", "巻き取られた" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -87987,6 +87993,82 @@
     } ],
     "tags" : [ ],
     "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4790,
+      "form" : "raruiva"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "(波状の)ノイズ", "乱れ", "雑音" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "悪い影響を与える波のこと。雑音という表現は音に限定した造語であるが、raruivaは波状のエネルギーであれば音に限定せずに用いることができる。"
+    }, {
+      "title" : "語源",
+      "text" : "rar+uiva"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 3171,
+        "form" : "rarenda"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4791,
+      "form" : "eiditte"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "崖", "絶壁", "断崖" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "大地や山や島の終端部で、垂直に切り立った部分の垂直面周辺の一部を指す語。"
+    }, {
+      "title" : "語源",
+      "text" : "eid+itte"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4792,
+      "form" : "furararin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "折り畳み式の", "折り畳み可能な" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "furare+arin"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4793,
+      "form" : "sodarin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "巻取り式の", "ロールした", "スクロール式の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "sodae+rin"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   } ],

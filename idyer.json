@@ -50506,17 +50506,14 @@
   }, {
     "entry" : {
       "id" : 2735,
-      "form" : "morekradevoz"
+      "form" : "tevoz morekran"
     },
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "【化】分子量" ]
     } ],
     "tags" : [ ],
-    "contents" : [ {
-      "title" : "語源",
-      "text" : "morekra+tevoz"
-    } ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -88069,6 +88066,19 @@
       "title" : "語源",
       "text" : "sodae+rin"
     } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4794,
+      "form" : "morekran"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "分子に関する", "分子の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   } ],

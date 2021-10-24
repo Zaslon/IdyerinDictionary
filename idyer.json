@@ -11163,7 +11163,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "【生】コウモリ" ]
+      "forms" : [ "【生】コウモリ", "蝙蝠" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -36991,7 +36991,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "年", "イヤー" ]
+      "forms" : [ "年" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -38125,7 +38125,10 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "辞書", "辞典", "国語辞典", "字引き", "【言】レキシコン", "語彙", "語彙目論" ]
+      "forms" : [ "辞書", "辞典", "国語辞典", "字引き" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【言】レキシコン", "語彙", "語彙目論" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -81721,7 +81724,13 @@
       "text" : "en:UFO"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "省略",
+      "entry" : {
+        "id" : 4798,
+        "form" : "venu fadean mozeenin"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 4449,
@@ -88076,6 +88085,86 @@
     "translations" : [ {
       "title" : "記述詞",
       "forms" : [ "分子に関する", "分子の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4795,
+      "form" : "zarurkir edan"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "図鑑", "図説本" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "イラストによる解説をまとめた書物のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4796,
+      "form" : "moerogin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "冷静な", "落ち着いた", "興奮していない" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "mo+erogin"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4797,
+      "form" : "Hr'istosa-iri"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "西暦" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "キリストの誕生年を基準とした歴による年のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4798,
+      "form" : "venu fadean mozeenin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【俗】UFO", "ユーフォー", "未確認飛行物体" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "省略",
+      "entry" : {
+        "id" : 4448,
+        "form" : "VFM"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4799,
+      "form" : "deanin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "(修飾対象が)基準の", "標準の", "比較対象となった" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],

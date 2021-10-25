@@ -88170,6 +88170,53 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4800,
+      "form" : "akerziskaomin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "光を通す", "透明な", "半透明な", "透けている", "透けた" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "光が透けて裏側が見える状態であること。"
+    }, {
+      "title" : "語源",
+      "text" : "aker+siskae"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4801,
+        "form" : "amakerziskaomin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4801,
+      "form" : "amakerziskaomin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "光を通さない", "不透明な", "不透明の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "am+akerziskaomin"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4800,
+        "form" : "akerziskaomin"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

@@ -7655,7 +7655,13 @@
       "text" : "年代モノという意味ではなく、歴史に関わるということ。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4804,
+        "form" : "amzikin"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 413,
@@ -88304,6 +88310,31 @@
       "entry" : {
         "id" : 3821,
         "form" : "srebazuf"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4804,
+      "form" : "amzikin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "(放送や演奏が)生の", "ライブの", "録画ではない", "録音ではない" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "記録物ではなく、視聴時に演じられていること。記録性の有無に焦点を当てている。"
+    }, {
+      "title" : "語源",
+      "text" : "am+zik"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 412,
+        "form" : "asderin"
       }
     } ]
   } ],

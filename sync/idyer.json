@@ -44006,7 +44006,10 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "日々", "毎日", "(比喩)日常" ]
+      "forms" : [ "日々", "毎日" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(比喩的に)日常" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -44091,7 +44094,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "孤独な状態にすること。物に対して使うと、分けておくことになる。"
+      "text" : "人や物を周囲から隔絶された状態にすること。価値判断は中立で、必ずしもマイナスイメージを含意するわけではない。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -44103,11 +44106,23 @@
     "translations" : [ {
       "title" : "記述詞",
       "forms" : [ "孤独な", "孤独に", "ひとりで", "ひとりの", "ひとりぼっちで", "ひとりぼっちの", "隔離された", "放置された", "分けられた", "避けられた" ]
+    }, {
+      "title" : "記述詞",
+      "forms" : [ "単独の", "単一の", "分離された", "単離状態の" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "2. 一連の、複数で構成された、密結合の、などに対しての対義語としての単独状態を指す。"
+    } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4549,
+        "form" : "zufin"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 2385,
@@ -70404,6 +70419,9 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "【音】(1曲としての)組曲" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【音】アルバム構成曲", "アルバム曲" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -70487,11 +70505,14 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "【音】組曲" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【音】(特にポップスの)アルバム" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "曲を複数まとめたもののこと。従って、曲の集合であって、srebazuf自体は曲ではない。組曲として編集され、一曲として完成されたものはsrebaesk zufinである。"
+      "text" : "曲を複数まとめたもののこと。従って、曲の集合であって、srebazuf自体は曲ではない。組曲として編集され、一曲として完成されたものはsrebaesk zufinであるが、anarogzrebaeskとの差ははっきりしない。"
     }, {
       "title" : "語源",
       "text" : "srebae+zuf"
@@ -70502,6 +70523,18 @@
       "entry" : {
         "id" : 3816,
         "form" : "srebaesk zufin"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4802,
+        "form" : "anarogzrebaesk"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4803,
+        "form" : "srebaesk madorin"
       }
     } ]
   }, {
@@ -83571,7 +83604,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 2384,
+        "form" : "madorin"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 4550,
@@ -88221,6 +88260,50 @@
       "entry" : {
         "id" : 4800,
         "form" : "akerziskaomin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4802,
+      "form" : "anarogzrebaesk"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【音】メドレー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "複数の楽曲を連続的に演奏したもののこと。"
+    }, {
+      "title" : "語源",
+      "text" : "anaroge+srebae"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 3821,
+        "form" : "srebazuf"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4803,
+      "form" : "srebaesk madorin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【音】シングル曲" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 3821,
+        "form" : "srebazuf"
       }
     } ]
   } ],

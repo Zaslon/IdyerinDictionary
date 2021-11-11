@@ -6702,7 +6702,10 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "昨日", "(比喩)過去", "歴史" ]
+      "forms" : [ "昨日" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(比喩的に)過去", "歴史" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -14839,6 +14842,9 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "今日" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(比喩的に)現代", "今" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -22587,7 +22593,10 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "正面", "【軍】戦線", "前線", "正面" ]
+      "forms" : [ "正面" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【軍】戦線", "前線", "正面" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -46335,12 +46344,15 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "奉納", "献身" ]
+      "forms" : [ "奉納" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "献身" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "もともとは捧げられることそのものを指す語だが、あまりに使用頻度頻度が低いため、もっと頻度の高い献身の意味を吸収した。"
+      "text" : "もともとは捧げられることそのものを指す語だが、使用頻度頻度が低いため、頻度の高い献身の意味を吸収した。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -55049,7 +55061,10 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "明日", "(比喩)未来", "将来" ]
+      "forms" : [ "明日" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(比喩的に)未来", "将来" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -67426,7 +67441,7 @@
     },
     "translations" : [ {
       "title" : "記述詞",
-      "forms" : [ "【前置】?ではない", "?ない" ]
+      "forms" : [ "【前置】ではない", "ない" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -88548,6 +88563,118 @@
         "form" : "Stiahaze"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 4812,
+      "form" : "got'in"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "(出来事や物体が)不気味な", "気味が悪い", "薄気味悪い", "吐き気を催す" ]
+    }, {
+      "title" : "記述詞",
+      "forms" : [ "不潔な", "不浄な", "不快な", "汚い", "汚らわしい" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "1. 底知れぬ恐怖や、正体不明の原因により不快で不愉快な出来事が起こることを嫌悪するさま。\n2. 1と同様に不明確な要因により不快感を催すほど汚れていたり、堕落したりしているさま。"
+    }, {
+      "title" : "語源",
+      "text" : "r"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4813,
+      "form" : "kromsande"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "(人を)(行為に)誘惑する", "引き寄せる", "おびき寄せる", "手繰り寄せる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "対格を与格の行為や場所に引き寄せること。相手の意思を誘導して、望んでそうするように仕向けること。"
+    }, {
+      "title" : "語源",
+      "text" : "*krom+*sand"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4814,
+      "form" : "kromsand"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "誘惑", "(比喩的に)罠" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4815,
+      "form" : "kromsandin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "(人が)誘惑された", "仕向けられた", "心惹かれている" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4816,
+      "form" : "murue"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "(人を)(場所から)迷わせる", "迷子にさせる", "惑わせる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "対格を奪格から現在地不明、あるいは目的地不明な状態にすること。"
+    }, {
+      "title" : "語源",
+      "text" : "r"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4817,
+      "form" : "muru"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "迷子", "迷走" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4818,
+      "form" : "murun"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "(人が)迷子の", "迷子になった", "道に迷った" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

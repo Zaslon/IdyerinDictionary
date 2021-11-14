@@ -64798,7 +64798,10 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "導き", "指導", "案内", "【軍】誘導" ]
+      "forms" : [ "導き", "指導", "案内" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【軍】誘導" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -65183,6 +65186,9 @@
     "translations" : [ {
       "title" : "動詞",
       "forms" : [ "(人", "物", "計画等を)導く", "指導する", "案内する", "従わせる", "教える" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "【軍】(ミサイルなどの物体を)(攻撃対象や地点に)誘導する" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -88670,6 +88676,122 @@
     "translations" : [ {
       "title" : "記述詞",
       "forms" : [ "(人が)迷子の", "迷子になった", "道に迷った" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4819,
+      "form" : "martin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "陳列された", "展示された", "上映された", "上映中の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4820,
+      "form" : "semin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "導かれた", "案内された" ]
+    }, {
+      "title" : "記述詞",
+      "forms" : [ "【軍】誘導式の", "誘導された" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4821,
+      "form" : "terie"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "(物や案や人を)(人や組織に)審議にかける", "提案する", "奏上する", "提示する", "プレゼンする" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "対格を与格に対して提案すること。与格には合否や可否を判断する権限者をとる。"
+    }, {
+      "title" : "語源",
+      "text" : "r.i"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4822,
+      "form" : "terin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "審議にかけられた", "提案された", "提案中の", "奏上された", "提示された" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "審議対象となっているもののこと。過去であることを明示せず、単体で用いられるときは審議にかけられている最中であることが含意される。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4823,
+      "form" : "teriesk"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "審議対象", "提案", "提示物", "プレゼンテーション" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4824,
+      "form" : "teriom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "提案者", "提示者", "プレゼンター" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4825,
+      "form" : "teri"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "審議", "提案", "提示", "プレゼンテーション" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4826,
+      "form" : "vazen terin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "提示案", "提案", "プレゼンテーション" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],

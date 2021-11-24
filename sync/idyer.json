@@ -80727,7 +80727,10 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "模擬戦", "練習試合", "【軍】演習" ]
+      "forms" : [ "模擬戦", "練習試合" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【軍】演習", "軍事演習" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -83379,12 +83382,15 @@
     },
     "translations" : [ {
       "title" : "記述詞",
-      "forms" : [ "【電算】リアルタイムの", "リアルタイム処理の", "実時間処理の", "同時処理の", "同時進行の" ]
+      "forms" : [ "実時間処理の", "同時処理の", "同時進行の" ]
+    }, {
+      "title" : "記述詞",
+      "forms" : [ "【電算】リアルタイムの", "リアルタイム処理の" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "専らゲームやコンピュータに対して用いる語。離散的であったり、ターン制ではなく、処理と同時に処理対象も進行する様子であること。"
+      "text" : "1. 離散的であったり、ターン制ではなく、処理と同時に処理対象も進行する様子であること。\n2. 計算機やシステムが、処理を一定時間内に終了することが保証される性質を有していること。"
     }, {
       "title" : "語源",
       "text" : "zik+anaroge"
@@ -88998,6 +89004,129 @@
       "entry" : {
         "id" : 4833,
         "form" : "veeszerkura"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4835,
+      "form" : "veesvire"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "側道", "バイパス", "付加車線", "(鉄道の)側線" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "道に沿って設けられた道のこと。主となる路線を補助するために設けられた道を指し、迂回路や抜け道を含まない。"
+    }, {
+      "title" : "語源",
+      "text" : "vees+fire"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4836,
+        "form" : "miavire"
+      }
+    }, {
+      "title" : "参考",
+      "entry" : {
+        "id" : 4840,
+        "form" : "tans'anvire"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4836,
+      "form" : "miavire"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "(側道に対しての)本線", "幹線" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "mia+fire"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4835,
+        "form" : "veesvire"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4837,
+      "form" : "tans'ane"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "(人や車を)(道に)迂回させる", "遠回りさせる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "対格を、与格に向かわせて迂回させること。迂回の際に通る経路を経由格で指定しても良い。人を主語とした場合は、何らかの原因で迂回する決断をしたことを表し、原因を主語とした場合は、アクシデントなどで迂回を余儀なくされたことを示す。"
+    }, {
+      "title" : "語源",
+      "text" : "r"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4838,
+      "form" : "tans'an"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "迂回", "遠回り" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "何らかの要因により別ルートを選択すること。寄り道のニュアンスは無い。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4839,
+      "form" : "tans'anin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "(人や車が)迂回させられた", "遠回りしている" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4840,
+      "form" : "tans'anvire"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "迂回路", "別ルート", "(バイパス手術などの)バイパス" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "tans'an+fire"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参考",
+      "entry" : {
+        "id" : 4835,
+        "form" : "veesvire"
       }
     } ]
   } ],

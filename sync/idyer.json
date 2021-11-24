@@ -47722,6 +47722,9 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
+      "title" : "語法",
+      "text" : "主要部を構成することを強調する接頭辞。ek-は上下関係の含意が強いが、mia-は上下関係よりも主か補助かという観点が強い。"
+    }, {
       "title" : "語源",
       "text" : "mian>"
     } ],
@@ -83870,7 +83873,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "補助動力装置", "ＡＰＵ" ]
+      "forms" : [ "補助動力装置", "APU" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -88897,6 +88900,106 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4831,
+      "form" : "invamin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "密度の高い", "密な" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "構成要素が隙間なくびっしりと詰まっている様。均一である必要はなく、充填されている物体が単体である必要もない。"
+    }, {
+      "title" : "語源",
+      "text" : "tinvam>"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4832,
+        "form" : "moinvamin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4832,
+      "form" : "moinvamin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "密度が低い", "疎な", "スカスカな" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "構成要素がかなり隙間のある状態で充填されている様。"
+    }, {
+      "title" : "語源",
+      "text" : "mo+invamin"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4831,
+        "form" : "invamin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4833,
+      "form" : "veeszerkura"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "補機", "付属機器", "周辺機器", "モジュール" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "機械に付属するモジュールのことで、主たる目的に直接寄与することなく、主機の動作を維持するために存在する機器のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "vees+serkura"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4834,
+        "form" : "miazerkura"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4834,
+      "form" : "miazerkura"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "主機", "(機械や装置の)本体" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "装置の内、主たる目的のために稼働する部分のこと。特にveeszerkuraの対になる概念として言及される。"
+    }, {
+      "title" : "語源",
+      "text" : "mia+serkura"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4833,
+        "form" : "veeszerkura"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

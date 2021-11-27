@@ -89218,6 +89218,12 @@
         "id" : 4846,
         "form" : "Nis'ero"
       }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4848,
+        "form" : "Tarzane"
+      }
     } ]
   }, {
     "entry" : {
@@ -89254,6 +89260,12 @@
       "entry" : {
         "id" : 4846,
         "form" : "Nis'ero"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4848,
+        "form" : "Tarzane"
       }
     } ]
   }, {
@@ -89311,6 +89323,12 @@
         "id" : 4847,
         "form" : "Akera"
       }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4848,
+        "form" : "Tarzane"
+      }
     } ]
   }, {
     "entry" : {
@@ -89332,6 +89350,46 @@
       "entry" : {
         "id" : 4846,
         "form" : "Nis'ero"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4848,
+      "form" : "Tarzane"
+    },
+    "translations" : [ {
+      "title" : "固有名詞",
+      "forms" : [ "【宗】【緯】三神" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "アルザフィーレ教における神、アランルーティ、ティターフェイ、ニスィエーロの三柱のこと。"
+    }, {
+      "title" : "文化",
+      "text" : "アルザフィーレ教において、神聖な存在は神以外にも存在するが、Sane|神と呼ばれる存在はこの三神のみである。三神に言及するとき、その順序は通例アランルーティがはじめであり、その後の二柱はどちらを先にするかの決まりはない。"
+    }, {
+      "title" : "語源",
+      "text" : "tar+sane"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4843,
+        "form" : "Aranruti"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4846,
+        "form" : "Nis'ero"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4844,
+        "form" : "Tita'fei"
       }
     } ]
   } ],

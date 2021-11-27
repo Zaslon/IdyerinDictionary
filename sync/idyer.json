@@ -39889,7 +39889,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "蓋", "フタ" ]
+      "forms" : [ "蓋", "フタ", "プラグ", "栓" ]
     }, {
       "title" : "名詞",
       "forms" : [ "【服飾】帽子", "ぼうし", "笠", "傘" ]
@@ -84577,7 +84577,7 @@
         "form" : "ciha"
       }
     }, {
-      "title" : "対義語",
+      "title" : "関連",
       "entry" : {
         "id" : 4601,
         "form" : "ras'a"
@@ -89392,6 +89392,57 @@
         "form" : "Tita'fei"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 4849,
+      "form" : "fanfagep"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "点火プラグ", "スパークプラグ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "点火させるためのプラグのこと。火花点火式に限らない。"
+    }, {
+      "title" : "語源",
+      "text" : "fanfae+kep"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4850,
+      "form" : "ega"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "火花", "スパーク", "フラッシュ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "物体同士の接触や放電現象によって発生する火の粉のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "r"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4851,
+      "form" : "fanfagep egan"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "スパークプラグ", "火花点火プラグ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

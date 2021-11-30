@@ -89222,7 +89222,7 @@
       "title" : "関連",
       "entry" : {
         "id" : 4848,
-        "form" : "Tarzane"
+        "form" : "Tarzari"
       }
     } ]
   }, {
@@ -89265,7 +89265,7 @@
       "title" : "関連",
       "entry" : {
         "id" : 4848,
-        "form" : "Tarzane"
+        "form" : "Tarzari"
       }
     } ]
   }, {
@@ -89327,7 +89327,7 @@
       "title" : "関連",
       "entry" : {
         "id" : 4848,
-        "form" : "Tarzane"
+        "form" : "Tarzari"
       }
     } ]
   }, {
@@ -89355,7 +89355,7 @@
   }, {
     "entry" : {
       "id" : 4848,
-      "form" : "Tarzane"
+      "form" : "Tarzari"
     },
     "translations" : [ {
       "title" : "固有名詞",
@@ -89370,7 +89370,7 @@
       "text" : "アルザフィーレ教において、神聖な存在は神以外にも存在するが、Sane|神と呼ばれる存在はこの三神のみである。三神に言及するとき、その順序は通例アランルーティがはじめであり、その後の二柱はどちらを先にするかの決まりはない。"
     }, {
       "title" : "語源",
-      "text" : "tar+sane"
+      "text" : "tar+sari"
     } ],
     "variations" : [ ],
     "relations" : [ {

@@ -39126,7 +39126,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "建築物の蓋となる構造物のこと。物理的な構造としてになっている部分のことを指すため、最上階のkas'は「屋上」になる。日本語と同様、2階のkas'は3階のnas'である。"
+      "text" : "建築物の蓋となる構造物のこと。物理的な構造として蓋になっている部分のことを指すため、最上階のkas'は「屋上」になる。日本語と同様、2階のkas'は3階のnas'である。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -59805,6 +59805,12 @@
       "entry" : {
         "id" : 1286,
         "form" : "faderveveom"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4860,
+        "form" : "feveom engukiretigin"
       }
     } ]
   }, {
@@ -88526,6 +88532,12 @@
         "id" : 3837,
         "form" : "Stiahaze"
       }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4852,
+        "form" : "rige'ria"
+      }
     } ]
   }, {
     "entry" : {
@@ -89443,6 +89455,183 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4852,
+      "form" : "rige'ria"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "レガリア" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "王権を象徴する物品のこと。"
+    }, {
+      "title" : "文化",
+      "text" : "イジェール王国においてはHazeを指す。"
+    }, {
+      "title" : "語源",
+      "text" : "en"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4808,
+        "form" : "Haze"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4853,
+      "form" : "keza"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "はりだし部", "突起", "フランジ", "凸部" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(帽子の)つば", "(家の)軒" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "周辺と比較して飛び出している部分のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "a"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4854,
+      "form" : "kukire"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "【堅】(力や圧力や電圧や信号を)印加する", "かける", "作用する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "r>a.t"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4855,
+      "form" : "kukir"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "印加", "作用" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4856,
+      "form" : "kukirin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "(力や圧力や電圧や信号が)印加された", "作用している" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "印加先ではなく、印加されたものを修飾対象とする。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4857,
+      "form" : "kukiretig"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【物】作用力" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "kukir+etig"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4858,
+        "form" : "engukiretig"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4858,
+      "form" : "engukiretig"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【物】反作用力", "反力", "反動" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "専門用語としての反作用力と、一般用語としての反動の双方を指す。"
+    }, {
+      "title" : "語源",
+      "text" : "en+kukiretig"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4857,
+        "form" : "kukiretig"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4859,
+      "form" : "engukiretigin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "反動式の", "反動に関する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4860,
+      "form" : "feveom engukiretigin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "反動式エンジン" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "物体を後方に射出し、その反作用を利用する推進機のこと。ジェットエンジンは下位分類であり、反動式エンジンと同一の存在ではないが、現実的には連続的に反動を生み出すためには噴流を射出する必要があるため、同一視されることも多い。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 3239,
+        "form" : "ridioveveom"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

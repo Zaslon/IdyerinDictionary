@@ -12492,10 +12492,13 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "波" ]
+      "forms" : [ "(液体の)波" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "uivaのみでも波だが、特に電磁波や圧力波ではないことを明示する必要がある際にこう呼ぶ。"
+    } ],
     "variations" : [ ],
     "relations" : [ {
       "title" : "参照",
@@ -44400,7 +44403,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "(非定常な)振動", "バイブレーション", "ヴァイブレーション" ]
+      "forms" : [ "(非定常な)振動", "揺れ", "バイブレーション", "ヴァイブレーション" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -78512,7 +78515,13 @@
       "text" : "a>i.k"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 670,
+        "form" : "butauiva"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 4261,
@@ -89731,6 +89740,35 @@
         "form" : "taker"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 4864,
+      "form" : "tei uivan"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "波長" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4865,
+      "form" : "tege orezin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "周波数", "振動数" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "周期的に繰り返す波の単位時間当たり回数のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

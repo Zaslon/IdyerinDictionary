@@ -65801,7 +65801,7 @@
   }, {
     "entry" : {
       "id" : 3568,
-      "form" : "sendas tei"
+      "form" : "tei sendan"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -73494,10 +73494,7 @@
       "forms" : [ "直径", "ダイアメーター", "径" ]
     } ],
     "tags" : [ ],
-    "contents" : [ {
-      "title" : "語源",
-      "text" : "sekda+tedungi"
-    } ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -73788,11 +73785,14 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "高度", "標高", "高さ", "アルティチュード" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(波長の)長さ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "基準点や基準面からの垂直方向の距離のこと。"
+      "text" : "1. 基準点や基準面からの垂直方向の距離のこと。\n2. 波長の高低の度合いのこと。"
     }, {
       "title" : "語源",
       "text" : "t+ein"
@@ -89645,6 +89645,90 @@
       "entry" : {
         "id" : 3239,
         "form" : "ridioveveom"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4861,
+      "form" : "tegere"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "彩度", "サチュレーション" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "te+gere"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4862,
+        "form" : "taker"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4863,
+        "form" : "tei geren"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4862,
+      "form" : "taker"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "明るさ" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "明度" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "te+akerin"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4861,
+        "form" : "tegere"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4863,
+        "form" : "tei geren"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4863,
+      "form" : "tei geren"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "色相", "ヒュー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4861,
+        "form" : "tegere"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4862,
+        "form" : "taker"
       }
     } ]
   } ],

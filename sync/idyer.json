@@ -89769,6 +89769,35 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4866,
+      "form" : "nuhise"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "(金銭を)(対象に)賭ける", "ベットする" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "対格を掛け金として、与格に賭けること。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4867,
+      "form" : "nuhisesk"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "賭け金" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

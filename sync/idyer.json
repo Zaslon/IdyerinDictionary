@@ -16529,7 +16529,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4876,
+        "form" : "endicin"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 884,
@@ -16802,7 +16808,13 @@
       "text" : "ding+peib"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "省略",
+      "entry" : {
+        "id" : 3097,
+        "form" : "peib"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 899,
@@ -40130,13 +40142,19 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "入力装置を兼ねる画面のこと。"
+      "text" : "入力装置を兼ねる画面のこと。入力方式がタッチに限定されているわけではないため、液晶タブレットも含む。"
     }, {
       "title" : "語源",
       "text" : "kere+marat"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4869,
+        "form" : "marat abageren"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 2167,
@@ -57196,7 +57214,10 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "パイプ", "チューブ", "ケーブル", "コード", "筒" ]
+      "forms" : [ "パイプ", "チューブ", "(両端が開放されている)筒" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(電気用の)ケーブル", "コード" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -57207,7 +57228,13 @@
       "text" : "r"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "省略",
+      "entry" : {
+        "id" : 898,
+        "form" : "dingbeib"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 3098,
@@ -71641,11 +71668,20 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
+      "title" : "語法",
+      "text" : "はやさの度合い。"
+    }, {
       "title" : "語源",
       "text" : "r"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4168,
+        "form" : "tuie"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 3876,
@@ -76821,7 +76857,13 @@
       "text" : "はやくする度合い。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 3875,
+        "form" : "sugra"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 4169,
@@ -89798,6 +89840,203 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4868,
+      "form" : "abageren"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "指操作式の", "タッチ操作の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "aba+kere"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4869,
+      "form" : "marat abageren"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【電算】タッチパネル" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "入力装置を兼ねる画面のうち、特に指で操作するもののこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 2166,
+        "form" : "kermarat"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4870,
+      "form" : "manoe"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "(人や動物や組織を)律する", "統制する", "管理する", "管理する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "対格を規律正しい状態にすること。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4871,
+      "form" : "manoom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "統制者", "律する者" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【機械】レギュレーター", "ガバナー", "調整装置" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "2. 圧力や速度を一定の状態に調整する装置のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4872,
+      "form" : "sugran"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "速さに関する", "早さに関する", "速度に関する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4873,
+      "form" : "manoom sugran"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【機械】調速機", "ガバナー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "速度を調整する装置のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4874,
+      "form" : "semadiragin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "断熱の", "耐熱性の", "熱耐性のある" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "熱に対しての防衛がなされている状態。熱の伝播そのものを遮断する断熱なのか、高熱でも影響がないように作られている耐熱性なのかは、この語からは判別できない。"
+    }, {
+      "title" : "語源",
+      "text" : "sema+tirage"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4875,
+      "form" : "semadiragvansas"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "断熱材", "耐熱材料" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "sema+tirage+fansas"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4876,
+      "form" : "endicin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "整列していない", "非整列の", "まっすぐではない" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "en+dic"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 883,
+        "form" : "dicin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4877,
+      "form" : "dingbeib endicin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【電算】クロスケーブル" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4878,
+        "form" : "dingbeib dicin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4878,
+      "form" : "dingbeib dicin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【電算】ストレートケーブル" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4877,
+        "form" : "dingbeib endicin"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

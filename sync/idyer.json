@@ -90052,6 +90052,22 @@
         "form" : "dingbeib endicin"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 4879,
+      "form" : "veesin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "たかが～", "せいぜい", "精々", "～如き", "～風情" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "修飾対象を蔑むために用いる強意の記述詞。副詞用法としても用いた場合、修飾対象の動作に意義を感じていないことや、修飾対象の行為を蔑んでいることを表す。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

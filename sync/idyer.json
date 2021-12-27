@@ -43389,7 +43389,7 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "尖らせる", "研ぐ" ]
+      "forms" : [ "尖らせる", "研ぐ", "砥ぐ" ]
     }, {
       "title" : "動詞",
       "forms" : [ "(武器を)戦闘状態にする", "準備する" ]
@@ -75066,7 +75066,13 @@
       "text" : "a"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4883,
+        "form" : "tiiraker"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 4064,
@@ -79850,7 +79856,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "形を持ったもの、持たないもの、命あるもの、ないものに関わらず加工して作る事。設計や計画段階も含むが、詳細に述べたい時はそれらに対応する語を用いる。なにもないところから生み出す場合はdeiveを用いる。"
+      "text" : "形を持ったもの、持たないもの、命あるもの、ないものに関わらず加工して作る事。設計や計画段階も含むが、詳細に述べたい時はそれらに対応する語を用いる。なにもないところから生み出す場合はdeiveを用いるが、現実的に純粋に無から何かを生み出すことはできないため、殆どの場合はvameを用いれば良い。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -90107,6 +90113,76 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4880,
+      "form" : "veesgarre"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "(物体を)磨く", "研磨する", "砥ぐ", "研ぐ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "対格をわずかに削ることで、その表面性状を改質すること。"
+    }, {
+      "title" : "語源",
+      "text" : "vees+karre"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4881,
+      "form" : "veesgarr"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "磨くこと", "磨き", "研磨" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4882,
+      "form" : "veesgarrin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "磨かれた", "研磨された" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4883,
+      "form" : "tiiraker"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "残光", "残滓", "残像", "(比喩的に)残り香" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "何かを想起させるような、跡のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "tiir+aker"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4063,
+        "form" : "tiir"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

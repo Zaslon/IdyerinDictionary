@@ -22767,7 +22767,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "関連",
+      "title" : "上位語",
       "entry" : {
         "id" : 3625,
         "form" : "seti"
@@ -27427,7 +27427,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "関連",
+      "title" : "上位語",
       "entry" : {
         "id" : 3625,
         "form" : "seti"
@@ -57501,6 +57501,12 @@
         "id" : 4481,
         "form" : "voston"
       }
+    }, {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 4891,
+        "form" : "ouston"
+      }
     } ]
   }, {
     "entry" : {
@@ -66903,31 +66909,31 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "関連",
+      "title" : "下位語",
       "entry" : {
         "id" : 1217,
         "form" : "es'ai"
       }
     }, {
-      "title" : "関連",
+      "title" : "下位語",
       "entry" : {
         "id" : 1470,
         "form" : "fedena"
       }
     }, {
-      "title" : "関連",
+      "title" : "下位語",
       "entry" : {
         "id" : 4418,
         "form" : "veesvedena"
       }
     }, {
-      "title" : "関連",
+      "title" : "下位語",
       "entry" : {
         "id" : 3808,
         "form" : "sputnik"
       }
     }, {
-      "title" : "関連",
+      "title" : "下位語",
       "entry" : {
         "id" : 4584,
         "form" : "omzeti"
@@ -70392,7 +70398,7 @@
         "form" : "veesvedena"
       }
     }, {
-      "title" : "関連",
+      "title" : "上位語",
       "entry" : {
         "id" : 3625,
         "form" : "seti"
@@ -81440,7 +81446,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "関連",
+      "title" : "上位語",
       "entry" : {
         "id" : 3625,
         "form" : "seti"
@@ -82656,6 +82662,12 @@
       "entry" : {
         "id" : 3109,
         "form" : "penton"
+      }
+    }, {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 4891,
+        "form" : "ouston"
       }
     } ]
   }, {
@@ -84468,7 +84480,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "関連",
+      "title" : "上位語",
       "entry" : {
         "id" : 3625,
         "form" : "seti"
@@ -90268,6 +90280,160 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4888,
+      "form" : "n'ihica"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "災害" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(特に人災との対比において)天災", "自然災害" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "1. 人間に損害を与える自然現象のこと。元は天罰のニュアンスがあったが、現在では自然災害のニュアンスしかない。災害は大きく天災と人災に分けられる。\n2. 人災との対比で天災のみをさす場合における、自然災害の意。"
+    }, {
+      "title" : "文化",
+      "text" : "何を自然災害とし、何を人的災害とするかは技術レベルや備えの周到さによる部分もあり、判断は容易ではない。例えば、地震は一般に自然災害に分類されるが、地震が容易に想定されるにも関わらず、耐震設計を怠っていたのであれば、建物の倒壊事態は人的災害とも言える。殆どの災害は、災害の中に異常外力供給源としての自然災害部分と、不備という形で被害拡大に寄与する人的災害部分の双方を備えている。この観点では、災害の本体としての自然災害という見方が成立するため、この語が人災との対比での天災という意味と、包括的な災害としての意味の双方を持つ一因となっている。"
+    }, {
+      "title" : "語源",
+      "text" : "r>i.a"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 4889,
+        "form" : "sarn'ihica"
+      }
+    }, {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 4890,
+        "form" : "omn'ihica"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4891,
+        "form" : "ouston"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4889,
+      "form" : "sarn'ihica"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "天災", "自然災害" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "特に誤解を防ぐために冗長表現が必要な場合に用いる。"
+    }, {
+      "title" : "語源",
+      "text" : "sar+n'ihica"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 4888,
+        "form" : "n'ihica"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4890,
+        "form" : "omn'ihica"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4890,
+      "form" : "omn'ihica"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "人災", "人的災害" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "災害被害のうち、人間の不備や予断が原因となっている責任部分のこと。自然災害を発生源として、被害拡大に寄与した人間活動部分について指す。従って、完全に人間のみの要因によって発生する事件や事故は含まない。"
+    }, {
+      "title" : "語源",
+      "text" : "om+n'ihica"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 4888,
+        "form" : "n'ihica"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4889,
+        "form" : "sarn'ihica"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4891,
+        "form" : "ouston"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4891,
+      "form" : "ouston"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "事故", "アクシデント" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "人間が要因となって、意図せずして発生した、人間に損害を与える事象のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "ousae+*ton>"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 4481,
+        "form" : "voston"
+      }
+    }, {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 3109,
+        "form" : "penton"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4888,
+        "form" : "n'ihica"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4890,
+        "form" : "omn'ihica"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

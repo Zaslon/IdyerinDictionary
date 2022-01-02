@@ -6943,6 +6943,9 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "エリート", "キャリア", "幹部候補", "特待生" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "専門家", "エキスパート" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -12639,7 +12642,7 @@
       "text" : "H ca K で「Hとともに居るK」を表す。あくまでHとして修飾されたKが句の中心になる。動詞同士を繋いだり、ze節を繋いだりすると「HしながらK」という意味になる。何れにせよ、Hを伴った状態のKを指す接続詞である。"
     }, {
       "title" : "用例",
-      "text" : "S'a ca ref edoke.|彼とともに私は歩く。\nRef edoke ca tire.|私は歩きながら話す。\nZe edoke ca ze tire f rarkromin.|歩きながら話すのは危険だ。"
+      "text" : "S'a ca ref edoke.|彼とともに私は歩く。\nRef edoke ca tire.|私は歩きながら話す。\nZe edoke ca ze tire f rarkromin.|歩きながら話すのは危険だ。\nTianaf mirserbidaettin ca pabris igaref mirsaguaettin.|\n科学の発展に伴って生活が向上してきた。\n"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -23071,7 +23074,7 @@
     },
     "translations" : [ {
       "title" : "記述詞",
-      "forms" : [ "特殊な", "特別な", "特別の", "スペシャルな", "精鋭の", "選りすぐりの" ]
+      "forms" : [ "(人や組織が)特殊な", "特別な", "特別の", "スペシャルな", "精鋭の", "選りすぐりの" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -23093,6 +23096,12 @@
       "entry" : {
         "id" : 4293,
         "form" : "usden"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4894,
+        "form" : "idogian"
       }
     } ]
   }, {
@@ -78522,10 +78531,13 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "対格を捉えて、与格であると認識すること。あるものが何であるかを捉えることができたということ。転じて、機械の認証にも用いる。"
+      "text" : "1. 対格を捉えて、与格であると認識すること。あるものが何であるかを捉えること。\n2. 機械が対格を与格であると認証すること。"
     }, {
       "title" : "語源",
       "text" : "r"
+    }, {
+      "title" : "用例",
+      "text" : "ze rerif uikee dasdira n|私達が今日知っているように"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -90432,6 +90444,60 @@
       "entry" : {
         "id" : 4890,
         "form" : "omn'ihica"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4892,
+      "form" : "saguae"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "向上させる", "良くする", "改善する", "改質する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "対格の質を良くすること。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4893,
+      "form" : "idogia"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "専門分野", "専門", "得意分野", "得手", "生業" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "人物や組織が最も得意とする、あるいは特化している分野のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "r>i.a"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4894,
+      "form" : "idogian"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "(分野や業務が)専門的な", "専門の", "特化した", "得意な", "生業の", "生業として" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 1233,
+        "form" : "estofcon"
       }
     } ]
   } ],

@@ -32112,6 +32112,12 @@
         "id" : 3673,
         "form" : "siirz'if"
       }
+    }, {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 3665,
+        "form" : "s'if"
+      }
     } ]
   }, {
     "entry" : {
@@ -54576,7 +54582,13 @@
       "text" : "nih+z'if"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 3665,
+        "form" : "s'if"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 2948,
@@ -67675,25 +67687,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "下位語",
       "entry" : {
         "id" : 4473,
         "form" : "viz'if"
       }
     }, {
-      "title" : "類義語",
+      "title" : "下位語",
       "entry" : {
         "id" : 3673,
         "form" : "siirz'if"
       }
     }, {
-      "title" : "類義語",
+      "title" : "下位語",
       "entry" : {
         "id" : 2947,
         "form" : "nihz'if"
       }
     }, {
-      "title" : "類義語",
+      "title" : "下位語",
       "entry" : {
         "id" : 1728,
         "form" : "gevz'if"
@@ -67882,6 +67894,12 @@
       "entry" : {
         "id" : 1728,
         "form" : "gevz'if"
+      }
+    }, {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 3665,
+        "form" : "s'if"
       }
     } ]
   }, {
@@ -82523,7 +82541,13 @@
       "text" : "vi+s'if"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 3665,
+        "form" : "s'if"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 4474,

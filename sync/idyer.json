@@ -67909,7 +67909,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "同じ", "同じであること", "同じもの" ]
+      "forms" : [ "同一化", "同化" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -67917,7 +67917,13 @@
       "text" : "simin>"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4661,
+        "form" : "enzas"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 3675,
@@ -68022,10 +68028,13 @@
     },
     "translations" : [ {
       "title" : "記述詞",
-      "forms" : [ "同じの", "同様の", "同一の" ]
+      "forms" : [ "同じの", "同様の", "同一の", "同質の" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
+      "title" : "語法",
+      "text" : "別個体であるが、ある観点から見たときに同質であること。"
+    }, {
       "title" : "語源",
       "text" : "a"
     } ],
@@ -76347,7 +76356,13 @@
       "text" : "*tor+*ren>"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "同意",
+      "entry" : {
+        "id" : 4900,
+        "form" : "ozone"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 4136,
@@ -85915,18 +85930,24 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "合流させる", "合体させる", "統合する", "吸収する" ]
+      "forms" : [ "合流させる", "合体させる", "統合する", "吸収する", "同一化する" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "別々のものの区別を無くし、ひとつに纏めること。"
+      "text" : "別々のものの区別を無くし、ひとつに纏めること。同一個体の一部として取り込むこと。"
     }, {
       "title" : "語源",
       "text" : "en+sase"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4901,
+        "form" : "sime"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 4660,
@@ -85952,7 +85973,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 3674,
+        "form" : "sim"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 4662,
@@ -90527,6 +90554,152 @@
         "form" : "estofcon"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 4895,
+      "form" : "etuben"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "言語に関わる", "言語の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4896,
+      "form" : "oskurin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "書かれた", "書かれた内容に関する", "筆記された", "書き物の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4897,
+      "form" : "o-"
+    },
+    "translations" : [ {
+      "title" : "接頭辞",
+      "forms" : [ "異なった～", "異なる～", "別の～", "他の～" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "r>i.a"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4898,
+        "form" : "be-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4898,
+      "form" : "be-"
+    },
+    "translations" : [ {
+      "title" : "接頭辞",
+      "forms" : [ "同じの～", "同質の～" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4897,
+        "form" : "o-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4899,
+      "form" : "oetube"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "異言語", "他言語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "o+etube"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4900,
+      "form" : "ozone"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "外国", "異国", "海外", "異邦" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "自らの国ではない国のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "o+sone"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "同意",
+      "entry" : {
+        "id" : 4135,
+        "form" : "toren"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4901,
+      "form" : "sime"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "同一化する", "同化する", "同じにする" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "主格が、対格に取った複数の異なるものを同一の存在とすること。同質の別個体とする場合を指し、完全に同一個体の一部とすることを指す場合は非典型的である。"
+    }, {
+      "title" : "語源",
+      "text" : "simin>"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4659,
+        "form" : "enzase"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4902,
+      "form" : "simesk"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "同じもの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

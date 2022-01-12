@@ -2337,10 +2337,7 @@
       "forms" : [ "【軍】【略】戦車" ]
     } ],
     "tags" : [ ],
-    "contents" : [ {
-      "title" : "文化",
-      "text" : "陸軍技術はノイブラント経由で近代化したため、ドイツ語系の外来語が多い。"
-    } ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
       "title" : "省略",
@@ -13234,10 +13231,13 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "(対象を)オンにする", "使用状態にする", "装着する", "活用する", "有効化する", "使う", "開く", "展開する" ]
+      "forms" : [ "(対象を)オンにする", "使用状態にする", "装着する", "活用する", "活性化する", "有効化する", "使う", "開く", "展開する" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
+      "title" : "語法",
+      "text" : "対格の対象を有効化あるいは活性化された状態へ移行させること。"
+    }, {
       "title" : "語源",
       "text" : "r"
     } ],
@@ -13253,6 +13253,12 @@
       "entry" : {
         "id" : 1760,
         "form" : "gise"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4919,
+        "form" : "ucake"
       }
     } ]
   }, {
@@ -13371,7 +13377,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "【電算】ソフトウェア", "ソフトウエア", "アプリケーション" ]
+      "forms" : [ "【電算】ソフトウェア", "アプリケーション" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -14594,7 +14600,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "省略",
+      "entry" : {
+        "id" : 4914,
+        "form" : "manoesk"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 782,
@@ -19349,11 +19361,17 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "命令", "指示" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【電算】命令", "インストラクション" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【電算】コマンド", "指示" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "行動を指示されること。価値判断は中立。"
+      "text" : "1. 行動を指示されること。価値判断は中立。\n2. プロセッサに対する演算指示のこと。\n3. ユーザーによるコンピュータに対する指示のこと。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -23105,6 +23123,12 @@
       "entry" : {
         "id" : 4894,
         "form" : "idogian"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4910,
+        "form" : "manaruan"
       }
     } ]
   }, {
@@ -28263,11 +28287,14 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "原動機", "発動機", "エンジン", "(電気に限らない)モーター" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【電算】ドライバー" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "運動エネルギーを生み出す装置のこと。"
+      "text" : "1. 運動エネルギーを生み出す装置のこと。\n2. ソフトウェアにおいて、他の装置を駆動する仕組みのこと。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -31148,11 +31175,14 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "(人間を含む生物用の)甲冑", "鎧", "アーマー", "プロテクター", "殻", "甲羅" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【電算】シェル" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "生物のための装甲のこと。車両や建物に対する装甲はaume。"
+      "text" : "1. 生物のための装甲のこと。車両や建物に対する装甲はaume。\n2. カーネルとのやり取りを行うためのプログラムのこと。"
     }, {
       "title" : "語源",
       "text" : "r"
@@ -31163,6 +31193,12 @@
       "entry" : {
         "id" : 454,
         "form" : "aume"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 2442,
+        "form" : "mar"
       }
     } ]
   }, {
@@ -34851,7 +34887,13 @@
       "text" : "r"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4909,
+        "form" : "narua"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 1873,
@@ -37448,9 +37490,15 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "終了点", "終結点", "末尾", "終端", "ターミナル" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【電算】端末", "ターミナル" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "2. あるシステムの末端に位置する装置のことを、入出力装置であるという特性よりも末端に位置するという特性によって分類して呼ぶ語。"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -40213,7 +40261,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "運転者", "操縦者", "パイロット" ]
+      "forms" : [ "運転者", "操縦者", "パイロット", "ドライバー" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -45316,11 +45364,14 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "肉", "実", "中身" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【電算】カーネル" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "植物か動物かを問わず、中に詰まっている物。内臓や機関は含まない。"
+      "text" : "1. 植物か動物かを問わず、中に詰まっている物。内臓や機関は含まない。\n2. OSの中核部分を担う部分で、主にハードウェアとの連携を司る。"
     }, {
       "title" : "文化",
       "text" : "表面と対比しての内面を指す場合にも用いる。一方で、精神と対比する際の肉体という意味では用いられない。"
@@ -45334,6 +45385,12 @@
       "entry" : {
         "id" : 3695,
         "form" : "sinema"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 1677,
+        "form" : "gasku"
       }
     } ]
   }, {
@@ -45533,7 +45590,13 @@
       "text" : "r"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4916,
+        "form" : "simzae"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 2455,
@@ -46256,7 +46319,7 @@
     },
     "translations" : [ {
       "title" : "記述詞",
-      "forms" : [ "指示された", "示された", "特定された", "表示された", "表された" ]
+      "forms" : [ "指示された", "示された", "特定された", "特定の", "表示された", "表された" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -60645,6 +60708,9 @@
       "forms" : [ "(ある機能を持った)道具", "(衣服ではなく機能性の)装備", "装置", "デバイス" ]
     }, {
       "title" : "名詞",
+      "forms" : [ "【電算】デバイス" ]
+    }, {
+      "title" : "名詞",
       "forms" : [ "走狗", "(比喩的な意味での)犬", "使い走り", "パシリ", "下っ端", "回し者" ]
     } ],
     "tags" : [ ],
@@ -63516,12 +63582,12 @@
     "translations" : [ {
       "title" : "記述詞",
       "forms" : [ "ゴミの", "ゴミのような", "クズの", "役立たずの", "廃棄される", "捨てるしか無い" ]
-    }, {
-      "title" : "記述詞",
-      "forms" : [ "捨てるしか無いもの。価値判断は非常にマイナス。人に対して使うと罵倒のニュアンスが強い。" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "捨てるしか無いもの。価値判断は非常にマイナス。人に対して使うと罵倒のニュアンスが強い。"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -79665,6 +79731,12 @@
         "id" : 4313,
         "form" : "utrikesk"
       }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4922,
+        "form" : "ucakom"
+      }
     } ]
   }, {
     "entry" : {
@@ -83871,6 +83943,9 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "一連のもの", "シリーズ", "族", "系列", "系", "体系", "系統" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【電算】システム" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -90553,6 +90628,12 @@
         "id" : 1233,
         "form" : "estofcon"
       }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4910,
+        "form" : "manaruan"
+      }
     } ]
   }, {
     "entry" : {
@@ -90695,6 +90776,524 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "同じもの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4903,
+      "form" : "enzrona"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "邪道", "裏道", "非正規" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "基本に反した方法や状態のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "en+srona"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4904,
+      "form" : "uridae"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "(原理や規則を)(人や物に)適用する", "応用する", "当てはめる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "対格の知識や原理や哲学等の形而上の存在を、与格の実際の状況に合わせて用いること。"
+    }, {
+      "title" : "語源",
+      "text" : "r"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4905,
+      "form" : "urida"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "適用", "応用", "当てはめ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4906,
+      "form" : "uridaesk"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "適用規則", "使用原理" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "特定状況に対して用いられた原理のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4907,
+      "form" : "uridan"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "応用の", "適用された" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4908,
+      "form" : "ceidzerkura uridan"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【電算】アプリケーションソフトウェア", "アプリケーション", "アプリ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "OSではない個別のソフトウェアのこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4927,
+        "form" : "zuf dansenin kerin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4909,
+      "form" : "narua"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "目的", "(達成すべき)ゴール", "狙い", "ねらい" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "達成しようとする物事。iamよりも具体的で個別の物事を指す。"
+    }, {
+      "title" : "語源",
+      "text" : "r"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 1872,
+        "form" : "iam"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4910,
+      "form" : "manaruan"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "専用の", "単一目的の", "単目的の", "単用途の", "単一用途の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "ma+narua"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 1233,
+        "form" : "estofcon"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4894,
+        "form" : "idogian"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4911,
+        "form" : "genaruan"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4911,
+      "form" : "genaruan"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "汎用の", "多用途の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "ge+naruan"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4910,
+        "form" : "manaruan"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4912,
+      "form" : "zuf manaruan"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【電算】専用システム", "組込みシステム" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 4913,
+        "form" : "zuf genaruan"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4913,
+      "form" : "zuf genaruan"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【電算】汎用システム", "一般システム" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 4912,
+        "form" : "zuf manaruan"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4914,
+      "form" : "manoesk"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【電算】【略】プログラム" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "省略",
+      "entry" : {
+        "id" : 781,
+        "form" : "dansenmanoesk"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4915,
+      "form" : "rukveveom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【電算】デバイスドライバー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "ruk+fevee"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4916,
+      "form" : "simzae"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "(内容を)(表示装置や場所に)表示する", "掲示する", "現示する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "主格が、対格の内容を、与格に表示すること。"
+    }, {
+      "title" : "語源",
+      "text" : "r"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 2454,
+        "form" : "mare"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4917,
+      "form" : "simza"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "表示", "掲示", "現示" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4918,
+      "form" : "simzan"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "(内容が)表示された", "掲示された", "現示された" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4919,
+      "form" : "ucake"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "(装置や道具や制度を)使う", "使用する", "扱う" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "特定の目的のために、対格を使用すること。"
+    }, {
+      "title" : "語源",
+      "text" : "r"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 710,
+        "form" : "cegire"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4920,
+      "form" : "ucak"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "使用" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4921,
+      "form" : "ucakin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "使われた", "使用された" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4922,
+      "form" : "ucakom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "ユーザー", "(道具の)使用者" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4315,
+        "form" : "utrikom"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4923,
+      "form" : "azmad'agom ucakomin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【電算】ユーザーインターフェース", "ユーザーインターフェイス" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4924,
+      "form" : "azmad'agom ucakomin simzan"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【電算】GUI", "グラフィカルユーザーインターフェース", "グラフィカルユーザーインターフェイス" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4925,
+      "form" : "ecohruzem"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【電算】命令セット", "インストラクションセット" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "ecoh+ruzem"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4926,
+      "form" : "kerin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "操縦された", "運転された", "運営された" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4927,
+      "form" : "zuf dansenin kerin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【電算】OS", "オペレーティングシステム" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4908,
+        "form" : "ceidzerkura uridan"
+      }
+    }, {
+      "title" : "省略",
+      "entry" : {
+        "id" : 4928,
+        "form" : "zuf kerin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4928,
+      "form" : "zuf kerin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【電算】【略】OS", "オペレーティングシステム" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "省略",
+      "entry" : {
+        "id" : 4927,
+        "form" : "zuf dansenin kerin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4929,
+      "form" : "azmad'agom ucakomin funen"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【電算】CUI", "キャラクタユーザーインターフェース", "キャラクタユーザーインターフェイス" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4930,
+      "form" : "ecohdic"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【電算】コマンドライン" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "ecoh+dic"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4931,
+      "form" : "azmad'agom ecohdicin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【電算】コマンドラインインターフェース", "コマンドラインインターフェイス" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],

@@ -3123,7 +3123,19 @@
       "text" : "aker+dic"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 874,
+        "form" : "dicaker"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 3150,
+        "form" : "raizi"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 168,
@@ -16367,7 +16379,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "普通はakerdicを使うが、単に陽光が生み出す光線などと混同すると困るので、軍事用語としてはこちらを用いる。合成語はこちらの方が作りやすい。raiziに比べて定義範囲が広いため。"
+      "text" : "普通はakerdicを使うが、単に陽光が生み出す光線などと混同すると困るので、軍事用語としてはこちらを用いる。raiziに比べて定義範囲が広いため、合成語はこちらの方が作りやすい。"
     }, {
       "title" : "語源",
       "text" : "dic+aker"
@@ -21776,7 +21788,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "文化",
-      "text" : "呪いの元であるmisavaの水に浸かった人という意味。misavaの呪いは神のenta(涙)によるもので、触れたものを理性を吹き飛ばし本能に忠実な獣にしてしまう。"
+      "text" : "呪いの元であるmisavaの水に浸かった人という意味。misavaの呪いは神のenta(涙)によるもので、触れたものの理性を吹き飛ばし本能に忠実な獣にしてしまう。"
     }, {
       "title" : "語源",
       "text" : "enta+ace"
@@ -58379,7 +58391,19 @@
       "text" : "a>i.k"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 874,
+        "form" : "dicaker"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 167,
+        "form" : "akerdic"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 3151,
@@ -91297,6 +91321,146 @@
     } ],
     "tags" : [ ],
     "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4932,
+      "form" : "akerravagorne"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "光線剣", "電光剣", "ライトセーバー", "ビームサーベル" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "フィクションなどで用いられる、刀身が光や発光する粒子で構成された剣のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "aker+rava+korne"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "省略",
+      "entry" : {
+        "id" : 4933,
+        "form" : "akergorne"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4933,
+      "form" : "akergorne"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【略】光線剣", "電光剣", "ライトセーバー", "ビームサーベル" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "省略",
+      "entry" : {
+        "id" : 4932,
+        "form" : "akerravagorne"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4934,
+      "form" : "kid"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "切断" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4935,
+      "form" : "kiddiragin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "防刃の", "耐切断の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "kide+tirage"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4936,
+      "form" : "raizigidom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "レーザーカッター", "レーザー切断機" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "材料をレーザーによって切断することで加工する機械のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "raizi+kide"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4937,
+      "form" : "ticeikroom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "温度計" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "tice+ikroe"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4938,
+      "form" : "var mogas'in"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "オープンカー", "ロードスター", "コンバーチブル" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "屋根のない車両のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4939,
+      "form" : "mogas'in"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "屋根のない", "ルーフレスの", "天井のない" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "mo+kas'"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   } ],

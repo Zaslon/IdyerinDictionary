@@ -5427,6 +5427,12 @@
         "id" : 1484,
         "form" : "fendamin"
       }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4941,
+        "form" : "venun"
+      }
     } ]
   }, {
     "entry" : {
@@ -10169,7 +10175,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "構造物", "構成物", "構成要素", "構成部品" ]
+      "forms" : [ "構造物", "構成物", "構成要素", "構成部品", "コンポーネント" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -10180,7 +10186,13 @@
       "text" : "barde>"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 1374,
+        "form" : "fansasesk"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 541,
@@ -13397,7 +13409,13 @@
       "text" : "ceid+serkura"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4944,
+        "form" : "venuzerkura"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 719,
@@ -25678,7 +25696,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "構成物", "構成品", "システム", "組立品" ]
+      "forms" : [ "構成物", "構成品", "システム", "組立品", "アセンブリー" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -25686,7 +25704,13 @@
       "text" : "構成された結果の完成品を指す語。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 540,
+        "form" : "bardesk"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 1375,
@@ -27745,6 +27769,12 @@
       "entry" : {
         "id" : 287,
         "form" : "amvendamin"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4941,
+        "form" : "venun"
       }
     } ]
   }, {
@@ -64725,6 +64755,9 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "側面", "横", "サイド" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【電算】並列" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -64732,7 +64765,13 @@
       "text" : "a"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4547,
+        "form" : "zuf"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 3499,
@@ -66948,7 +66987,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "機械", "装置" ]
+      "forms" : [ "機械", "装置", "マシーン", "マシン" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -83970,6 +84009,9 @@
     }, {
       "title" : "名詞",
       "forms" : [ "【電算】システム" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【電算】直列" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -83977,7 +84019,13 @@
       "text" : "r"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 3498,
+        "form" : "seir"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 4548,
@@ -91463,6 +91511,319 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4940,
+      "form" : "zira"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【宗】【緯】ズィーラ", "救済", "救世", "救い", "(他力本願による)救い" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "安寧", "平和", "安息", "パックス", "秩序" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "1. 本人の性質や努力によってではなく、外部からもたらされる救いのこと。自力ではなく他力による救済を指す語で、宗教的な救いを指す語である。\n2. 救いがあまねく人々にもたらされることによる平和のこと。人知や個人を超えた存在により維持される平和のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "r>a"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4941,
+      "form" : "venun"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "物理的な", "実体の", "実物の", "リアルな" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "ソフトウェア、理想、幻影や夢などの手で触れることができない物に対しての、実体のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 287,
+        "form" : "amvendamin"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 1484,
+        "form" : "fendamin"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4942,
+        "form" : "ceidin"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4943,
+        "form" : "redamin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4942,
+      "form" : "ceidin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "電子的な", "電子データの", "電子情報に関する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4941,
+        "form" : "venun"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4943,
+      "form" : "redamin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "夢のような", "夢想的な", "幻想的な" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "夢で見る内容のようであること。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4941,
+        "form" : "venun"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4944,
+      "form" : "venuzerkura"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【電算】ハードウェア" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "venu+serkura"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 718,
+        "form" : "ceidzerkura"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4945,
+      "form" : "dingnasiska"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【電算】電気回路", "回路" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "導体によって構成された回路のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "ding+nasiska"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 4946,
+        "form" : "ceidnasiska"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4946,
+      "form" : "ceidnasiska"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【電算】電子回路", "回路" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "電気回路のうち、能動素子を構成要素に含むもののこと。"
+    }, {
+      "title" : "語源",
+      "text" : "ceid+nasiska"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 4945,
+        "form" : "dingnasiska"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4947,
+      "form" : "amziskaom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【電算】抵抗", "電気抵抗", "抵抗素子" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "電気的な抵抗をもたらすもののこと。"
+    }, {
+      "title" : "語源",
+      "text" : "am+siskae"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4948,
+      "form" : "fenzenvansas"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "素子", "エレメント" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "ある機能を実現するための最小構成要素のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "fenzen+fansas"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4949,
+      "form" : "zufd'agin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "【電算】直列の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "回路構成が直列であること。"
+    }, {
+      "title" : "語源",
+      "text" : "zuf+cage"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4950,
+        "form" : "seird'agin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4950,
+      "form" : "seird'agin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "【電算】並列の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "回路構成が並列であること。"
+    }, {
+      "title" : "語源",
+      "text" : "seir+cage"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4949,
+        "form" : "zufd'agin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4951,
+      "form" : "zufzindin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "【電算】シリアル通信の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "データを直列に逐次送受信すること。"
+    }, {
+      "title" : "語源",
+      "text" : "zuf+sinde"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4952,
+        "form" : "seirzindin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4952,
+      "form" : "seirzindin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "【電算】パラレル通信の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "データを並列に同時送受信すること。"
+    }, {
+      "title" : "語源",
+      "text" : "seir+sinde"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4951,
+        "form" : "zufzindin"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

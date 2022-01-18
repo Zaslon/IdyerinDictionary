@@ -17290,12 +17290,15 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "電力", "電気動力" ]
+      "forms" : [ "電気動力", "電力" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "電力" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "電気による動力のことで, 電気を起こす力やフレミングの左手の法則にしたがって発生する力のことではない。"
+      "text" : "1. 電気による動力のこと。\n2. 電気による単位時間あたりの仕事のこと。電気による仕事率のこと。"
     }, {
       "title" : "語源",
       "text" : "ding+feve"
@@ -64780,6 +64783,9 @@
     "translations" : [ {
       "title" : "記述詞",
       "forms" : [ "側面の", "サイドの" ]
+    }, {
+      "title" : "記述詞",
+      "forms" : [ "【電算】並列の" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -73636,6 +73642,9 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
+      "title" : "語法",
+      "text" : "違いの大きさのこと。違う度合い。"
+    }, {
       "title" : "語源",
       "text" : "te+tig"
     } ],
@@ -74040,6 +74049,9 @@
     }, {
       "title" : "名詞",
       "forms" : [ "(波長の)長さ" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(ポテンシャルエネルギーの)高さ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -84050,6 +84062,12 @@
     "translations" : [ {
       "title" : "記述詞",
       "forms" : [ "一連の", "シリーズの", "系列の", "体系的な", "系統だった" ]
+    }, {
+      "title" : "記述詞",
+      "forms" : [ "【電算】システムの", "システムに関する", "システム的な" ]
+    }, {
+      "title" : "記述詞",
+      "forms" : [ "【電算】直列の" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -86161,7 +86179,13 @@
       "text" : "gu+vizin"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "参考",
+      "entry" : {
+        "id" : 4958,
+        "form" : "bavizin"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 4664,
@@ -91822,6 +91846,173 @@
       "entry" : {
         "id" : 4951,
         "form" : "zufzindin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4953,
+      "form" : "tege dingin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "電荷", "電気量" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4954,
+      "form" : "dingnigeresk"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "電流" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "ding+nigeresk"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4956,
+        "form" : "tedig tein dingin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4955,
+      "form" : "tei dingin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "電位", "静電ポテンシャル" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4956,
+      "form" : "tedig tein dingin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "電位差", "電圧" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4954,
+        "form" : "dingnigeresk"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4957,
+      "form" : "mavizin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "単方向の", "単一方向の", "一方通行の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "経路や通信が送受信や上下通行を同時に一方向にしか流さないこと。同時に一方向の流れしか許容されない状態を指し、その方向は常に一定でなくても良い。"
+    }, {
+      "title" : "語法",
+      "text" : "ma+vizin"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4958,
+        "form" : "bavizin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4958,
+      "form" : "bavizin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "双方向の", "相互の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "経路や通信が送受信や上下通行の双方に用いることができるさま。"
+    }, {
+      "title" : "語源",
+      "text" : "ba+vizin"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4957,
+        "form" : "mavizin"
+      }
+    }, {
+      "title" : "参考",
+      "entry" : {
+        "id" : 4663,
+        "form" : "guvizin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4959,
+      "form" : "dingnigeresk mavizin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "直流電流", "DC" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "符号が逆転しない、一方向の電流のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4960,
+        "form" : "dingnigeresk bavizin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4960,
+      "form" : "dingnigeresk bavizin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "交流電流", "AC" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "符号が逆転する、双方向の電流のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4959,
+        "form" : "dingnigeresk mavizin"
       }
     } ]
   } ],

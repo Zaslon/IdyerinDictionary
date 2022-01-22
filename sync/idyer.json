@@ -4816,6 +4816,12 @@
         "id" : 1691,
         "form" : "gen"
       }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4964,
+        "form" : "poan"
+      }
     } ]
   }, {
     "entry" : {
@@ -22768,7 +22774,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "方向", "方角" ]
+      "forms" : [ "方向", "方角", "方位" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -31510,6 +31516,12 @@
       "entry" : {
         "id" : 255,
         "form" : "amgen"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4963,
+        "form" : "dacin"
       }
     } ]
   }, {
@@ -92013,6 +92025,103 @@
       "entry" : {
         "id" : 4959,
         "form" : "dingnigeresk mavizin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4961,
+      "form" : "kidom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "カッター", "切断機" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "切断する器具のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4962,
+      "form" : "s'azus"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "はさみ", "鋏", "剪刀" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "二枚の刃を有する手持ちの切断器具のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "a"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4963,
+      "form" : "dacin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "豊かな", "多い", "多く" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "多いことをプラスに捉えて表す語。価値判断はプラス。"
+    }, {
+      "title" : "語源",
+      "text" : "a"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 1691,
+        "form" : "gen"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4964,
+        "form" : "poan"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4964,
+      "form" : "poan"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "乏しい", "貧しい", "少ない", "少なく" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "少ないことをマイナスに捉える語。価値判断はマイナス。"
+    }, {
+      "title" : "語源",
+      "text" : "a"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4963,
+        "form" : "dacin"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 255,
+        "form" : "amgen"
       }
     } ]
   } ],

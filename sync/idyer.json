@@ -86874,6 +86874,9 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "抵抗度", "レジスタンス" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【電算】電気抵抗値", "レジスタンス" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -92124,6 +92127,19 @@
         "form" : "amgen"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 4965,
+      "form" : "fenzenvansas ceidnasiskan"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【電算】回路素子" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

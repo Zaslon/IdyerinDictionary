@@ -493,6 +493,12 @@
         "id" : 19,
         "form" : "-ka"
       }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4967,
+        "form" : "seb-"
+      }
     } ]
   }, {
     "entry" : {
@@ -31440,7 +31446,10 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "【海運】匙", "オール", "パドル", "橈", "櫂", "【機械】プロペラ", "(ローターの)羽根" ]
+      "forms" : [ "【海運】匙", "オール", "パドル", "橈", "櫂" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【機械】プロペラ", "(ローターの)羽根" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -47957,6 +47966,12 @@
         "id" : 1066,
         "form" : "ek-"
       }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4967,
+        "form" : "seb-"
+      }
     } ]
   }, {
     "entry" : {
@@ -52175,7 +52190,10 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "【機械】(回転翼ではなく固定)翼", "固定翼", "(鳥や飛行機や虫の)羽根", "翅", "羽", "ウィング" ]
+      "forms" : [ "(鳥や飛行機や虫の)羽根", "翅", "羽", "ウィング" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【機械】(回転翼ではなく固定)翼", "固定翼" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -58409,12 +58427,15 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "【海運】舵", "操舵面", "(船の)ラダー" ]
+      "forms" : [ "【海運】舵", "(船の)ラダー" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(航空機の)動翼", "操縦面" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "船においては舵の舵面、つまりラダーを指すが、飛行機においては操縦のための舵面全てを指すのでラダーと対応しない。"
+      "text" : "1. 船における舵の舵面のこと。ラダーのこと。\n2. 航空機における動翼のこと。ラダーのみならずエルロンやフラップ等を含む。"
     }, {
       "title" : "語源",
       "text" : "ragi+mugire>"
@@ -81068,6 +81089,12 @@
         "form" : "-noka"
       }
     }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4967,
+        "form" : "seb-"
+      }
+    }, {
       "title" : "関連",
       "entry" : {
         "id" : 1066,
@@ -92140,6 +92167,93 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4966,
+      "form" : "mianabida"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "主翼" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "主たる揚力を発生させる固定翼のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "mia+nabida"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4968,
+        "form" : "sebnabida"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4967,
+      "form" : "seb-"
+    },
+    "translations" : [ {
+      "title" : "接頭辞",
+      "forms" : [ "次～", "副～", "サブ～" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "副次的構成要素を構成することを強調する接頭辞。"
+    }, {
+      "title" : "語源",
+      "text" : "sebin"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 2583,
+        "form" : "mia-"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4385,
+        "form" : "vees-"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 24,
+        "form" : "-noka"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4968,
+      "form" : "sebnabida"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "尾翼", "先尾翼" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "主翼とセットで用い、安定性や操縦性を高めるために装備される副次的な翼のこと。尾部にあることを含意した語ではないため、先尾翼などに対しても用いることができる。"
+    }, {
+      "title" : "語源",
+      "text" : "seb+nabida"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4966,
+        "form" : "mianabida"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

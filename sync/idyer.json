@@ -77120,10 +77120,16 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語源",
-      "text" : "tug+nasegee"
+      "text" : "tug+nasgee"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "同意",
+      "entry" : {
+        "id" : 4971,
+        "form" : "torcoskom tugo-tedungin"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 4168,
@@ -92322,6 +92328,25 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4971,
+      "form" : "torcoskom tugo-tedungin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "トルクコンバーター" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "同意",
+      "entry" : {
+        "id" : 4167,
+        "form" : "tugnasgeom"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

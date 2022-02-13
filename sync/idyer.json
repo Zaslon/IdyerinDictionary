@@ -43652,6 +43652,12 @@
         "id" : 1941,
         "form" : "igare"
       }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4969,
+        "form" : "tusae"
+      }
     } ]
   }, {
     "entry" : {
@@ -47775,7 +47781,13 @@
       "text" : "r"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4969,
+        "form" : "tusae"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 2573,
@@ -92254,6 +92266,62 @@
         "form" : "mianabida"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 4969,
+      "form" : "tusae"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "転がす" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "倒す", "横倒しにする" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "(人や組織を)亡き者にする", "始末する", "殺す", "殺害する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "1. 対格を接地面に沿って回転しながら動かすこと。\n2. 対格を横倒しにすること。\n3. 対格を始末することの婉曲的な表現。"
+    }, {
+      "title" : "語源",
+      "text" : "r"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 2572,
+        "form" : "mevere"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 2346,
+        "form" : "kuree"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4970,
+      "form" : "tusan"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "転がっている" ]
+    }, {
+      "title" : "記述詞",
+      "forms" : [ "倒れた", "横倒しの" ]
+    }, {
+      "title" : "記述詞",
+      "forms" : [ "(人や組織などが)倒された", "転覆した", "転覆させられた" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

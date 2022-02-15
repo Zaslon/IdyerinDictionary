@@ -11131,6 +11131,9 @@
     }, {
       "title" : "名詞",
       "forms" : [ "スラッシュ", "スラント", "ソリダス", "(順方向の)斜線" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "バンク", "ロール", "ローリング" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -11138,7 +11141,13 @@
       "text" : "a"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4972,
+        "form" : "tusa"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 590,
@@ -23549,8 +23558,8 @@
       "form" : "Evr'opa"
     },
     "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "(地)ヨーロッパ", "欧州" ]
+      "title" : "固有名詞",
+      "forms" : [ "【地名】ヨーロッパ", "欧州" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -58453,7 +58462,25 @@
       "text" : "ragi+mugire>"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 4976,
+        "form" : "tusaragmag"
+      }
+    }, {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 4977,
+        "form" : "ez'agiragmag"
+      }
+    }, {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 4978,
+        "form" : "tizzaragmag"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 3150,
@@ -62058,7 +62085,10 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "(人や部隊や事業を)(目標に向かって)進める", "躍進させる", "跳梁させる", "発展させる", "【軍】進撃させる", "進軍させる" ]
+      "forms" : [ "(人や部隊や事業を)(目標に向かって)進める", "躍進させる", "跳梁させる", "発展させる" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "【軍】進撃させる", "進軍させる" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -92347,6 +92377,222 @@
         "form" : "tugnasgeom"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 4972,
+      "form" : "tusa"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "転がり", "横転" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "ロール", "バンク", "ローリング" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "2. 前後軸に対して傾きを持つこと。特に、横転することが直ちに問題とならない乗り物に対して用いられることが多い。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 589,
+        "form" : "benga"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4974,
+        "form" : "ez'agi"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4975,
+        "form" : "tizza"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4973,
+      "form" : "ez'agie"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "(人を)お辞儀させる", "頭を下げさせる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "対格に頭を下げる礼をさせること。"
+    }, {
+      "title" : "語源",
+      "text" : "r"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4974,
+      "form" : "ez'agi"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "(頭を下げる)礼", "お辞儀" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "ピッチ", "ピッチング" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "2. 航空機などの頭上げ、頭下げの動きのこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4972,
+        "form" : "tusa"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4975,
+        "form" : "tizza"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4975,
+      "form" : "tizza"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "転回", "転進", "転向" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "ヨー", "ヨーイング" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "2. 乗り物の左右首振り方向の運動のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4972,
+        "form" : "tusa"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4974,
+        "form" : "ez'agi"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4976,
+      "form" : "tusaragmag"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "エルロン", "補助翼" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "tusa+ragmag"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 3149,
+        "form" : "ragmag"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4977,
+      "form" : "ez'agiragmag"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "エレベーター", "昇降舵" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "ez'agi+ragmag"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 3149,
+        "form" : "ragmag"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4978,
+      "form" : "tizzaragmag"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "ラダー", "方向舵" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "tizza+ragmag"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 3149,
+        "form" : "ragmag"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4979,
+      "form" : "marat keinugirin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "ヘッドマウントディスプレ", "ヘッドマウンテッドディスプレイ", "HMD" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "頭部に装着する表示装置のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4980,
+      "form" : "marat akerziskaomin fadun"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "ヘッドアップディスプレイ", "HUD" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "使用者の正面前方に設置する透明あるいは半透明の表示装置のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

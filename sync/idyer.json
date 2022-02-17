@@ -92593,6 +92593,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4981,
+      "form" : "keinugirin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "頭に装着する", "頭部搭載型の", "ヘッドマウントの", "ヘッドマウンテッドの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "keinu+hire"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

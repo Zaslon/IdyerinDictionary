@@ -60113,7 +60113,7 @@
         "form" : "faderveveom"
       }
     }, {
-      "title" : "類義語",
+      "title" : "上位語",
       "entry" : {
         "id" : 4860,
         "form" : "feveom engukiretigin"
@@ -90091,7 +90091,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "下位語",
       "entry" : {
         "id" : 3239,
         "form" : "ridioveveom"

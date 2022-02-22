@@ -33829,6 +33829,9 @@
     }, {
       "title" : "名詞",
       "forms" : [ "【電算】ベゼル" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(道路の)縁石" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -33875,12 +33878,12 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "覆う", "囲む", "縁取る" ]
+      "forms" : [ "(物体を)囲いとする", "覆いとする" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "語源",
-      "text" : "hamdura>"
+      "title" : "語法",
+      "text" : "対格を囲いとすること。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -47753,12 +47756,21 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "回転", "スピン", "【天】自転" ]
+      "forms" : [ "回転", "スピン" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【天】自転" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 2788,
+        "form" : "muv"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 2571,
@@ -47782,12 +47794,12 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "回す", "まわす", "回転させる" ]
+      "forms" : [ "(対象を)回す", "まわす", "回転させる" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "その物体が自転すること。巡回する場合はmuveである。"
+      "text" : "対格を自転させること。巡回する場合はmuveである。"
     }, {
       "title" : "語源",
       "text" : "r"
@@ -49984,6 +49996,12 @@
         "id" : 709,
         "form" : "cegirarin"
       }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4987,
+        "form" : "movenzenin"
+      }
     } ]
   }, {
     "entry" : {
@@ -50087,7 +50105,7 @@
     },
     "translations" : [ {
       "title" : "記述詞",
-      "forms" : [ "十分な", "充分な。十分に", "充分に" ]
+      "forms" : [ "十分な", "充分な", "十分に", "充分に" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -51836,6 +51854,9 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "巡回", "見回り", "巡航" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【天】公転" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -51843,7 +51864,13 @@
       "text" : "i:muvsor>"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 2570,
+        "form" : "mever"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 2789,
@@ -67025,7 +67052,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "制定主体が国家や国定の銀行であることが条件なので、電子マネーは実態としては単に企業が定めたポイントなので、serindeではない。電子的に扱われる通貨そのものはserindeに含まれるため、例えばクレジットカードが扱っているのはserindeである。"
+      "text" : "制定主体が国家や国定の銀行であることが条件とみなされることが多い。このため、暗号通貨はserindeと見なされにくい。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -83030,7 +83057,10 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "空白", "空き", "あき", "何もない部分", "真空", "【言】スペース", "空白文字" ]
+      "forms" : [ "空白", "空き", "あき", "何もない部分", "真空" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【言】スペース", "空白文字" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -92609,6 +92639,204 @@
     "contents" : [ {
       "title" : "語源",
       "text" : "keinu+hire"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4982,
+      "form" : "s'umi-"
+    },
+    "translations" : [ {
+      "title" : "接頭辞",
+      "forms" : [ "ヴァーチャルな", "バーチャルな", "有効な", "仮想の", "実質の", "みなしの", "見做しの", "実効の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "s'umin"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4983,
+      "form" : "iriver"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "年払い金", "年俸", "年会費", "年額" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "年ごとに支払われる金額のこと。支払い金か受領金かは文脈による。"
+    }, {
+      "title" : "語源",
+      "text" : "iri+ver"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4984,
+        "form" : "nasdaver"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4985,
+        "form" : "nativer"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4984,
+      "form" : "nasdaver"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "月俸", "月給", "月額", "月会費", "月極料金", "月払い金" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "nadsda+ver"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4983,
+        "form" : "iriver"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4985,
+        "form" : "nativer"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4985,
+      "form" : "nativer"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "日給", "日額", "日払い金", "日雇い金" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "nati+ver"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4983,
+        "form" : "iriver"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4984,
+        "form" : "nasdaver"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4986,
+      "form" : "simzaom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "インジケーター", "表示器", "掲示装置" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "ある特定の内容を表示する装置や仕組みのこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4987,
+      "form" : "movenzenin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "無機能の", "無駄な", "無用の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "機能を有していないことを指す語だが、日本語の「無駄」と同じ使われ方もする。"
+    }, {
+      "title" : "語源",
+      "text" : "mo+fenzen"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 2693,
+        "form" : "mod'egirarin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4988,
+      "form" : "gevenzenin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "多機能の", "多機能な" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "機能を多く備えているさま。"
+    }, {
+      "title" : "語源",
+      "text" : "gen+fenzen"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4989,
+      "form" : "vuragamdura"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "余白", "マージン" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "図や文字の周辺や、ページ端部における空白のこと。単に白い部分のことではなく、空白による囲いを指す。"
+    }, {
+      "title" : "語源",
+      "text" : "vura+hamdura"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4990,
+      "form" : "tevura"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "真空度" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "te+vuran"
     } ],
     "variations" : [ ],
     "relations" : [ ]

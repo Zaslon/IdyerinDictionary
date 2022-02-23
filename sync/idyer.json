@@ -21174,11 +21174,20 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
+      "title" : "語法",
+      "text" : "物体が運動するときに、その運動を止めるような方向に働く力。典型的には摩擦力が挙げられる。"
+    }, {
       "title" : "語源",
       "text" : "en+etig"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 4992,
+        "form" : "etig amziskaomin"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 1130,
@@ -31406,7 +31415,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "対象の数量を増加させること。お金を貯めることは貯蓄額を増やすことなので、この語で表す。"
+      "text" : "対格の数量を増加させること。お金を貯めることは貯蓄額を増やすことなので、この語で表す。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -31414,6 +31423,12 @@
       "entry" : {
         "id" : 254,
         "form" : "amgee"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 2842,
+        "form" : "nasgee"
       }
     } ]
   }, {
@@ -38295,10 +38310,16 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "掲げる", "挙げる", "(見えるように)持ち上げる", "(見えるように)振る" ]
+      "forms" : [ "(掲示物を)(場所に)掲げる", "挙げる", "(見えるように)持ち上げる", "(見えるように)振る" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "(人や物を)(場所に)持ち上げる", "ジャッキアップする", "リフトアップする" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
+      "title" : "語法",
+      "text" : "1. 対格の旗や看板などを、与格の物体に掲揚すること。\n2. 対格を持ち上げて、与格に置くこと。"
+    }, {
       "title" : "用例",
       "text" : "Akserberu kagire|戦旗を掲げる。\n「狼煙をあげる」の意味。"
     }, {
@@ -52812,13 +52833,19 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "対格に取った語をより大きくすること。対格に取る語は状態でも物体でも良い。元々ある定常状態や安定的な状態にあったものに外力を与えてどんどん大きくすること。いい意味でも悪い意味でも用いる。"
+      "text" : "対格の程度をより大きくすること。対格に取る語は状態でも物体でも良い。良い意味でも悪い意味でも用いる。"
     }, {
       "title" : "語源",
       "text" : "*nas+gee"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 1685,
+        "form" : "gee"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 2843,
@@ -64602,7 +64629,13 @@
       "text" : "a"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4995,
+        "form" : "enzedufe"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 3486,
@@ -64611,14 +64644,23 @@
     "translations" : [ {
       "title" : "記述詞",
       "forms" : [ "止まった", "停止した", "静止した", "停滞した" ]
+    }, {
+      "title" : "記述詞",
+      "forms" : [ "静的な", "スタティックな" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "何も動いていない状態にあること。"
+      "text" : "1. 何も動いていない状態にあること。\n2. 時間成分によって結果が変化しない、状況が変化しない様を表す技専門用語。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4996,
+        "form" : "enzedufin"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 3487,
@@ -90010,7 +90052,7 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "【堅】(力や圧力や電圧や信号を)印加する", "かける", "作用する" ]
+      "forms" : [ "【堅】(力や圧力や電圧や信号を)印加する", "かける", "作用させる" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -90077,7 +90119,10 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "【物】反作用力", "反力", "反動" ]
+      "forms" : [ "反動" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【物】反作用力", "反力" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -91840,18 +91885,27 @@
     },
     "translations" : [ {
       "title" : "名詞",
+      "forms" : [ "抵抗" ]
+    }, {
+      "title" : "名詞",
       "forms" : [ "【電算】抵抗", "電気抵抗", "抵抗素子" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "電気的な抵抗をもたらすもののこと。"
+      "text" : "科学の分野における、英語のresistanceに対応する語。通過を妨げるもののこと。電気抵抗や空気抵抗のすべてを指すことができるが、空気抵抗のように通過に対する抵抗というイメージが薄い抵抗に関しては、専門家以外はこの語で表さない傾向にある。"
     }, {
       "title" : "語源",
       "text" : "am+siskae"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "同意",
+      "entry" : {
+        "id" : 4991,
+        "form" : "fenzenvansas amziskaomin"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 4948,
@@ -92840,6 +92894,236 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4991,
+      "form" : "fenzenvansas amziskaomin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【電算】抵抗素子" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "同意",
+      "entry" : {
+        "id" : 4947,
+        "form" : "amziskaom"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4992,
+      "form" : "etig amziskaomin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【物】抗力", "抵抗力" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "抵抗を持つ物体によって生み出される力のこと。典型的には全体を包む流体によって生み出される力を指し、摩擦力は含まれない。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 1129,
+        "form" : "enetig"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4993,
+      "form" : "kagirin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "掲げられた", "持ち上げられた", "掲揚された" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4994,
+      "form" : "etig kagiromin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【物】(空気に対する)揚力", "リフト", "(液体に対する)浮力" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "物体を持ち上げる力のこと。静的な力と動的な力を区別しないため、揚力と浮力の双方を指す。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 4997,
+        "form" : "etig kagiromin enzedufin"
+      }
+    }, {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 4998,
+        "form" : "etig kagiromin sedufin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4995,
+      "form" : "enzedufe"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "動かす", "止めない様にする" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "静止した状態にならないよう、強制的に動かすこと。"
+    }, {
+      "title" : "語源",
+      "text" : "en+sedufe"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 3485,
+        "form" : "sedufe"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4996,
+      "form" : "enzedufin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "動かされた", "動かされている" ]
+    }, {
+      "title" : "記述詞",
+      "forms" : [ "【物】動的な", "ダイナミックな" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 3486,
+        "form" : "sedufin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4997,
+      "form" : "etig kagiromin enzedufin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【物】揚力" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 4994,
+        "form" : "etig kagiromin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4998,
+      "form" : "etig kagiromin sedufin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【物】浮力" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 4994,
+        "form" : "etig kagiromin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4999,
+      "form" : "cagittesk"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "口金", "ターミナル", "端子", "コネクター" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "接続のために設けられた特別な端部のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "cage+ittesk"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5000,
+      "form" : "kagirnasgeom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【航空】高揚力装置", "揚力増加装置" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "揚力を増幅する物のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "kagire+nasgee"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "同意",
+      "entry" : {
+        "id" : 5001,
+        "form" : "ragmag karignasgeomin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5001,
+      "form" : "ragmag karignasgeomin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【航空】フラップ", "高揚力装置" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "同意",
+      "entry" : {
+        "id" : 5000,
+        "form" : "kagirnasgeom"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

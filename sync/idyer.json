@@ -93124,6 +93124,22 @@
         "form" : "kagirnasgeom"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 5002,
+      "form" : "rarnokau mare, rarnoka nore"
+    },
+    "translations" : [ {
+      "title" : "ことわざ",
+      "forms" : [ "悪魔を見ると悪魔になる", "ミイラ取りがミイラになる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "恨みや怒りから否定的な目で対象を見つめすぎると、自らもそのような存在へと変化してしまうという警句。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

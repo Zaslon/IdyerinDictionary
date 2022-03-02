@@ -13316,9 +13316,18 @@
       "forms" : [ "着いている", "オンの", "使用状態の", "活用されている", "有効な", "有効化された", "使われている", "使っている" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "使用可能な状態となっていること、あるいは使用されていること。上記のどちらを指すかは文脈による。"
+    } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 2819,
+        "form" : "nadun"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 712,
@@ -26192,12 +26201,12 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "紙", "書類" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "元々の意味の", "材質としての紙の他に", "紙に何かが記載されたものも指す。" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
+      "title" : "語法",
+      "text" : "元々の意味の、材質としての紙の他に、紙に何かが記載されたものも指す。"
+    }, {
       "title" : "語源",
       "text" : "faren+*at>"
     } ],
@@ -52422,11 +52431,20 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
+      "title" : "語法",
+      "text" : "使用されていること、今まさに動作中であることを指す。"
+    }, {
       "title" : "語源",
       "text" : "i.a"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 711,
+        "form" : "cegirin"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 2820,
@@ -93140,6 +93158,189 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5003,
+      "form" : "me-"
+    },
+    "translations" : [ {
+      "title" : "接頭辞",
+      "forms" : [ "内側の", "内の", "中の", "裏の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "meve"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5004,
+        "form" : "so-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5004,
+      "form" : "so-"
+    },
+    "translations" : [ {
+      "title" : "接頭辞",
+      "forms" : [ "外側の", "外の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "sove"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5003,
+        "form" : "me-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5005,
+      "form" : "meven"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "内側の", "内の", "中側の", "中の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5006,
+        "form" : "soven"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5006,
+      "form" : "soven"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "外側の", "外の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5005,
+        "form" : "meven"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5007,
+      "form" : "suc nagnon"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【電算】レバースイッチ", "トグルスイッチ", "レバー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "棒状の操作部を有するスイッチのこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5008,
+      "form" : "merdazuf"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "パターン", "規則性のあるもの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "規則性を持った一連の物のこと。完全に同一の繰り返しでなくとも、パターン性があると見なせるのであればmerdazufと呼称し得る。"
+    }, {
+      "title" : "語源",
+      "text" : "merdae+zuf"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5009,
+      "form" : "merdazufin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "パターン性のある", "規則性のある", "再現性のある" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "繰り返し実行可能であること。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5010,
+      "form" : "anserigus"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "(鋳物の)型", "型枠", "金型", "鋳型", "母型" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "物体を形作る際に、内部に素材を充填することで形状を規定する道具のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "ansere+igus"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 5011,
+        "form" : "nemanserigus"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5011,
+      "form" : "nemanserigus"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "型", "型枠", "金型", "鋳型", "母型" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "鋳物を制作する際の型枠のこと。材質は問わない。"
+    }, {
+      "title" : "語源",
+      "text" : "nemansere+igus"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 5010,
+        "form" : "anserigus"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

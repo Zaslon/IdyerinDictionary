@@ -52846,7 +52846,10 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "(対象の波や人の気持ちや意見", "人を)増幅させる", "増やす", "増殖させる", "煽動する", "揺り動かす", "揺さぶる", "ゆする", "増長させる", "煽る" ]
+      "forms" : [ "(程度を)増幅させる", "増やす", "増殖させる" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "(人や感情を)増幅させる", "煽動する", "揺り動かす", "揺さぶる", "ゆする", "増長させる", "煽る" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -52862,6 +52865,12 @@
       "entry" : {
         "id" : 1685,
         "form" : "gee"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5013,
+        "form" : "ennasgee"
       }
     } ]
   }, {
@@ -92621,6 +92630,24 @@
         "id" : 3149,
         "form" : "ragmag"
       }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5012,
+        "form" : "ragmag tuso-ez'agin"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5016,
+        "form" : "ragmag tuso-kagirnasgeomin"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5017,
+        "form" : "ragmag tuso-kagirennasgeomin"
+      }
     } ]
   }, {
     "entry" : {
@@ -92643,6 +92670,18 @@
         "id" : 3149,
         "form" : "ragmag"
       }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5012,
+        "form" : "ragmag tuso-ez'agin"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5018,
+        "form" : "ragmag tizzo-ez'agin"
+      }
     } ]
   }, {
     "entry" : {
@@ -92664,6 +92703,12 @@
       "entry" : {
         "id" : 3149,
         "form" : "ragmag"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5018,
+        "form" : "ragmag tizzo-ez'agin"
       }
     } ]
   }, {
@@ -93120,13 +93165,13 @@
       "title" : "同意",
       "entry" : {
         "id" : 5001,
-        "form" : "ragmag karignasgeomin"
+        "form" : "ragmag kagirnasgeomin"
       }
     } ]
   }, {
     "entry" : {
       "id" : 5001,
-      "form" : "ragmag karignasgeomin"
+      "form" : "ragmag kagirnasgeomin"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -93140,6 +93185,12 @@
       "entry" : {
         "id" : 5000,
         "form" : "kagirnasgeom"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5016,
+        "form" : "ragmag tuso-kagirnasgeomin"
       }
     } ]
   }, {
@@ -93339,6 +93390,190 @@
       "entry" : {
         "id" : 5010,
         "form" : "anserigus"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5012,
+      "form" : "ragmag tuso-ez'agin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【航空】エレボン", "テイルロン" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "補助翼と昇降舵の双方を兼ねる動翼のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4976,
+        "form" : "tusaragmag"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4977,
+        "form" : "ez'agiragmag"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5013,
+      "form" : "ennasgee"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "(程度を)減少させる", "縮小する", "低下させる", "抑える" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "(気持ちを)沈静化する", "なだめる", "諫める", "抑える" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "対格の程度をより小さくすること。対格に取る語は状態でも物体でも良い。良い意味でも悪い意味でも用いる。"
+    }, {
+      "title" : "語源",
+      "text" : "en+nasgee"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 2842,
+        "form" : "nasgee"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5014,
+      "form" : "ragmag kagirennasgeomin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【航空】スポイラー", "(航空機の)スピードブレーキ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "翼断面形状を乱すことで揚力を減少させる装置のこと。従って、厳密には翼ではない部分に装備し、抗力を増加させることで減速させる装置は含まない。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5015,
+        "form" : "kagirennasgeom"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5017,
+        "form" : "ragmag tuso-kagirennasgeomin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5015,
+      "form" : "kagirennasgeom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【航空】スポイラー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "揚力発生を低下させる装置のこと。この単語で抗力増加装置を指すことは無く、純粋に揚力の増幅を阻害する装置を指す。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5014,
+        "form" : "ragmag kagirennasgeomin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5016,
+      "form" : "ragmag tuso-kagirnasgeomin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【航空】フラッペロン" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4976,
+        "form" : "tusaragmag"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5001,
+        "form" : "ragmag kagirnasgeomin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5017,
+      "form" : "ragmag tuso-kagirennasgeomin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【航空】スポイレロン", "スポイロン", "スポエロン" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4976,
+        "form" : "tusaragmag"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5014,
+        "form" : "ragmag kagirennasgeomin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5018,
+      "form" : "ragmag tizzo-ez'agin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【航空】ラダーベーター" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "昇降舵と方向舵の双方を兼ねる動翼のこと。斜めに装着されたV字翼となることが多い。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4978,
+        "form" : "tizzaragmag"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4977,
+        "form" : "ez'agiragmag"
       }
     } ]
   } ],

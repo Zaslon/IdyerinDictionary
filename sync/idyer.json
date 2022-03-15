@@ -16642,7 +16642,7 @@
   }, {
     "entry" : {
       "id" : 885,
-      "form" : "digebanasda"
+      "form" : "Digebanasda"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -16703,7 +16703,7 @@
   }, {
     "entry" : {
       "id" : 889,
-      "form" : "digemanasda"
+      "form" : "Digemanasda"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -93579,6 +93579,270 @@
         "form" : "ez'agiragmag"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 5019,
+      "form" : "amedietube"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【言】第一言語", "母語", "母国語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "日常的に使用する言語であって、本人の自意識としても第一の言語である言語のこと。特に生得性に視点を当てた語。"
+    }, {
+      "title" : "文化",
+      "text" : "この単語は母語がひとつであることを想定した語であるため、複数言語話者にとってはどちらがamedietubeなのかを決めがたいことがある。大抵の人はそういった葛藤とは無縁であり、配慮もない傾向にある。複数言語話者に対して理解がある場合であっても、それは主言語と学習言語を持つ場合に対してであり、複数言語を同時に母語として扱えることを想定していない。"
+    }, {
+      "title" : "語源",
+      "text" : "amedi+etube"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5020,
+        "form" : "serbidetube"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5021,
+        "form" : "miaetube"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5020,
+      "form" : "serbidetube"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【言】学習言語", "非母語", "第二言語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "母語ではない言語のこと。日本語の様な第二、第三という区別は重視されない傾向にある。"
+    }, {
+      "title" : "語源",
+      "text" : "serbide+etube"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5019,
+        "form" : "amedietube"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5021,
+      "form" : "miaetube"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【言】母語", "主言語", "第一言語", "母国語" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(放送などにおける)主音声" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "1. 個人にとって主として使用する言語のこと。あるいは、国家や組織にとって主として使用する言語のこと。\n2. 放送や報道などにおける主使用言語のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "mia+etube"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5019,
+        "form" : "amedietube"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5022,
+        "form" : "sebetube"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5022,
+      "form" : "sebetube"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "副言語", "第二言語", "非母語" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(放送などにおける)副音声", "字幕言語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "2. 主として放送されている言語と同時に提供される、非主の言語のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "seb+etube"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5021,
+        "form" : "miaetube"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5023,
+      "form" : "amedietubedirom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "母語話者", "ネイティブスピーカー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "amedietube+tire"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5024,
+        "form" : "serbidetubedirom"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5024,
+      "form" : "serbidetubedirom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "非母語話者", "学習言語話者" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "serbidetube+tire"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5023,
+        "form" : "amedietubedirom"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5025,
+      "form" : "digema-"
+    },
+    "translations" : [ {
+      "title" : "接頭辞",
+      "forms" : [ "十一の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "dige+ma"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5026,
+      "form" : "digeba-"
+    },
+    "translations" : [ {
+      "title" : "接頭辞",
+      "forms" : [ "十二の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "dige+ba"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5027,
+      "form" : "digedar-"
+    },
+    "translations" : [ {
+      "title" : "接頭辞",
+      "forms" : [ "十三の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "dige+tar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5028,
+      "form" : "badige-"
+    },
+    "translations" : [ {
+      "title" : "接頭辞",
+      "forms" : [ "二十の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "ba+dige"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5029,
+      "form" : "badigevinde-"
+    },
+    "translations" : [ {
+      "title" : "接頭辞",
+      "forms" : [ "二十五の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "ba+dige+finde"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5030,
+      "form" : "baamedietubedirom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "二言語話者", "バイリンガル" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "ふたつの言語がネイティブである人のこと。ダブルネイティブ。"
+    }, {
+      "title" : "語源",
+      "text" : "ba+amedietubedirom"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

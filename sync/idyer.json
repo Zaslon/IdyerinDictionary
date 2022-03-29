@@ -21373,17 +21373,32 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "範囲", "領域", "レンジ", "圏", "射程", "域" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "状態", "ステート" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "行動や影響が届く時間や空間の幅のこと。日本語や英語と同様、範囲の限界を示すことに使われることが多く、「範囲内」を示すためには処格を用いる必要がある。"
+      "text" : "1. 行動や影響が届く時間や空間の幅のこと。日本語や英語と同様、範囲の限界を示すことに使われることが多く、「範囲内」を示すためには処格を用いる必要がある。\n2. 一時的な性質のこと。変化する可能性を秘めた性質のこと。"
     }, {
       "title" : "用例",
       "text" : "Enif senhur guni.|範囲は三から五までだ。\nTakef kaunanis enira.|敵は射程内だ。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4034,
+        "form" : "tevi"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5031,
+        "form" : "s'u"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 1140,
@@ -23512,7 +23527,7 @@
   }, {
     "entry" : {
       "id" : 1252,
-      "form" : "etube Ratin engarin"
+      "form" : "etube Ratain engarin"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -74887,6 +74902,12 @@
         "id" : 4745,
         "form" : "tazma"
       }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 1139,
+        "form" : "eni"
+      }
     } ]
   }, {
     "entry" : {
@@ -76315,7 +76336,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "原義は膨らませる力だが、現在は負圧であっても用いて良い。日本語のように「圧迫する力」というイメージがないため、「圧力を受けた」という比喩に用いることができない。"
+      "text" : "原義は膨らませる力だが、負圧であっても用いて良い。日本語のように「圧迫する力」というイメージがないため、「圧力を受けた」という比喩に用いることができない。"
     }, {
       "title" : "語源",
       "text" : "te+okreme"
@@ -86994,7 +87015,13 @@
       "text" : "sin+muzin"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4699,
+        "form" : "amzinmuzin"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 4699,
@@ -87013,7 +87040,13 @@
       "text" : "am+sin+muzin"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4698,
+        "form" : "sinmuzin"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 4700,
@@ -93840,6 +93873,122 @@
     }, {
       "title" : "語源",
       "text" : "ba+amedietubedirom"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5031,
+      "form" : "s'u"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "性質", "特性", "性格", "気質" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【電算】プロパティ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "1. 本質と不可分で容易に変更できない性質のこと。生物か非生物に関わらずに用いる。\n2. プロパティの訳語。この意味で用いる際は、容易に変更できるかどうかは不問となる。"
+    }, {
+      "title" : "語源",
+      "text" : "r"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 1139,
+        "form" : "eni"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5032,
+      "form" : "mevizin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "内向きの", "内側方向の", "内向きに" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "外側から内側に向かう方向のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "me+vizin"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5033,
+        "form" : "sovizin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5033,
+      "form" : "sovizin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "外向きの", "外側方向の", "外向きに" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "内側から外側に向かう方向のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "so+vizin"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5032,
+        "form" : "mevizin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5034,
+      "form" : "mekremidoe"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "(対象を)(対象に)圧入する", "押し込む", "押し入れる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "対格を、圧力をかけて与格に入れること。"
+    }, {
+      "title" : "語源",
+      "text" : "mekreme+idoe"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5035,
+      "form" : "karkmekremidoom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "空気入れ", "エアコンプレッサー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "空気に圧力をかけて押し込む機器のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "kark+mekremidoe"
     } ],
     "variations" : [ ],
     "relations" : [ ]

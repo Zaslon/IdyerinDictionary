@@ -26995,7 +26995,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "仮想的な線のこと。回転の軸はvaram。特に、移動や回転や座標を考えるときに仮想的に必要になる線のこと。イメージするのは直線だが、曲がっていても直交していなくても定義上は問題ない。"
+      "text" : "仮想的な線のこと。物理的な軸はvaramで表す。特に、移動や回転や座標を考えるときに仮想的に必要になる線のこと。イメージするのは直線だが、曲がっていても直交していなくても定義上は問題ない。"
     }, {
       "title" : "語源",
       "text" : "*fif+*sand"
@@ -42868,10 +42868,16 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "人複数人が腰掛けられる構造物。"
+      "text" : "複数人が腰掛けられる構造物。椅子であることを明示していないため、dungid'iusと異なり一時的に腰掛とみなせる長い構造物に対して用いることができる。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5037,
+        "form" : "dungid'ius"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 2301,
@@ -44107,7 +44113,10 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "ニュートラル", "中立", "中心", "中央", "芯", "中くらい", "半ば", "途中", "途上", "(大中小の)中", "【音】アルト" ]
+      "forms" : [ "ニュートラル", "中立", "中心", "中央", "芯", "中くらい", "半ば", "途中", "途上", "(大中小の)中" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【音】アルト" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -51622,7 +51631,10 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "屈曲", "偏向", "【物】屈折" ]
+      "forms" : [ "屈曲", "偏向" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【物】屈折" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -72080,7 +72092,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "はやさの度合い。"
+      "text" : "時間当たりの位置の変化量のこと。"
     }, {
       "title" : "語源",
       "text" : "r"
@@ -72331,7 +72343,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "空から氷全般。"
+      "text" : "空から降る氷全般を指す。"
     }, {
       "title" : "語源",
       "text" : "suta+karta>"
@@ -77280,7 +77292,7 @@
       "title" : "同意",
       "entry" : {
         "id" : 4971,
-        "form" : "torcoskom tugo-tedungin"
+        "form" : "torcoskom tugo-sugran"
       }
     } ]
   }, {
@@ -80811,6 +80823,9 @@
     },
     "translations" : [ {
       "title" : "名詞",
+      "forms" : [ "(回転体の)芯", "軸" ]
+    }, {
+      "title" : "名詞",
       "forms" : [ "ヒンジ", "回転軸", "蝶番", "ちょうつがい" ]
     } ],
     "tags" : [ ],
@@ -80819,7 +80834,13 @@
       "text" : "*var+*vam"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 1441,
+        "form" : "fasant"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 4360,
@@ -92511,7 +92532,7 @@
   }, {
     "entry" : {
       "id" : 4971,
-      "form" : "torcoskom tugo-tedungin"
+      "form" : "torcoskom tugo-sugran"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -93989,6 +94010,120 @@
     }, {
       "title" : "語源",
       "text" : "kark+mekremidoe"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5036,
+      "form" : "sugra meverin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "回転速度", "回転数" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "物体が回転する速度のこと。日本語で「回転数」と言ったとき、指しているものは大抵は一定時間の回転数、つまり回転速度であるため、この語で訳して良い。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5037,
+      "form" : "dungid'ius"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "ソファー", "カウチ", "長椅子", "ベンチ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "横方向に長く、複数人が座れる形状の椅子のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "dungin+t'ius"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 2300,
+        "form" : "koza"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5038,
+      "form" : "sim-"
+    },
+    "translations" : [ {
+      "title" : "接頭辞",
+      "forms" : [ "同一～", "一致した～" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "この後に接続する要素を同一とするような性質を指す単語を形成する。殆どの場合、記述詞となる。"
+    }, {
+      "title" : "語源",
+      "text" : "simin"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5039,
+      "form" : "simmuren"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "同程度の", "同程度に", "同じくらいの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "程度が同じであること。"
+    }, {
+      "title" : "語源",
+      "text" : "sim+muren"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5040,
+      "form" : "simvaramin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "同軸の", "同一回転軸の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "軸を共有している状態にあること。"
+    }, {
+      "title" : "語源",
+      "text" : "sim+varam"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5041,
+      "form" : "amzimvaramin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "非同軸の", "非同一回転軸の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "am+simvaramin"
     } ],
     "variations" : [ ],
     "relations" : [ ]

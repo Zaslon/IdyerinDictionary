@@ -30482,12 +30482,15 @@
     },
     "translations" : [ {
       "title" : "名詞",
+      "forms" : [ "文字" ]
+    }, {
+      "title" : "名詞",
       "forms" : [ "【言】字母", "文字" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "ある言語の表記に用いられる文字集合のことを指す。 集合全体のことを指す場合と、個別の文字を表す場合があるが、文脈で判断する。"
+      "text" : "1. 一般用語としての文字、言語を表記するために用いる記号のこと。一般に数字を含めない。\n2. ある言語の表記に用いられる文字集合のことを指す。 集合全体のことを指す場合と、個別の文字を表す場合があるが、文脈で判断する。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -76042,6 +76045,12 @@
         "id" : 1792,
         "form" : "gui"
       }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5043,
+        "form" : "sendavansas"
+      }
     } ]
   }, {
     "entry" : {
@@ -94127,6 +94136,119 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5042,
+      "form" : "skivunemekrom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【言】頭字語", "アクロニム", "イニシャリズム" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "頭文字のみを取り出して単語とすること。また、それによって構成された単語そのもののこと。一般にアクロニムとイニシャリズムを区別しない。"
+    }, {
+      "title" : "語源",
+      "text" : "ski+fune+mekrom"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5043,
+      "form" : "sendavansas"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【言】音素" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "ある言語の話者にとって、同じであると感じられる音声群をまとめた存在のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "senda+fansas"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4097,
+        "form" : "tirzenda"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5044,
+      "form" : "as'tavansas"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【言】形態素" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "意味を構成する最小要素と見なせる音素の塊のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "as'tae+fansas"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 5046,
+        "form" : "kaivansas"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5045,
+      "form" : "-vansas"
+    },
+    "translations" : [ {
+      "title" : "接尾辞",
+      "forms" : [ "～物質" ]
+    }, {
+      "title" : "接尾辞",
+      "forms" : [ "～素", "～素子" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "fansasのふたつの用法に対応して、ふたつの用法が存在する。"
+    }, {
+      "title" : "語源",
+      "text" : "fansas"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5046,
+      "form" : "kaivansas"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【言】語根" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "as'tavansasの内、単語の意味の中心となるもののこと。有意味な自由形態素のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 5044,
+        "form" : "as'tavansas"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

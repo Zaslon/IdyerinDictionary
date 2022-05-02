@@ -10223,7 +10223,13 @@
       "text" : "イジェール語においては、初期は2つの単語の前半分と後ろ半分を接合する方法で造語することが多かった。つまりかばん語方式が主流だった。移民船で移動していた頃はかばん語が広く用いられていたが、現在は専ら複合によって語を形成する事が多い。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 5053,
+        "form" : "deivgai"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 542,
@@ -94370,6 +94376,28 @@
       "entry" : {
         "id" : 2060,
         "form" : "kaivam"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5053,
+      "form" : "deivgai"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【言】派生語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "deivin+kai"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 541,
+        "form" : "bardgai"
       }
     } ]
   } ],

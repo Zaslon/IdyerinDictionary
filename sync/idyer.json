@@ -15537,7 +15537,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "関連",
+      "title" : "対義語",
       "entry" : {
         "id" : 4329,
         "form" : "vame"
@@ -38434,7 +38434,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5052,
+        "form" : "kaideiv"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 2061,
@@ -46443,7 +46449,7 @@
       "form" : "mazae"
     },
     "translations" : [ {
-      "title" : "名詞",
+      "title" : "動詞",
       "forms" : [ "(対象を)指示する", "示す", "指し示す", "ポイントする", "特定する", "表す" ]
     } ],
     "tags" : [ ],
@@ -73794,7 +73800,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "(ゲームの)体力", "ヒットポイント", "HP" ]
+      "forms" : [ "体力", "(ゲームの)ヒットポイント", "HP" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -80289,7 +80295,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "関連",
+      "title" : "対義語",
       "entry" : {
         "id" : 829,
         "form" : "deive"
@@ -94290,6 +94296,82 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5049,
+      "form" : "siraca"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【言】名詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "i.a"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5050,
+      "form" : "veesasui"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【言】助動詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "英語などにおける助動詞を指す語。イジェール語には助動詞は存在しない。"
+    }, {
+      "title" : "語源",
+      "text" : "vees+asui"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5051,
+      "form" : "veesziraca"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【言】代名詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "vees+siraca"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5052,
+      "form" : "kaideiv"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【言】派生" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "派生による造語行為のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "kai+deive"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 2060,
+        "form" : "kaivam"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

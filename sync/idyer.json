@@ -31801,7 +31801,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5056,
+        "form" : "mogerin"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 1703,
@@ -68278,7 +68284,7 @@
       "title" : "類義語",
       "entry" : {
         "id" : 4661,
-        "form" : "enzas"
+        "form" : "enzase"
       }
     } ]
   }, {
@@ -86352,7 +86358,7 @@
   }, {
     "entry" : {
       "id" : 4659,
-      "form" : "enzase"
+      "form" : "enzasee"
     },
     "translations" : [ {
       "title" : "動詞",
@@ -86364,7 +86370,7 @@
       "text" : "別々のものの区別を無くし、ひとつに纏めること。同一個体の一部として取り込むこと。"
     }, {
       "title" : "語源",
-      "text" : "en+sase"
+      "text" : "en+sasee"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -86390,7 +86396,7 @@
   }, {
     "entry" : {
       "id" : 4661,
-      "form" : "enzas"
+      "form" : "enzase"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -88275,7 +88281,7 @@
   }, {
     "entry" : {
       "id" : 4761,
-      "form" : "idoagzasom"
+      "form" : "idoagzaseom"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -88284,20 +88290,20 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語源",
-      "text" : "idoag+sase"
+      "text" : "idoag+sasee"
     } ],
     "variations" : [ ],
     "relations" : [ {
       "title" : "対義語",
       "entry" : {
         "id" : 4762,
-        "form" : "karagenzasom"
+        "form" : "karagenzaseom"
       }
     } ]
   }, {
     "entry" : {
       "id" : 4762,
-      "form" : "karagenzasom"
+      "form" : "karagenzaseom"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -88306,14 +88312,14 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語源",
-      "text" : "karag+enzase"
+      "text" : "karag+enzasee"
     } ],
     "variations" : [ ],
     "relations" : [ {
       "title" : "対義語",
       "entry" : {
         "id" : 4761,
-        "form" : "idoagzasom"
+        "form" : "idoagzaseom"
       }
     } ]
   }, {
@@ -91140,7 +91146,7 @@
       "title" : "類義語",
       "entry" : {
         "id" : 4659,
-        "form" : "enzase"
+        "form" : "enzasee"
       }
     } ]
   }, {
@@ -94398,6 +94404,60 @@
       "entry" : {
         "id" : 541,
         "form" : "bardgai"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5054,
+      "form" : "Kiev"
+    },
+    "translations" : [ {
+      "title" : "固有名詞",
+      "forms" : [ "【地名】キーウ", "キエフ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "cal/ru"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5055,
+      "form" : "Donbas"
+    },
+    "translations" : [ {
+      "title" : "固有名詞",
+      "forms" : [ "【地名】ドンバス" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "cal/"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5056,
+      "form" : "mogerin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "無罪の", "罪のない", "潔白な" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "cal/mo+gerin"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 1702,
+        "form" : "gerin"
       }
     } ]
   } ],

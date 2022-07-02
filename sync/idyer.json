@@ -27195,7 +27195,10 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "(場所や施設や人員を)占拠する", "支配する", "【軍】占領する" ]
+      "forms" : [ "(場所や施設や人員を)占拠する", "支配する" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "【軍】占領する" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -66093,17 +66096,14 @@
   }, {
     "entry" : {
       "id" : 3557,
-      "form" : "sendaduie"
+      "form" : "sugra sendan"
     },
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "音速" ]
     } ],
     "tags" : [ ],
-    "contents" : [ {
-      "title" : "語源",
-      "text" : "senda+tuie"
-    } ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   }, {

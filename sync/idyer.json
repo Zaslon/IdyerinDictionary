@@ -30647,11 +30647,20 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
+      "title" : "語法",
+      "text" : "フォントのこと。ある特定の文字形状の集合のこと。"
+    }, {
       "title" : "語源",
       "text" : "funeruzem+anseresk"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5062,
+        "form" : "oskurmizer"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 1642,
@@ -94460,6 +94469,167 @@
         "form" : "gerin"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 5057,
+      "form" : "s'odurin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "(味や匂いが)爽やかな", "爽やかに" ]
+    }, {
+      "title" : "記述詞",
+      "forms" : [ "(人が)無垢な", "無邪気な", "素直な" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "1. 特に食品が、清涼感を感じさせるような性質を有していること。\n2. 人に邪念や裏表が無いこと。"
+    }, {
+      "title" : "語源",
+      "text" : "r>i.a"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5058,
+      "form" : "udeduhin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "(人が)陽気な", "明るい" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "r>i.a"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5059,
+        "form" : "kareman"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5059,
+      "form" : "kareman"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "(人が)陰気な", "暗い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "r"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5058,
+        "form" : "udeduhin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5060,
+      "form" : "karemae"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "(人を)落ち込ませる", "暗い気持ちにさせる", "陰気にさせる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5061,
+        "form" : "deduhie"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5061,
+      "form" : "deduhie"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "(人を)元気づける", "明るくする", "陽気にさせる", "明るい気持ちにする" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5060,
+        "form" : "karemae"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5062,
+      "form" : "oskurmizer"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "書体", "スクリプト" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "文字の様式のこと。個別のフォントのことではなく、サンセリフや草書といった、フォントが属する集団を指す語。"
+    }, {
+      "title" : "語源",
+      "text" : "osukure+mizer"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 1641,
+        "form" : "funeruzemanseresk"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5063,
+      "form" : "oskurmizer anarogin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "草書体", "筆記体" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "本来は一筆書きを想定した書体のこと。現在は、一筆書きから発展した筆記体などの書体を指す。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5064,
+      "form" : "oskurmizer deanin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "標準体", "ブロック体" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "標準的に使用される書体のこと。現実にはブロック体を指す。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

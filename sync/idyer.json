@@ -34189,7 +34189,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "物体の表面が硬質なこと。内部までは問わない。"
+      "text" : "物体の表面が硬質なこと。内部の硬さは問わない。"
     }, {
       "title" : "語源",
       "text" : "r"
@@ -36215,6 +36215,9 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
+      "title" : "語法",
+      "text" : "物体の表面が柔らかなこと。内部の硬さは問わない。"
+    }, {
       "title" : "語源",
       "text" : "r"
     } ],
@@ -36226,10 +36229,10 @@
         "form" : "hetean"
       }
     }, {
-      "title" : "参照",
+      "title" : "類義語",
       "entry" : {
-        "id" : 1828,
-        "form" : "hetean"
+        "id" : 5068,
+        "form" : "sugaran"
       }
     } ]
   }, {
@@ -94633,6 +94636,113 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5065,
+      "form" : "akebe"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "浮かせる", "浮遊させる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "地面から離れた状態を維持すること。空中に浮遊する場合、水面に浮かぶ場合などが含まれる。"
+    }, {
+      "title" : "語源",
+      "text" : "r"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5066,
+      "form" : "akeb"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "浮遊", "浮かべること" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5067,
+      "form" : "akebin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "浮いている", "浮いた", "浮かんだ", "浮かべられた", "浮遊している" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5068,
+      "form" : "sugaran"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "柔軟な", "変形しやすい", "やわらかい", "しなやかな" ]
+    }, {
+      "title" : "記述詞",
+      "forms" : [ "(規則などに対して)柔軟な", "弾力的な" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "1. 変形が容易な構造であること。\n2. 規則や常識、手続きに対しての準拠度が低いさま。"
+    }, {
+      "title" : "語源",
+      "text" : "a"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 1933,
+        "form" : "ien"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5069,
+        "form" : "amzugaran"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5069,
+      "form" : "amzugaran"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "柔軟性のない", "かたい", "変形し難い", "剛な" ]
+    }, {
+      "title" : "記述詞",
+      "forms" : [ "かっちりとした", "規則的な", "真面目な", "お堅い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "1. 変形が容易ではない構造であること。\n2. 規則や常識、手続きに対しての準拠度が高いさま。"
+    }, {
+      "title" : "語源",
+      "text" : "am+sugaran"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5068,
+        "form" : "sugaran"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

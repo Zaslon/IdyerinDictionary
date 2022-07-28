@@ -94743,6 +94743,25 @@
         "form" : "sugaran"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 5070,
+      "form" : "idoagzimaom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "吸気冷却器", "インタークーラー", "アフタークーラー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "吸気を冷却する装置のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "idoag+simae"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

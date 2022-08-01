@@ -72150,7 +72150,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "早さ", "速度", "速さ" ]
+      "forms" : [ "早さ", "速度", "速さ", "スピード" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -94880,6 +94880,22 @@
         "form" : "sarinoka"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 5075,
+      "form" : "sugra akerin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "光速" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "光の速度のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

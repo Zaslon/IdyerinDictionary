@@ -94915,6 +94915,28 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5077,
+      "form" : "fe"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "妖精", "フェアリー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "無垢な精神を宿した、人ならざる者たちのこと。"
+    }, {
+      "title" : "文化",
+      "text" : "無垢であるということは善良であるということを意味しない。無邪気な悪を宿している場合も含む。また、人型であるとは限らず、小人や子供の姿だけでなく、鬼火等も含む。外来の文化であり、イジェール人本来の信仰としては、人以外の超常の存在としては神々と天使と悪魔、魔獣が広く認知されている。"
+    }, {
+      "title" : "語源",
+      "text" : "de:Fee"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

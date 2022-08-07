@@ -249,6 +249,12 @@
         "id" : 489,
         "form" : "azma"
       }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5079,
+        "form" : "fan-"
+      }
     } ]
   }, {
     "entry" : {
@@ -10399,6 +10405,9 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
+      "title" : "語法",
+      "text" : "紐や縄を編んで格子状にしたもの。硬軟を問わないので、鉄線を編んだフェンス状のものも含まれる一方で、金属板や木板を格子状に肉抜きしたものは含まれない。紙を格子状に肉抜きしたものは、編んでいないために本来含まれないが、伸び縮みする様にbarkiを見出されてこの語で表現されることがある。"
+    }, {
       "title" : "文化",
       "text" : "漁業がほとんどないので漁業用の網はあまり馴染みがない。ハンモックや罠用の網の方を想像する。"
     }, {
@@ -13513,10 +13522,13 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "【電算】インターネット", "ネット", "情報網" ]
+      "forms" : [ "【電算】インターネット", "ネットワーク", "情報網" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
+      "title" : "語法",
+      "text" : "情報を相互にやり取りする装置による、網状の構成のこと。"
+    }, {
       "title" : "語源",
       "text" : "ceis+barki"
     } ],
@@ -45109,6 +45121,9 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
+      "title" : "語法",
+      "text" : "複数個あるものの内、そのすべてを指す。「万国」の万にあたる表現であり、「全国」の全のように、その要素内の全てを指すものではない。"
+    }, {
       "title" : "語源",
       "text" : "u"
     } ],
@@ -45118,6 +45133,12 @@
       "entry" : {
         "id" : 3375,
         "form" : "san"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5079,
+        "form" : "fan-"
       }
     } ]
   }, {
@@ -94934,6 +94955,136 @@
     }, {
       "title" : "語源",
       "text" : "de:Fee"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5078,
+      "form" : "barkigasku"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "チェーンメイル", "鎖帷子" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "barki+gasku"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5079,
+      "form" : "fan-"
+    },
+    "translations" : [ {
+      "title" : "接頭辞",
+      "forms" : [ "全～", "汎～", "全～的な", "インター～", "オール～" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "ある要素内全てに対しての、という語を作る接頭辞。日本語で言えば「全国」の全にあたる。なお、「万国」の万は記述詞の man にあたる。"
+    }, {
+      "title" : "語源",
+      "text" : "*fan"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 11,
+        "form" : "-azma"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 2418,
+        "form" : "man"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5080,
+      "form" : "fanvedenan"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "全惑星的な", "全国的な", "全球的な", "惑星全体にわたる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "複数の惑星や星系が連合して国家をなす時代であっても、人々は自分が居住している惑星以外にはあまり興味がない。輸出入は可能であるとはいえ空気密度や重力が異なる星でも動作可能な製品を製造することは難しく、データ転送も光速の壁に阻まれるために同時性が保てないために、現代よりもインターネットの影響力が低い。従って、全惑星的な規模であるということは、殆どの人にとっては全国的であるという認識になりがちである。"
+    }, {
+      "title" : "語源",
+      "text" : "fan+fedena"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5081,
+      "form" : "ceisbarki fanvedenan"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【電算】ワールドワイドウェブ", "インターネット", "ウェブ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "現代では全世界を繋いでいるインターネットも、星々をまたぐには光が遅すぎるために、同じ仕組みで拡張していくのは惑星内が限界である。非同期的な仕組みによって惑星間のネットワークも繋がってはいるが、現代の様にほぼリアルタイムで接続できるわけではないため、影響力が現代よりも低い。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5082,
+      "form" : "iebioskuresk"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【電算】ハイパーテキスト" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "en:hypertext"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5083,
+      "form" : "ceidd'ag"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【電算】リンク" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "ceid+cag"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5084,
+      "form" : "iebiceidd'ag"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "【電算】ハイパーリンク" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "en:hyperlink"
     } ],
     "variations" : [ ],
     "relations" : [ ]

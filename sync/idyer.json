@@ -55104,6 +55104,12 @@
         "id" : 3809,
         "form" : "srarifa"
       }
+    }, {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 5085,
+        "form" : "ranir"
+      }
     } ]
   }, {
     "entry" : {
@@ -55140,6 +55146,12 @@
       "entry" : {
         "id" : 4776,
         "form" : "deauerte"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5085,
+        "form" : "ranir"
       }
     } ]
   }, {
@@ -95088,6 +95100,114 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5085,
+      "form" : "ranir"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【緯】【宗】ラーニル", "大霊", "神霊" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "神々の魂のこと。"
+    }, {
+      "title" : "文化",
+      "text" : "niruerteで目覚めていられる特別なnirのこと。人の魂はniruerteでは起きてはいられないため、必然的に神々や天使、悪魔の魂ということになる。"
+    }, {
+      "title" : "語源",
+      "text" : "*ra+nir"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 2956,
+        "form" : "nir"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 2957,
+        "form" : "niruerte"
+      }
+    }, {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 5086,
+        "form" : "iriranir"
+      }
+    }, {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 5087,
+        "form" : "fazaranir"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5086,
+      "form" : "iriranir"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【緯】【宗】イリラーニル", "(神々の)悪心", "邪心", "乱心" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "神々は2つの側面を持つ。そのうちの人に害をなす方を指す言葉。"
+    }, {
+      "title" : "語源",
+      "text" : "r.a"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 5085,
+        "form" : "ranir"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5087,
+        "form" : "fazaranir"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5087,
+      "form" : "fazaranir"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【緯】【宗】ファザラーニル", "(神々の)善心", "良心" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "神々は2つの側面を持つ。そのうちの人に恩恵をもたらす方を指す言葉。"
+    }, {
+      "title" : "語源",
+      "text" : "r.a"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 5085,
+        "form" : "ranir"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5086,
+        "form" : "iriranir"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

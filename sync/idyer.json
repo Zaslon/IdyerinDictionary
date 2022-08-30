@@ -16507,7 +16507,19 @@
       "text" : "dicaker+kaunan"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 5093,
+        "form" : "kaunan dicakerin kietikin"
+      }
+    }, {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 5094,
+        "form" : "kaunan dicakerin anarogin"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 877,
@@ -29447,12 +29459,18 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "軌道", "レール", "(ある程度太い)道路", "(鉄道の)線", "ライン" ]
+      "forms" : [ "軌道", "レール" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(ある程度太い)道路", "街道" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(鉄道の)線", "ライン" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "輸送機械が移動する経路のこと。山手線や御堂筋線の「線」はfire。"
+      "text" : "3. 輸送機械が移動する経路のこと。山手線や御堂筋線の「線」を指す。"
     }, {
       "title" : "語源",
       "text" : "r"
@@ -29469,6 +29487,12 @@
       "entry" : {
         "id" : 4253,
         "form" : "uievire"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 2174,
+        "form" : "ki"
       }
     } ]
   }, {
@@ -31087,11 +31111,23 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
+      "title" : "語法",
+      "text" : "個人が保持できる程度の大きさの投射装置のこと。"
+    }, {
+      "title" : "文化",
+      "text" : "石油資源が非常に貴重であるため、火薬を用いる形式の十よりも電磁力を用いて投射するタイプの銃の方が一般的である。"
+    }, {
       "title" : "語源",
       "text" : "a>i.k"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 5092,
+        "form" : "gain fabarin"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 1665,
@@ -40642,6 +40678,12 @@
         "id" : 872,
         "form" : "dic"
       }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 1576,
+        "form" : "fire"
+      }
     } ]
   }, {
     "entry" : {
@@ -40858,7 +40900,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "一瞬の内に強い衝撃を伴うような性質を持っていること。ショッキングの意味は無い。"
+      "text" : "一瞬の内に強い衝撃を伴うような性質を持っていること。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -71915,7 +71957,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "短い銃という意味であり、騎兵の意味を持たない。このため、現代でも慣習的命名としてではなく、小銃の短縮モデルと言う意味で普通に通用する。"
+      "text" : "短い銃という意味であり、騎兵の意味を持たない。このため、現代でも慣習的命名としてではなく、小銃の短縮モデルと言う意味でも通用する。"
     }, {
       "title" : "語源",
       "text" : "s'udin+gain"
@@ -78935,7 +78977,13 @@
       "text" : "uie+harme+fire"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "省略",
+      "entry" : {
+        "id" : 4253,
+        "form" : "uievire"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 4252,
@@ -78985,13 +79033,19 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "法律上の正式名称はuiegarmevire。"
+      "text" : "法律上の正式名称はuiegarmevireである。"
     }, {
       "title" : "語源",
       "text" : "uie+harme+fire>"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "省略",
+      "entry" : {
+        "id" : 4251,
+        "form" : "uiegarmevire"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 4254,
@@ -95236,6 +95290,159 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5089,
+      "form" : "gain dingo-fiatin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "レールガン", "電磁投射銃" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "電磁気を利用する銃" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "1. ローレンツ力を利用して弾丸を投射する銃のこと。\n2. 電磁気力を利用する銃全般のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5091,
+        "form" : "firegain"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5090,
+      "form" : "gain inoseran"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "コイルガン", "ガウスガン" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "コイルによる磁界で弾丸を加速する銃のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5091,
+      "form" : "firegain"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "レールガン", "電磁投射銃" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "ローレンツ力を利用した銃のこと。本来は gain dingo-fiatin だが、意味が一般化してレールガンのみを指す場合に不都合が出てきたため、この語も用いられるようになった。"
+    }, {
+      "title" : "語源",
+      "text" : "en"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5089,
+        "form" : "gain dingo-fiatin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5092,
+      "form" : "gain fabarin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "火薬銃", "火薬式銃" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "通常の銃を指すレトロニム。"
+    }, {
+      "title" : "語源",
+      "text" : "fabar+gain"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 1664,
+        "form" : "gain"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5093,
+      "form" : "kaunan dicakerin kietikin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【軍】パルスレーザー砲" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "瞬間的な大出力を断続的に照射することで対象の破壊を目指すタイプのレーザー砲のこと。"
+    }, {
+      "title" : "文化",
+      "text" : "王国軍の宇宙艦艇に搭載されている主力の兵器である。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 876,
+        "form" : "dicakergaunan"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5094,
+        "form" : "kaunan dicakerin anarogin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5094,
+      "form" : "kaunan dicakerin anarogin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【軍】連続レーザー砲" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "レーザーを連続的に照射し続けるタイプのレーザー砲のこと。"
+    }, {
+      "title" : "文化",
+      "text" : "王国軍においては主流の兵器ではない。連続的な光線を用いるのは、砲ではなく専ら索敵や照準のための機器である。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 876,
+        "form" : "dicakergaunan"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5093,
+        "form" : "kaunan dicakerin kietikin"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

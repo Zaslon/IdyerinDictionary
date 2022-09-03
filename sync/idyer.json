@@ -32839,10 +32839,16 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "投射されるものを表す一番上位の語。弾丸や砲弾は、それらに対応する単語が適切な場合はそちらを用いるのが普通で、gireskは「弾丸とは銃により発射される投射物の一種である」のような定義文で用いられる単語。"
+      "text" : "投射されるものを表す一番上位の語。弾丸や砲弾は、それらに対応する単語が適切な場合はそちらを用いるのが普通で、gireskは「弾丸とは銃により発射される投射物の一種である」のような定義文で用いられる単語。レールガンなど火薬式ではない銃の弾丸はこちらで示す。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 1854,
+        "form" : "hor"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 1754,
@@ -34740,7 +34746,13 @@
       "text" : "r"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 1753,
+        "form" : "giresk"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 1855,
@@ -91490,7 +91502,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "",
+      "title" : "対義語",
       "entry" : {
         "id" : 4913,
         "form" : "zuf genaruan"
@@ -91509,7 +91521,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "",
+      "title" : "対義語",
       "entry" : {
         "id" : 4912,
         "form" : "zuf manaruan"

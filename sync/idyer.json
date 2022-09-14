@@ -8561,7 +8561,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "文化",
-      "text" : "戦車や自走砲、装甲兵員輸送車を含めた全てを指す。装甲されているものの、本来戦闘用ではない車はaumen harmeで区別する。"
+      "text" : "戦車や自走砲、装甲兵員輸送車を含めた全てを指す。装甲されているものの、警察車両などを含む装甲された車両一般はharme aumenで区別する。"
     }, {
       "title" : "語源",
       "text" : "aume+harme"
@@ -44956,9 +44956,15 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "公務員", "公人" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【軍】兵員", "軍人" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
+      "title" : "語法",
+      "text" : "1. 公務に携わる人のこと。\n2. 軍務に就く公務員のこと。従って、軍属を含まない。"
+    }, {
       "title" : "文化",
       "text" : "makの原義は「聖職者」だったが、意味が拡大し社会の為の職務に就く人全般を指すようになった。"
     }, {
@@ -95455,6 +95461,22 @@
         "form" : "kaunan dicakerin kietikin"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 5095,
+      "form" : "aumemakd'artigom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【軍】装甲兵員輸送車", "APC" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "aume+mak+cartige"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

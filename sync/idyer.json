@@ -10952,7 +10952,10 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "子供", "こども", "【蔑】(大人に対して)おこちゃま" ]
+      "forms" : [ "子供", "こども" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【蔑】(大人に対して)おこちゃま" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -33434,13 +33437,19 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "鐘といえばチューブラーベルか教会の鐘をイメージする。"
+      "text" : "楽器としての鐘のこと。鐘といえばチューブラーベルか教会の鐘をイメージする。"
     }, {
       "title" : "語源",
       "text" : "de"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5103,
+        "form" : "beiza"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 1785,
@@ -95610,6 +95619,107 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5103,
+      "form" : "beiza"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "鳴動装置", "ベル", "ブザー", "呼び鈴" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "特定の機能のために音を鳴らす装置のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "a>i.k"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 1784,
+        "form" : "grokken"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5104,
+      "form" : "ikroom ticen burin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "体温計" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5105,
+      "form" : "s'enatbeib"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "スコープ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "筒の端部にガラスを装着する形態の道具のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "s'enat+peib"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5106,
+      "form" : "bemarz'enatbeib"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "拡大鏡", "顕微鏡" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "bemarin+s'enatbeib"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5107,
+        "form" : "fiz'enatbeib"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5107,
+      "form" : "fiz'enatbeib"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "望遠鏡", "遠見" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "fin+s'enatbeib"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5106,
+        "form" : "bemarz'enatbeib"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

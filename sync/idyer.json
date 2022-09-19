@@ -2801,7 +2801,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "価値判断は中立で、程度が大きいことを示す。"
+      "text" : "1. 程度が大きいこと。価値判断は中立。\n2. 単独で用いることで、程度が大きいことに対してのリアクションとして用いることができる。単独で用いると俗な響きがあるが、修飾として使う場合に俗な印象は無い。"
     }, {
       "title" : "語源",
       "text" : "r|良い"
@@ -24665,7 +24665,7 @@
     },
     "translations" : [ {
       "title" : "記述詞",
-      "forms" : [ "(順番が", "物理的位置が", "時間的に過去側に)前で", "前に", "先に", "奥に", "未来に", "今度に" ]
+      "forms" : [ "(順番が", "物理的位置が", "時間的に未来側に)前で", "前に", "先に", "奥に", "未来に", "今度に" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -35868,6 +35868,9 @@
     "translations" : [ {
       "title" : "記述詞",
       "forms" : [ "手遅れの", "取り返しがつかない", "取り返しの付かない", "時間切れの", "間に合わない", "遅すぎる" ]
+    }, {
+      "title" : "記述詞",
+      "forms" : [ "遅刻した", "遅刻の" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -50881,7 +50884,7 @@
     },
     "translations" : [ {
       "title" : "記述詞",
-      "forms" : [ "ゼロ個の", "ない", "無い", "無の", "何もない" ]
+      "forms" : [ "【前置】ゼロ個の", "ない", "無い", "無の", "何もない" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -57909,7 +57912,10 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "(管状の物の内側の)口径", "内径", "【軍】口径", "キャリバー" ]
+      "forms" : [ "(管状の物の内側の)口径", "内径" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【軍】口径", "キャリバー" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -95497,6 +95503,111 @@
       "title" : "語源",
       "text" : "r>a"
     } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5097,
+      "form" : "1o-2n"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "数回", "何回か", "幾度か" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "ita+o+na"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "同意",
+      "entry" : {
+        "id" : 5098,
+        "form" : "ito-nan"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5098,
+      "form" : "ito-nan"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "数回", "何回か", "幾度か" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "同意",
+      "entry" : {
+        "id" : 5097,
+        "form" : "1o-2n"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5099,
+      "form" : "murin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "珍しい", "顕著な", "特徴的な" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "ある物事が頻度として低く、得難いものであるさま。皮肉でない限り、価値判断はプラスである。"
+    }, {
+      "title" : "語源",
+      "text" : "r"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5100,
+      "form" : "searae"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "困らせる", "困惑させる", "当惑させる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "対象にとって予想外の物事を生じさせることで、精神的に惑わすこと。"
+    }, {
+      "title" : "語源",
+      "text" : "r"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5101,
+      "form" : "seara"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "困惑", "当惑" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5102,
+      "form" : "searan"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "困った", "困らされた", "困惑した", "当惑した" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   } ],

@@ -35899,7 +35899,13 @@
       "text" : "iebin+asuin"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5112,
+        "form" : "zeken"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 1911,
@@ -40852,7 +40858,7 @@
       "forms" : [ "毛", "体毛" ]
     }, {
       "title" : "名詞",
-      "forms" : [ "【俗】欲", "煩悩" ]
+      "forms" : [ "欲", "煩悩" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -67764,7 +67770,10 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "捜索", "探索", "サーチ", "(物そのものではなく", "物の位置など)調査", "(原因)究明", "探求", "【電算】検索" ]
+      "forms" : [ "捜索", "探索", "サーチ", "(物そのものではなく", "物の位置など)調査", "(原因)究明", "探求" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【電算】検索" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -67780,7 +67789,10 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "(場所や物体を)探す", "捜す", "捜索する", "探査する", "サーチする", "(原因や真理や事実を)追究する", "探求する", "【電算】検索する" ]
+      "forms" : [ "(場所や物体を)探す", "捜す", "捜索する", "探査する", "サーチする", "(原因や真理や事実を)追究する", "探求する" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "【電算】検索する" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -95812,6 +95824,101 @@
       "title" : "語源",
       "text" : "koe+o+narie"
     } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5112,
+      "form" : "zeken"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "規定通りに", "遅れなく", "丁度のタイミングで" ]
+    }, {
+      "title" : "記述詞",
+      "forms" : [ "(時間が)丁度", "ぴったり", "タイミング良く" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "1. もともと期待した時間どおりであること\n2. 今まさに起こったというさま"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 1910,
+        "form" : "iebiasuin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5113,
+      "form" : "faraksok"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "生け垣", "垣根" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "植物で構成された衝立のこと。木製の壁では無く、生きている植物で構成されていることを要件とする。"
+    }, {
+      "title" : "語源",
+      "text" : "far+aksok"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5114,
+      "form" : "sgezgie"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "好奇心", "知識欲" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "知識を得たい、新しい物事を知りたいという欲のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "sgeze+kie"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5115,
+      "form" : "koo-d'artige"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "(食事を)テイクアウトする", "持ち帰る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "食品を店で購入し、その場で食べずに持ち帰ること。"
+    }, {
+      "title" : "語源",
+      "text" : "koae+o+cartige"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5116,
+      "form" : "koo-d'artigin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "(食事が)持ち帰りの", "テイクアウトの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   } ],

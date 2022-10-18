@@ -10247,6 +10247,12 @@
         "id" : 5053,
         "form" : "deivgai"
       }
+    }, {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 5125,
+        "form" : "enzasgai"
+      }
     } ]
   }, {
     "entry" : {
@@ -35185,7 +35191,10 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "的", "【軍】標的", "ターゲット", "ポイント", "点" ]
+      "forms" : [ "的", "ポイント", "点" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【軍】標的", "ターゲット" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -94633,6 +94642,12 @@
         "id" : 541,
         "form" : "bardgai"
       }
+    }, {
+      "title" : "同意",
+      "entry" : {
+        "id" : 5124,
+        "form" : "sasegai"
+      }
     } ]
   }, {
     "entry" : {
@@ -96075,6 +96090,69 @@
       "entry" : {
         "id" : 5121,
         "form" : "kue"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5123,
+      "form" : "sabadavifne"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "約物", "パンクチュエーションマーク" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "文中に使用される記号類のこと。これら自体は文字とはみなされない。"
+    }, {
+      "title" : "語源",
+      "text" : "sabada+fifne"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5124,
+      "form" : "sasegai"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "派生語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "sasee+kai"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "同意",
+      "entry" : {
+        "id" : 5053,
+        "form" : "deivgai"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5125,
+      "form" : "enzasgai"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【言】複合語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "2つ以上の単語を合体させることで生成される語のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 541,
+        "form" : "bardgai"
       }
     } ]
   } ],

@@ -11946,7 +11946,7 @@
     },
     "translations" : [ {
       "title" : "固有名詞",
-      "forms" : [ "【地名】ブルネイ", "文?" ]
+      "forms" : [ "【地名】ブルネイ", "文萊" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -23455,7 +23455,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "システムとしての言語を指す。発話内容自体を指す場合はtiresk。"
+      "text" : "システムとしての言語を指す。発話内容自体を指す場合はtireskを用いる。"
     }, {
       "title" : "用例",
       "text" : "Etube angrian ef sien res 1s etube.|英語は私の第一言語ではありません。"
@@ -23466,6 +23466,12 @@
       "entry" : {
         "id" : 4089,
         "form" : "tiresk"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 2056,
+        "form" : "kai"
       }
     } ]
   }, {
@@ -38498,11 +38504,29 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "【言】単語", "ワード" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(言語による)表現", "言語表現", "言い回し" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "1. 単語そのもののこと。\n2. 単語を用いた表現のこと。つまり、文章のこと。特に文章を単語の並びであると解釈したときの、並べ方に注視した言い方。"
+    } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 1243,
+        "form" : "etube"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 3311,
+        "form" : "sabada"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 2057,
@@ -61661,11 +61685,23 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
+      "title" : "語法",
+      "text" : "ある物事や性質を記述するための、動詞を中心としたひとかたまりのことである。統語的には、読点や疑問点などの終止符号で区切られた単語群のことを指す。"
+    }, {
+      "title" : "文化",
+      "text" : "伝統的にイジェール語においては文の本質とは動詞であると見なされており、あらゆる要素は動詞を修飾する要素であると見なされている。動詞と動詞を修飾する記述詞をまとめて述語と呼び、文の基本要素であるとする。このことから、動詞を含む文のみを完全文と呼び、動詞が省略された文のことを不完全文と呼ぶ。より現代的な解釈としては、文の最小構成要素は単語である。文脈によって品詞によらずあらゆる単語が単独でになり得ることから、あらゆる単語が文脈によって文として成立する。"
+    }, {
       "title" : "語源",
       "text" : "r>i.a"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 2056,
+        "form" : "kai"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 3312,
@@ -95921,6 +95957,126 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5117,
+      "form" : "gezabada"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【言】重複文", "重文", "複文" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "複数の文で構成された文のこと。等位接続詞で接続されたもの、従属接続詞で接続されたものの2つを区別せずに指す。節は内部に文を含むが、節全体が修飾語として解釈されるため、重複文には含めない。"
+    }, {
+      "title" : "語源",
+      "text" : "ge+sabada"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5118,
+      "form" : "cagom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "繋ぐもの", "接続するもの" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【言】接続詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 5119,
+        "form" : "cagom simmuren"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5119,
+      "form" : "cagom simmuren"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【言】等位接続詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 5118,
+        "form" : "cagom"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5120,
+      "form" : "kimuna"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【言】疑問詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "kimune"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5121,
+      "form" : "kue"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "強さ", "強いこと" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【言】アクセント", "強勢" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5122,
+        "form" : "sabadague"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5122,
+      "form" : "sabadague"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【言】イントネーション" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "sabada+kue"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5121,
+        "form" : "kue"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

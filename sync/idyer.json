@@ -35172,7 +35172,13 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "(対象を)(標的に向かって)狙わせる", "指向させる", "(意識的に)向かせる", "顔を向けさせる", "【軍】照準させる", "目標にする", "【電算】(カーソル等を)ポイントさせる" ]
+      "forms" : [ "(対象を)(標的に向かって)狙わせる", "指向させる", "(意識的に)向かせる", "顔を向けさせる" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "【軍】照準させる", "目標にする" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "【電算】(カーソル等を)ポイントさせる" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -47223,6 +47229,9 @@
     }, {
       "title" : "名詞",
       "forms" : [ "【化】相" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(サイコロの)面" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -81719,7 +81728,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "文化",
-      "text" : "言語よりワンランク下の区分であるという意識があるため、論争の的になることも多い。ある言語が言語であるか、方言であるかについては、政治的な要素が強いのは現実と同じである。"
+      "text" : "言語よりワンランク下の区分であるという意識があるため、論争の的になることも多い。ある言語が言語であるか、方言であるかについては、政治的な要素が強い。"
     }, {
       "title" : "語源",
       "text" : "vees+etube"
@@ -94426,7 +94435,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "【言】音素" ]
+      "forms" : [ "【言】音素", "音韻" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -96177,6 +96186,116 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5127,
+      "form" : "tokrem karkin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "大気圧", "気圧" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "惑星の大気による圧力のこと。空気圧のうち、特に大気による場合を指す。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 5128,
+        "form" : "tokrem gesin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5128,
+      "form" : "tokrem gesin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "気圧", "空気圧" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "気体による圧力のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 5127,
+        "form" : "tokrem karkin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5129,
+      "form" : "taa"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "サイコロ", "ダイス", "賽" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "ランダムに数値を選択するために使用する、目が刻まれた多面体のこと。"
+    }, {
+      "title" : "文化",
+      "text" : "典型的には6面ダイスや8面ダイスが用いられる。"
+    }, {
+      "title" : "語源",
+      "text" : "r>i.a"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5130,
+      "form" : "miazenda"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【言】母音" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "mia+senda"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5131,
+        "form" : "sebzenda"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5131,
+      "form" : "sebzenda"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【言】子音" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "seb+senda"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5130,
+        "form" : "miazenda"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

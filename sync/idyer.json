@@ -75874,7 +75874,7 @@
   }, {
     "entry" : {
       "id" : 4073,
-      "form" : "Timor' mevin"
+      "form" : "Timor' Mevin"
     },
     "translations" : [ {
       "title" : "固有名詞",
@@ -96294,6 +96294,253 @@
       "entry" : {
         "id" : 5130,
         "form" : "miazenda"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5132,
+      "form" : "fendiri"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "世紀", "センチュリー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "fendir+iri>"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5133,
+      "form" : "ipiskep"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【宗】(キリスト教の)主教", "司教", "ビショップ", "監督" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "ru"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5134,
+        "form" : "svis'enik"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5135,
+        "form" : "d'iaken"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5137,
+        "form" : "arhiipiskep"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5138,
+        "form" : "patriarha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5134,
+      "form" : "svis'enik"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【宗】(キリスト教の)司祭", "プリースト" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "ru"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5133,
+        "form" : "ipiskep"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5135,
+        "form" : "d'iaken"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5137,
+        "form" : "arhiipiskep"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5138,
+        "form" : "patriarha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5135,
+      "form" : "d'iaken"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【宗】(キリスト教の)輔祭", "助祭", "執事" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "ru"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5134,
+        "form" : "svis'enik"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5133,
+        "form" : "ipiskep"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5137,
+        "form" : "arhiipiskep"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5138,
+        "form" : "patriarha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5136,
+      "form" : "paster"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【宗】(キリスト教の)牧師" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "プロテスタントの教職者のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "ru"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5137,
+      "form" : "arhiipiskep"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【宗】(キリスト教の)大主教", "大司教", "アークビショップ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "ru"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5134,
+        "form" : "svis'enik"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5135,
+        "form" : "d'iaken"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5133,
+        "form" : "ipiskep"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5135,
+        "form" : "d'iaken"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5134,
+        "form" : "svis'enik"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5138,
+        "form" : "patriarha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5138,
+      "form" : "patriarha"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【宗】(キリスト教の)総主教" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "ru"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5135,
+        "form" : "d'iaken"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5133,
+        "form" : "ipiskep"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5137,
+        "form" : "arhiipiskep"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5134,
+        "form" : "svis'enik"
       }
     } ]
   } ],

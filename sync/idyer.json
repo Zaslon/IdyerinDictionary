@@ -3904,7 +3904,13 @@
       "text" : "akser+mak"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "省略",
+      "entry" : {
+        "id" : 2406,
+        "form" : "mak"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 208,
@@ -11826,6 +11832,9 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "(操作用の)ボタン", "釦", "押しボタン" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【電算】(キーボードの)キー", "ボタン" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -14436,11 +14445,14 @@
     "translations" : [ {
       "title" : "記述詞",
       "forms" : [ "深い", "深く" ]
+    }, {
+      "title" : "記述詞",
+      "forms" : [ "(色が)濃い" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "ある基準面から他の面までの重力方向の距離が大きい様、が原義。ある程度広さを持った物に対して使う。価値判断を含まない。日本語や英語と同様、程度表現としても用いることができる。"
+      "text" : "1. ある基準面から他の面までの重力方向の距離が大きい様、が原義。ある程度広さを持った物に対して使う。価値判断を含まない。日本語や英語と同様、程度表現としても用いることができる。"
     }, {
       "title" : "語源",
       "text" : "a"
@@ -23099,11 +23111,14 @@
     "translations" : [ {
       "title" : "記述詞",
       "forms" : [ "浅い", "浅く" ]
+    }, {
+      "title" : "記述詞",
+      "forms" : [ "(色が)薄い" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "ある基準面から他の面までの重力方向の距離が小さい様、が原義。ある程度広さを持った物に対して使う。価値判断を含まない。"
+      "text" : "1. ある基準面から他の面までの重力方向の距離が小さい様、が原義。ある程度広さを持った物に対して使う。価値判断を含まない。"
     }, {
       "title" : "語源",
       "text" : "r"
@@ -44629,6 +44644,9 @@
     "translations" : [ {
       "title" : "動詞",
       "forms" : [ "(人や機械や動物を)来させる", "寄せる", "戻す", "返す", "帰す" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "(金額を)払い戻す", "リファンドする" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -45034,11 +45052,14 @@
     }, {
       "title" : "名詞",
       "forms" : [ "【軍】兵員", "軍人" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "クルー", "船員", "乗務員", "搭乗員" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "1. 公務に携わる人のこと。\n2. 軍務に就く公務員のこと。従って、軍属を含まない。"
+      "text" : "1. 公務に携わる人のこと。\n2. 軍務に就く公務員のこと。従って、軍属を含まない。\n3. 乗客ではなく運行側として搭乗する人員こと。"
     }, {
       "title" : "文化",
       "text" : "makの原義は「聖職者」だったが、意味が拡大し社会の為の職務に就く人全般を指すようになった。"
@@ -45047,7 +45068,19 @@
       "text" : "r>i.s|聖職者>"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "省略",
+      "entry" : {
+        "id" : 207,
+        "form" : "aksermak"
+      }
+    }, {
+      "title" : "省略",
+      "entry" : {
+        "id" : 5146,
+        "form" : "gidonmak"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 2407,
@@ -65291,7 +65324,19 @@
       "text" : "a"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 5147,
+        "form" : "sekda girun"
+      }
+    }, {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 5148,
+        "form" : "veeszekda"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 3503,
@@ -70159,12 +70204,12 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "得点", "スコア" ]
+      "forms" : [ "得点", "スコア", "点" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "得点すること、得点という概念。得点の数字に対する数詞としては用いない。"
+      "text" : "得点すること、得点という概念。得点の数字に対する数詞としては用いない。「勝ち点」や「行動ポイント」などの点やポイントには該当する。"
     }, {
       "title" : "語源",
       "text" : "*skr+br*>"
@@ -96591,6 +96636,183 @@
     "contents" : [ {
       "title" : "語法",
       "text" : "修飾対象が、何かに適合していること。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5149,
+        "form" : "amd'ar'ain"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5142,
+      "form" : "beia"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "版", "バージョン", "更新番号" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "主に文書やソフトウェアにおいて、更新された際に区別をつけるための識別符号のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "a>i.k"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5143,
+      "form" : "uruae"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "(人を)雇う", "雇用する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "対格を契約等により労働に従事させること。"
+    }, {
+      "title" : "語源",
+      "text" : "r"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5144,
+      "form" : "urua"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "雇用", "雇うこと" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5145,
+      "form" : "uruan"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "雇われた", "被雇用の", "雇用関係の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5146,
+      "form" : "gidonmak"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "クルー", "船員", "乗務員", "乗組員", "添乗員" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "乗客としてではなく、運用側として登場する人員のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "gidone+mak"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "省略",
+      "entry" : {
+        "id" : 2406,
+        "form" : "mak"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5147,
+      "form" : "sekda girun"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "真円" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "楕円ではない円のこと。通常、弧ではないことも含意するが、文脈にっては真円の部分のみを指すこともある。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 3502,
+        "form" : "sekda"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5148,
+      "form" : "veeszekda"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "楕円", "オーバル" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "vees+sekda"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 3502,
+        "form" : "sekda"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5149,
+      "form" : "amd'ar'ain"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "適合しない", "不適合の", "合わない" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "am+car'aie"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5141,
+        "form" : "car'ain"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5150,
+      "form" : "sogbout"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "ショートカットキー", "ホットキー", "短縮ボタン" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "sogin+bout"
     } ],
     "variations" : [ ],
     "relations" : [ ]

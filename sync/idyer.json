@@ -14,7 +14,7 @@
       "text" : "英語の～ableと同様の意味を持つ。この際、能力可能と状況可能を区別しない。この接尾辞によって生成された記述詞に修飾されるのは、元の動詞形における対格に来る語である。"
     }, {
       "title" : "用例",
-      "text" : "Fomis eref cienzarin sampan.\n状況可能解釈なら「人の心は移ろいやすい」、能力可能解釈なら「人を心変わりさせるのは容易い」になる。"
+      "text" : "\"Fomis eref cienzarin sampan.\"\n状況可能解釈なら「人の心は移ろいやすい」、能力可能解釈なら「人を心変わりさせるのは容易い」になる。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -524,7 +524,7 @@
       "text" : "1. 二つの要素に挟んで用いる。記述詞に用いることで、並列関係の造語をする。原則として、前後が入れ替え可能な要素に限られる。また、このo-はもととなった単語の最後の母音を書き換える。\n2. 二つの要素に挟んで用いる。動詞に用いることで、連続して或いは同時に行う二つの行動を合わせた動詞を形成する。"
     }, {
       "title" : "用例",
-      "text" : "coko-pamin|父母の\nsono-pabrin|国家人民間の\ndingo-fiatin|電磁的な\nbibado-srirade|驚いてひっくり返す"
+      "text" : "\"coko-pamin\"「父母の」\n\"sono-pabrin\"「国家人民間の」\n\"dingo-fiatin\"「電磁的な」\n\"bibado-srirade\"「驚いてひっくり返す」"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1045,7 +1045,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "用例",
-      "text" : "Z'amangedef omagedes tiresku abiaetra.|陸軍としては海軍の提案に反対である。"
+      "text" : "\"Z'amangedef omagedes tiresku abiaetra.\"「陸軍としては海軍の提案に反対である。」"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -1108,7 +1108,7 @@
       "text" : "主格に結果、奪格に被減数、対格に減数を取る。"
     }, {
       "title" : "用例",
-      "text" : "5f 3u 8hur abkese.|5は3を8から引いた数である。"
+      "text" : "\"5f 3u 8hur abkese.\"「5は3を8から引いた数である。」"
     }, {
       "title" : "語源",
       "text" : "*ab+kes"
@@ -2547,7 +2547,7 @@
       "text" : "hを溜めて大げさに発音する。あまり大げさにし過ぎると皮肉っぽくなる。"
     }, {
       "title" : "用例",
-      "text" : "Ahha, uike! |ああ、わかった！"
+      "text" : "\"Ahha, uike!\"「ああ、わかった！」"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3729,7 +3729,7 @@
       "text" : "少なくともイジェール王国においては軍旗と軍艦旗、戦闘旗の区別はない。外国にはその区別を持つ国もあるが、だいたい纏めてakserberと言われるので混乱する。"
     }, {
       "title" : "用例",
-      "text" : "Akserberu kagire.|戦旗を掲げる＝狼煙を上げる"
+      "text" : "\"Akserberu kagire.\"「戦旗を掲げる＝狼煙を上げる」"
     }, {
       "title" : "語源",
       "text" : "akser+per"
@@ -4644,7 +4644,7 @@
       "text" : "「語られることのない」という意味。人が黙っていることではなく、内容が語られないこと。修飾対象は内容である。"
     }, {
       "title" : "用例",
-      "text" : "asderi amdirin|語られぬ歴史"
+      "text" : "\"asderi amdirin\"「語られぬ歴史」"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5590,8 +5590,8 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "例文",
-      "text" : "ref s'enoma an ni edoket.|私は川沿いを歩いた。"
+      "title" : "用例",
+      "text" : "\"Ref s'enoma an ni edoket.\"「私は川沿いを歩いた。」"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -7841,7 +7841,7 @@
       "text" : "対格に取った語を、いざこざに巻き込まれた状態にすること。日本語の「喧嘩」よりも範囲が広く、法廷に持ち込まれている場合でも、口喧嘩のみの場合でも、とにかく諍いがある状態を指す。"
     }, {
       "title" : "用例",
-      "text" : "Ref ta s'af as'eretra.|私と彼は喧嘩をしている。"
+      "text" : "\"Ref ta s'af as'eretra.\"「私と彼は喧嘩をしている。」"
     }, {
       "title" : "語源",
       "text" : "*as'+aksere>"
@@ -9048,7 +9048,7 @@
       "text" : "共同体と対置される存在としての個人。ネットワークや共同体から切り離された一人の人間。avvomotの形で「個人にとって、人それぞれ、各人、各々、おのおのの人にとって」という意味になる。"
     }, {
       "title" : "用例",
-      "text" : "Ze negau fagave ab sien fagave f avvomot tigin.|何を赦せて何を赦せないかは人によって異なる。"
+      "text" : "\"Ze negau fagave ab sien fagave f avvomot tigin.\"「何を赦せて何を赦せないかは人によって異なる。」"
     }, {
       "title" : "語源",
       "text" : "*ab+fom"
@@ -10072,7 +10072,7 @@
       "text" : "大中小の頭文字であるb,m,sからとって作られた語。そのうち分にあたる*mentだけが廃れたので、部分的に対応が崩れている。元々の時間単位が他国の単位と整合性が無かったため作られた。"
     }, {
       "title" : "用例",
-      "text" : "Ref 7-bant-temadi mirnariettin.|私は7時間寝た。\n1-natif 24-bant.|1日は24時間だ。"
+      "text" : "\"Ref 7-bant-temadi mirnariettin.\"「私は7時間寝た。」\n\"1-natif 24-bant.\"「1日は24時間だ。」"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -11696,7 +11696,7 @@
       "text" : "a"
     }, {
       "title" : "用例",
-      "text" : "Kun bogaf cok karin is venu run.|この本は亡き父の大切なものだ。"
+      "text" : "\"Kun bogaf cok karin is venu run.\"「この本は亡き父の大切なものだ。」"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -12723,7 +12723,7 @@
       "text" : "H ca K で「Hとともに居るK」を表す。あくまでHとして修飾されたKが句の中心になる。動詞同士を繋いだり、ze節を繋いだりすると「HしながらK」という意味になる。何れにせよ、Hを伴った状態のKを指す接続詞である。"
     }, {
       "title" : "用例",
-      "text" : "S'a ca ref edoke.|彼とともに私は歩く。\nRef edoke ca tire.|私は歩きながら話す。\nZe edoke ca ze tire f rarkromin.|歩きながら話すのは危険だ。\nTianaf mirserbidaettin ca pabris igaref mirsaguaettin.|\n科学の発展に伴って生活が向上してきた。\n"
+      "text" : "\"S'a ca ref edoke.\"「彼とともに私は歩く。」\n\"Ref edoke ca tire.\"「私は歩きながら話す。」\n\"Ze edoke ca ze tire f rarkromin.\"「歩きながら話すのは危険だ。」\n\"Tianaf mirserbidaettin ca pabris igaref mirsaguaettin.\"「科学の発展に伴って生活が向上してきた。」"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -14298,7 +14298,7 @@
       "text" : "1. 水を主体とした高温の液体につけて加工すること。「煮る」と「湯掻く」を区別しない。液体の主成分が水である場合を指し、油である場合は指さない。\n2. 対象となる液体を沸騰させること。沸点まで温度を上げて、内部から気化が発生する状態とすること。\n3. 対格を与格に夢中にさせること。"
     }, {
       "title" : "用例",
-      "text" : "あなたの瞳が私の心を魅了する。|Mes eaf res eru dabe."
+      "text" : "\"Mes eaf res eru dabe.\"「あなたの瞳が私の心を魅了する。」"
     }, {
       "title" : "語源",
       "text" : "a"
@@ -16845,7 +16845,7 @@
       "text" : "ur'anと異なり、否定的なニュアンスを含まない。ur'anと論理的には同じことを、肯定的に指す。"
     }, {
       "title" : "用例",
-      "text" : "Ref koe diman sorin.|私は食べることのみができる。\nRe ur'an ef suu uikee.|私にしかそれを理解できない。\nRe diman ef suu uikee.|私のみがそれを理解できる。"
+      "text" : "\"Ref koe diman sorin.\"「私は食べることのみができる。」\n\"Re ur'an ef suu uikee.\"「私にしかそれを理解できない。」\n\"Re diman ef suu uikee.\"「私のみがそれを理解できる。」"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -17350,7 +17350,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "用例",
-      "text" : "Ze dingu vame f ze dingvame.|電気を作る事を発電と言う。"
+      "text" : "\"Ze dingu vame f ze dingvame.\"「電気を作る事を発電と言う。」"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -18846,7 +18846,7 @@
       "text" : "理論化されたもの。「論理学」の論理ではなく、「進化論」というときの論。"
     }, {
       "title" : "用例",
-      "text" : "S'as dukeseskef dukesin.|彼の理論は論理的だ。"
+      "text" : "\"S'as dukeseskef dukesin.\"「彼の理論は論理的だ。」"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -20258,7 +20258,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "用例",
-      "text" : "Mang tun eken ef guze.|これ以外何も要らない。"
+      "text" : "\"Mang tun eken ef guze.\"「これ以外何も要らない。」"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -21437,7 +21437,7 @@
       "text" : "1. 行動や影響が届く時間や空間の幅のこと。日本語や英語と同様、範囲の限界を示すことに使われることが多く、「範囲内」を示すためには処格を用いる必要がある。\n2. 一時的な性質のこと。変化する可能性を秘めた性質のこと。"
     }, {
       "title" : "用例",
-      "text" : "Enif senhur guni.|範囲は三から五までだ。\nTakef kaunanis enira.|敵は射程内だ。"
+      "text" : "\"Enif senhur guni.\"「範囲は三から五までだ。」\n\"Takef kaunanis enira.\"「敵は射程内だ。」"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -22328,7 +22328,7 @@
       "text" : "en+vite"
     }, {
       "title" : "用例",
-      "text" : "Tiabau envite.|机を乾かす。\nTiabas butau envite.|机の水を乾かす。"
+      "text" : "\"Tiabau envite.\"「机を乾かす。」\n\"Tiabas butau envite.\"「机の水を乾かす。」"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -23464,7 +23464,7 @@
       "text" : "システムとしての言語を指す。発話内容自体を指す場合はtireskを用いる。"
     }, {
       "title" : "用例",
-      "text" : "Etube angrian ef sien res 1s etube.|英語は私の第一言語ではありません。"
+      "text" : "\"Etube angrian ef sien res 1s etube.\"「英語は私の第一言語ではありません。」"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -24489,7 +24489,7 @@
       "text" : "数字-単位-fadoaの形で「～歳」や「築～」を指す。単位を省略すると、修飾対象から考えられる常識的な単位であると理解される。"
     }, {
       "title" : "用例",
-      "text" : "5-iri-fadoa|5歳\n3-nati-fadoa|生後3日\n5-fadoa|5歳(年齢の話をしているときは、単位は年であると考えられるのが普通であるため)"
+      "text" : "\"5-iri-fadoa\"「5歳」\n\"3-nati-fadoa\"「生後3日」\n\"5-fadoa\"「5歳」年齢の話をしているときは、単位は年であると考えられるのが普通であるため"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -25459,7 +25459,7 @@
       "text" : "主格が結果、対格が被加数、与格が加数である。"
     }, {
       "title" : "用例",
-      "text" : "Sevenef 1u 1ni fankese?|1に1を加えると何？"
+      "text" : "\"Sevenef 1u 1ni fankese?\"「1に1を加えると何？」"
     }, {
       "title" : "語源",
       "text" : "*fan+kes"
@@ -25497,7 +25497,7 @@
       "text" : "管弦楽と共に演奏する形態の曲のこと。この単語の後に独奏楽器の名称を伴うことが多い。"
     }, {
       "title" : "用例",
-      "text" : "fankromgisdaresk kravian|ピアノ協奏曲"
+      "text" : "\"fankromgisdaresk kravian\"「ピアノ協奏曲」"
     }, {
       "title" : "語源",
       "text" : "fankromin+kisdaresk"
@@ -25519,7 +25519,7 @@
       "text" : "英語のTogetherと似ている。専ら副詞的用法で用いられる。対象を列挙しなくても、文脈でわかる誰かと一緒にいることを示せることが利点。"
     }, {
       "title" : "用例",
-      "text" : "Ref koe fankromin tein.|私は一緒に食事がしたい。\nRef ta s'af koe.|私は彼と食事をする。(対象を明示する例)"
+      "text" : "\"Ref koe fankromin tein.\"「私は一緒に食事がしたい。」\n\"Ref ta s'af koe.\"「私は彼と食事をする。(対象を明示する例)」"
     }, {
       "title" : "語源",
       "text" : "*fan+*krom"
@@ -25720,7 +25720,7 @@
       "text" : "実在を信じるかどうかではなく、その対象の意見や思想に共感すること。「彼の存在」のような名詞を対象にすれば、実在を信じるかどうかにも使える。"
     }, {
       "title" : "用例",
-      "text" : "Ref sariu fansaretra.|私は神(にまつわる説や考え方)を信仰している。\nRef dor sarin u fansaretra.|私は神の存在を信じている。"
+      "text" : "\"Ref sariu fansaretra.\"「私は神(にまつわる説や考え方)を信仰している。」\n\"Ref dor sarin u fansaretra.\"「私は神の存在を信じている。」"
     }, {
       "title" : "語源",
       "text" : "*fan+sar"
@@ -27206,7 +27206,7 @@
       "text" : "この語が修飾するのは不自由となっている対象であり、人ではない。歩けない人に対して「不自由な人」という時にこの語を用いることはできないが、「不自由な歩きを持つ人」という言い方は出来る。"
     }, {
       "title" : "用例",
-      "text" : "S'af ze edoke fasderin u muze.|彼は不自由な歩行を持つ。=彼は歩くのが不自由だ。"
+      "text" : "\"S'af ze edoke fasderin u muze.\"「彼は不自由な歩行を持つ。=彼は歩くのが不自由だ。」"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -27874,7 +27874,7 @@
       "text" : "あり得ないことばかりが起こる場所の象徴。"
     }, {
       "title" : "用例",
-      "text" : "Tuf fendamavera dore ur'an! |それはおとぎの国にしかない。=そんなのは夢のまた夢だ。"
+      "text" : "\"Tuf fendamavera dore ur'an!\"「それはおとぎの国にしかない。=そんなのは夢のまた夢だ。」"
     }, {
       "title" : "語源",
       "text" : "fendam+ave"
@@ -28041,7 +28041,7 @@
       "text" : "a"
     }, {
       "title" : "用例",
-      "text" : "fenzen dansenin|コンピュータ機能（機能としてコンピュータを担っている部分のこと）\ndansenis fenzen|コンピュータの機能（コンピュータが保有している機能のこと）"
+      "text" : "\"fenzen dansenin\"「コンピュータ機能」機能としてコンピュータを担っている部分のこと\n\"dansenis fenzen\"「コンピュータの機能」コンピュータが保有している機能のこと"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -29825,7 +29825,7 @@
       "text" : "「～という人」、や「人は誰しも～」等に使う。機械や物に対する人。生物学的ヒトはiomen。蒙昧なる大衆の意味ではfega。"
     }, {
       "title" : "用例",
-      "text" : "Tun fomef tuu tire. Ab kun fomef kuu tire.|ある人はああ言い、またある人はこう言う。"
+      "text" : "\"Tun fomef tuu tire. Ab kun fomef kuu tire.\"「ある人はああ言い、またある人はこう言う。」"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -31243,7 +31243,7 @@
       "text" : "何かの損失を、別の何かで満たすこと。ニュアンスは中立。主格に満たすものが来ることも、具格に満たすものを取って主格に人を取ることもある。"
     }, {
       "title" : "用例",
-      "text" : "Mef reu s'enarogdu gamkeze.|貴方が私を幸せで満たす。\nDaeskef fidu gamkeze.|嘘で失敗を埋め合わせる。"
+      "text" : "\"Mef reu s'enarogdu gamkeze.\"「貴方が私を幸せで満たす。」\n\"Daeskef fidu gamkeze.\"「嘘で失敗を埋め合わせる。」"
     }, {
       "title" : "語源",
       "text" : "r|欺瞞"
@@ -31265,7 +31265,7 @@
       "text" : "修飾対象に取るのは損失である。"
     }, {
       "title" : "用例",
-      "text" : "Fid gamkezin ef sien fid.|埋め合わされた失敗は失敗ではない。"
+      "text" : "\"Fid gamkezin ef sien fid.\"「埋め合わされた失敗は失敗ではない。」"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -33276,7 +33276,7 @@
       "text" : "対格を与格に向かって怒鳴らせること。主格に来るのは出来事や怒鳴る要因である。要因を具格に取ることもできる。原義は「大声をあげさせること」であり、その要因が怒りでなくても構わない。"
     }, {
       "title" : "用例",
-      "text" : "Arkaf s'au govet.|怒りが彼を怒鳴らせた。\nRes soref s'au arkadu govet.|私の行為は彼を怒りで怒鳴らせた。"
+      "text" : "\"Arkaf s'au govet.\"「怒りが彼を怒鳴らせた。」\n\"Res soref s'au arkadu govet.\"「私の行為は彼を怒りで怒鳴らせた。」"
     }, {
       "title" : "語源",
       "text" : "r"
@@ -33673,7 +33673,7 @@
       "text" : "副詞として用いる場合は、主格が文脈から想定されうる何かと互いに作用しあうことを指す。形容詞として用いる場合は、互いに同じものを持っている場合を想定して、互いのそれらをまとめて指すことができる。"
     }, {
       "title" : "用例",
-      "text" : "Ref ta s'af miretigittera gun.|私と彼は殴りあった。\nAkeref ta sendaf mirkize gun.|光と音が影響しあう。"
+      "text" : "\"Ref ta s'af miretigittera gun.\"「私と彼は殴りあった。」\n\"Akeref ta sendaf mirkize gun.\"「光と音が影響しあう。」"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -36126,7 +36126,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "用例",
-      "text" : "mef dukesin iebin.|お前は理屈っぽすぎる。"
+      "text" : "\"Mef dukesin iebin.\"「お前は理屈っぽすぎる。」"
     }, {
       "title" : "語源",
       "text" : "r"
@@ -38507,7 +38507,7 @@
       "text" : "1. 対格の旗や看板などを、与格の物体に掲揚すること。\n2. 対格を持ち上げて、与格に置くこと。"
     }, {
       "title" : "用例",
-      "text" : "Akserberu kagire|戦旗を掲げる。\n「狼煙をあげる」の意味。"
+      "text" : "\"Akserberu kagire\"「戦旗を掲げる=狼煙をあげる」"
     }, {
       "title" : "語源",
       "text" : "r"
@@ -44373,7 +44373,7 @@
       "text" : "対象を中くらいの状態にしておくこと。名詞を取る場合は中立やニュートラルを意味することが多く、ze節を取ると中止や中断を意味することが多い。その後再開するか、そのまま中止するかは文脈次第である。中断と中止は共に頻度が高い意味であるにもかかわらず多義的であるため、複合語としての使用が避けられがちである。"
     }, {
       "title" : "用例",
-      "text" : "S'af mirmadeet.|彼は自らを中立化した。\nS'af kou madeetra.|彼は食事を中断している。"
+      "text" : "\"S'af mirmadeet.\"「彼は自らを中立化した。」\n\"S'af kou madeetra.\"「彼は食事を中断している。」"
     }, {
       "title" : "語源",
       "text" : "maden>"
@@ -46656,7 +46656,7 @@
       "text" : "対格を与格であると示すこと。"
     }, {
       "title" : "用例",
-      "text" : "S'af suu mazaetra.|彼はそれを指差している。\nMareskef suu s'enatni mazaittera.|表示物はそれが鏡であると示していた。"
+      "text" : "\"S'af suu mazaetra.\"「彼はそれを指差している。」\n\"Mareskef suu s'enatni mazaittera.\"「表示物はそれが鏡であると示していた。」"
     }, {
       "title" : "語源",
       "text" : "r"
@@ -47201,7 +47201,7 @@
       "text" : "対格に寄生対象、与格に奪う物を取るので、日本語と異なることに注意。富や栄養を毟り取ることが原義で、搾取する側とされる側の上下関係を気にしない。"
     }, {
       "title" : "用例",
-      "text" : "Fiidancu meive.|親に寄生する。"
+      "text" : "\"Fiidancu meive.\"「親に寄生する。」"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -48633,7 +48633,7 @@
       "text" : "正確には該当する訳が存在しない。尋ねたい内容をminで修飾することで疑問文を作ることができる。"
     }, {
       "title" : "用例",
-      "text" : "Tuf bavar.|これは自転車だ。\nTuf min bavar?|これは自転車なの？\nTun bavaref res.|この自転車は私の物だ。\nTun bavaref min res?|この自転車は「あなたの物」なの？\nMin tun bavaref res?|「この自転車」があなたの物なの？"
+      "text" : "\"Tuf bavar.\"「これは自転車だ。」\n\"Tuf min bavar?\"「これは自転車なの？」\n\"Tun bavaref res.\"「この自転車は私の物だ。」\n\"Tun bavaref min res?\"「この自転車はあなたの物なの？」\n\"Min tun bavaref res?\"「この自転車があなたの物なの？」"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -49765,7 +49765,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "用例",
-      "text" : "Mizeref sien iam ab mizer ur'an.|手段は目的ではなく、手段でしかない。"
+      "text" : "\"Mizeref sien iam ab mizer ur'an.\"「手段は目的ではなく、手段でしかない。」"
     }, {
       "title" : "語源",
       "text" : "a"
@@ -49799,7 +49799,7 @@
       "text" : "語尾を上げながら言う。マンガや小説では、鬱陶しがっている様子を表すためにmを重ねることがある。丁寧な言い方ではなく、通常は多少の苛立ちを含意する。mを重ねるほどイライラを表す。"
     }, {
       "title" : "用例",
-      "text" : "\"Mef satidesk dun!\" \"Mm? Seven?\" |「お前は卑しいクズ野郎だ！」「あ？何？」"
+      "text" : "\"Mef satidesk dun!\"「お前は卑しいクズ野郎だ！」\n\"Mm? Seven?\"「あ？何？」"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -51268,7 +51268,7 @@
       "text" : "仕事が無い状態であること。一時的か永続的かを問わない為、失職中なのか休日なのかはこの語単体では判断できない。ただし、通例休日を指す場合は日を修飾するため、人を修飾すると失職中の意味で解される可能性が高い。"
     }, {
       "title" : "用例",
-      "text" : "Dasdif moutrikin.|今日は休日だ。\nRef moutrikin.|私は失職中だ。"
+      "text" : "\"Dasdif moutrikin.\"「今日は休日だ。」\n\"Ref moutrikin.\"「私は失職中だ。」"
     }, {
       "title" : "語源",
       "text" : "mo+utrike"
@@ -52242,7 +52242,7 @@
       "text" : "イジェール語はhave言語なので、日本語で「ある、いる」を用いる場面でこの語を用いる。また、所有状態への移行が意味の中心なので、持っている状態を示すためには継続相にする必要がある。"
     }, {
       "title" : "用例",
-      "text" : "Ref fiidanc 2n u muzetra.|私は2人の両親を持つ。=私には2人の両親が居る。\nS'af ze edoke fasderin u muzetra.|彼は不自由な歩行を持つ。=彼は歩くのが不自由だ。"
+      "text" : "\"Ref fiidanc 2n u muzetra.\"「私は2人の両親を持つ。=私には2人の両親が居る。」\n\"S'af ze edoke fasderin u muzetra.\"「彼は不自由な歩行を持つ。=彼は歩くのが不自由だ。」"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -60690,7 +60690,7 @@
       "text" : "敗北する人を対格に、勝った対象を奪格に取る。試合や大会は処格に取る。"
     }, {
       "title" : "用例",
-      "text" : "Ref s'ahur kun akserra mirrisudet.|私はこの戦いで彼に負けた。"
+      "text" : "\"Ref s'ahur kun akserra mirrisudet.\"「私はこの戦いで彼に負けた。」"
     }, {
       "title" : "語源",
       "text" : "r>i.a"
@@ -67746,7 +67746,7 @@
       "text" : "動詞の部分に何が入るのかを尋ねる疑問文を作る動詞。"
     }, {
       "title" : "用例",
-      "text" : "Mef ardira sevore? | あなた、昨日は何してたの？\nMef suu sevore? | あなた、それをどうするの？"
+      "text" : "\"Mef ardira sevore?\"「あなた、昨日は何してたの？」\n\"Mef suu sevore?\"「あなた、それをどうするの？」"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -68178,7 +68178,7 @@
       "text" : "通常の記述詞同様、名詞や記述詞、動詞の前に来る。sienの直後に来る語を否定する。用例に示すように、何所で否定しても文全体の意味が同じになる場合、出来るだけ分の頭に近い部分で否定しようとする傾向がある。英語におけるnot A but B の構文とは違い、対比の接続詞を用いる。"
     }, {
       "title" : "用例",
-      "text" : "Hireskef sien.|着る服がない。\ndoreが省略されている。\nHiresku sien muze.|服を着ない。\nSien hiresku muze.|服を着ない。\n否定する場所には気を付ける必要があるが、場合によって殆ど意味に差はない。この場合、後者の方が否定文であることが早く伝わるため好まれる。\nRef narau fagave. |私はあなたを赦す。\nRef narau sien fagave. |私はあなたを赦さない。\nS'af sien reu ab narau fagave.|彼は私ではなく彼を赦す。"
+      "text" : "\"Hireskef sien.\"「着る服がない。」\ndoreが省略されている。\n\"Hiresku sien muze.\"「服を着ない。」\n\"Sien hiresku muze.\"「服を着ない。」\n否定する場所には気を付ける必要があるが、場合によって殆ど意味に差はない。この場合、後者の方が否定文であることが早く伝わるため好まれる。\n\"Ref narau fagave.\"「私はあなたを赦す。」\n\"Ref narau sien fagave.\"「私はあなたを赦さない。」\n\"S'af sien reu ab narau fagave.\"「彼は私ではなく彼を赦す。」"
     }, {
       "title" : "語源",
       "text" : "u"
@@ -69156,7 +69156,7 @@
       "text" : "勝利する人を対格に、負かす対象を奪格に取る。試合や大会は処格に取る。"
     }, {
       "title" : "用例",
-      "text" : "Ref s'ahur kun akserra mirsinoet.|私はこの戦いで彼に勝った。"
+      "text" : "\"Ref s'ahur kun akserra mirsinoet.\"「私はこの戦いで彼に勝った。」"
     }, {
       "title" : "語源",
       "text" : "r>i.a"
@@ -72823,7 +72823,7 @@
       "text" : "格を表す助詞よりも外側に来るので、日本語と語順が違うことに注意。接続詞と助詞の2つの意味があり、単独で用いると「～も」、2個用いると「～も～も」の意味と解釈すれば問題ない。"
     }, {
       "title" : "用例",
-      "text" : "Ref ta mirvar'aet.|私も笑った。\nS'af ta ref mirvar'aret.|彼と私は笑った(接続詞)。\nS'af ta ref ta mirvar'aet.|彼も私も笑った(1つ目が接続詞、2つ目が助詞)。"
+      "text" : "\"Ref ta mirvar'aet.\"「私も笑った。」\n\"S'af ta ref mirvar'aret.\"「彼と私は笑った(接続詞)。」\n\"S'af ta ref ta mirvar'aet.\"「彼も私も笑った(1つ目が接続詞、2つ目が助詞)。」"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -74349,7 +74349,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "用例",
-      "text" : "Tege seven ef tevankes ze 1u 1ni fankese n?|一に一を加えるとどのくらいの量になるか？"
+      "text" : "\"Tege seven ef tevankes ze 1u 1ni fankese n?\"「一に一を加えるとどのくらいの量になるか？」"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -77792,7 +77792,7 @@
       "text" : "物理的、心理的に離れた場所にある様な様態を表す。副詞用法として「あんな大きさ」や「あんな高さ」の様に眼前に存在する存在以外を参照した形容が可能である。また、「そんな顔しないで」のように、実態としては眼前に存在するが心理的に距離を置きたい様なネガティブな様態もこの語で形容できる。"
     }, {
       "title" : "用例",
-      "text" : "Mon tire tun u.|そんなこと言うな。\nMon tire tun.|そんな風に言うな。"
+      "text" : "\"Mon tire tun u.\"「そんなこと言うな。」\n\"Mon tire tun.\"「そんな風に言うな。」"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -79209,7 +79209,7 @@
       "text" : "r"
     }, {
       "title" : "用例",
-      "text" : "ze rerif uikee dasdira n|私達が今日知っているように"
+      "text" : "\"ze rerif uikee dasdira n\"「私達が今日知っているように」"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -79611,7 +79611,7 @@
       "text" : "マイナスの価値判断を含む。dimanと論理的には同じことを、否定的に指す。"
     }, {
       "title" : "用例",
-      "text" : "Ref koe ur'an sorin.|私は食べることしかできない。\nRe ur'an ef suu uikee.|私にしかそれを理解できない。\nRe diman ef suu uikee.|私のみがそれを理解できる。"
+      "text" : "\"Ref koe ur'an sorin.\"「私は食べることしかできない。」\n\"Re ur'an ef suu uikee.\"「私にしかそれを理解できない。」\n\"Re diman ef suu uikee.\"「私のみがそれを理解できる。」"
     }, {
       "title" : "語源",
       "text" : "a"
@@ -81477,7 +81477,7 @@
       "text" : "対格に拭き取られる物を取るのが普通だが、場所を取ることもできる。両方を示すときは場所は属格で示す。"
     }, {
       "title" : "用例",
-      "text" : "Eatau veane.|涙を拭う。\nTiabau veane.|机を拭く。\nTiabas butau veane.|机の水を拭く。"
+      "text" : "\"Eatau veane.\"「涙を拭う。」\n\"Tiabau veane.\"「机を拭く。」\n\"Tiabas butau veane.\"「机の水を拭く。」"
     }, {
       "title" : "語源",
       "text" : "a"
@@ -83961,7 +83961,7 @@
       "text" : "動詞、記述詞、名詞および文に前置することで、節を作る。省略することも出来る。"
     }, {
       "title" : "用例",
-      "text" : "S'af dirin (dore). |それは赤い。\nRef ze s'af dirin dore u sedoet. |私はそれが赤いことを知った。\nRef sedoet, ze s'af dirin dore u. |私は知った、それが赤いことを。(倒置)"
+      "text" : "\"S'af dirin (dore).\"「それは赤い。」\n\"Ref ze s'af dirin dore u sedoet.\"「私はそれが赤いことを知った。」\n\"Ref sedoet, ze s'af dirin dore u.\"「私は知った、それが赤いことを。(倒置)」"
     }, {
       "title" : "語源",
       "text" : "u"
@@ -84060,7 +84060,7 @@
       "text" : "主格が対格を可能にすること。元々は状況可能のみを指していたが、現在は状況可能と能力可能を分けない。接尾辞の-(a)rinは専ら被動作物を中心にした語を作り出すため、動作主を中心に表現したいならzereを使うとよい。"
     }, {
       "title" : "用例",
-      "text" : "Ref ze pabris eru cienze u zere.|私は大衆の心を変えることが出来る。\nRef pabris eris cienzu zere.|私は大衆を心変わりさせられる。\nどちらも同じ意味で、表現方法が違うのみ。"
+      "text" : "\"Ref ze pabris eru cienze u zere.\"「私は大衆の心を変えることが出来る。」\n\"Ref pabris eris cienzu zere.\"「私は大衆を心変わりさせられる。」\nどちらも同じ意味で、表現方法が違うのみ。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -86979,7 +86979,7 @@
       "text" : "制約を受ける行動を対格にとる。従って、何かが制限されていることを示したい場合には、受動態を伴うことが多い。"
     }, {
       "title" : "用例",
-      "text" : "Denef fasderse.|走ることは禁止されている。\n"
+      "text" : "\"Denef fasderse.\"「走ることは禁止されている。」\n"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -87511,7 +87511,7 @@
       "text" : "自分自身のこと。属格を接続することで任意の誰か自身を指すことができる。"
     }, {
       "title" : "用例",
-      "text" : "Ref ze enadif sefomin dore u medare perzen.|私は自分が誰かということについて考えることがある。\nSuf s'as enadis tarebesk.|それは彼自身の問題だ。"
+      "text" : "\"Ref ze enadif sefomin dore u medare perzen.\"「私は自分が誰かということについて考えることがある。」\n\"Suf s'as enadis tarebesk.\"「それは彼自身の問題だ。」"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -96560,8 +96560,8 @@
       "title" : "語源",
       "text" : "r>i.k"
     }, {
-      "title" : "例文",
-      "text" : "\"Kun hireskef reni car'aise.\"\n「この服は私に合っている。」"
+      "title" : "用例",
+      "text" : "\"Kun hireskef reni car'aise.\"「この服は私に合っている。」"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -96602,7 +96602,7 @@
     "ignoredTranslationRegex" : ".*[\\)】]\\s*",
     "pronunciationTitle" : null,
     "plainInformationTitles" : [ "語源" ],
-    "informationTitleOrder" : [ "語法", "用例", "文化", "例文", "語源" ],
+    "informationTitleOrder" : [ "語法", "用例", "文化", "語源" ],
     "formFontFamily" : "Endrata",
     "defaultWord" : {
       "entry" : {

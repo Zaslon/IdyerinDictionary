@@ -96543,6 +96543,57 @@
         "form" : "svis'enik"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 5139,
+      "form" : "car'aie"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "適合させる", "適す", "合う", "似合う", "釣り合う" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "主格が、対格を、与格に適した状態とすること。"
+    }, {
+      "title" : "語源",
+      "text" : "r>i.k"
+    }, {
+      "title" : "例文",
+      "text" : "\"Kun hireskef reni car'aise.\"\n「この服は私に合っている。」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5140,
+      "form" : "car'ai"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "適合", "合うこと", "似合うこと" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5141,
+      "form" : "car'ain"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "適合した", "合った", "似合った" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "修飾対象が、何かに適合していること。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

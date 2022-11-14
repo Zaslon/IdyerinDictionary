@@ -14511,11 +14511,14 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "日記", "日誌", "日報" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【電算】ログ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "日毎に書く情報集積物。それが報告物であっても、ただの自分用の覚書であっても、記述詞なしでは区別しない。"
+      "text" : "1. 日毎に書く情報集積物。それが報告物であっても、ただの自分用の覚書であっても、記述詞なしでは区別しない。\n2. 記録のために定期的に残されるファイルのこと。この意味の場合は日毎であるとは限らない。"
     }, {
       "title" : "語源",
       "text" : "*di+ceis"
@@ -24065,7 +24068,7 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "(人や物を)跳ばす", "飛ばす", "飛行させる", "跳躍させる", "ジャンプさせる", "フライトさせる" ]
+      "forms" : [ "(人や物を)(場所に)跳ばす", "飛ばす", "飛行させる", "跳躍させる", "ジャンプさせる", "フライトさせる" ]
     }, {
       "title" : "動詞",
       "forms" : [ "【俗】(薬物で)トリップさせる", "キめる", "キまる", "トぶ" ]
@@ -25225,7 +25228,13 @@
       "text" : "燃焼可能な物ではなく、燃焼させたいものを指す。なので、ロケット推進のために普通燃えないアルミニウムを用いる場合はアルミニウムはfanfaaとなり得る一方で、この場合は紙はfanfaaではない。紙を燃やしてもロケットの燃料足り得ないからである。暖を取るためなら紙もfanfaaになる。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "同意",
+      "entry" : {
+        "id" : 5181,
+        "form" : "fanfavansas"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 1340,
@@ -33854,11 +33863,14 @@
     "translations" : [ {
       "title" : "動詞",
       "forms" : [ "(物事や物体を)欲しがる", "求める", "要求する", "欲する", "求む", "必要とする", "要る", "望む" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "(人を)指名手配する" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "対象を自分による所有状態に移行させることを望むこと。それが必須かどうかを問わない。"
+      "text" : "1. 対象を自分による所有状態に移行させることを望むこと。それが必須かどうかを問わない。"
     }, {
       "title" : "語源",
       "text" : "r"
@@ -33873,6 +33885,9 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "要求", "要求品", "注文品", "欲しい物" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "指名手配犯" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -33886,11 +33901,14 @@
     "translations" : [ {
       "title" : "記述詞",
       "forms" : [ "求められる", "(誰かが)欲しがる", "欲しい", "求められた", "要求された", "注文された" ]
+    }, {
+      "title" : "記述詞",
+      "forms" : [ "指名手配中の", "指名手配された" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "誰かに欲しがられている状態であること。"
+      "text" : "1. 誰かに欲しがられている状態であること。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -43822,6 +43840,9 @@
     }, {
       "title" : "動詞",
       "forms" : [ "(武器を)戦闘状態にする", "準備する" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "(設備を)レディ状態にする", "稼働準備状態にする" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -61205,6 +61226,9 @@
     "translations" : [ {
       "title" : "動詞",
       "forms" : [ "入力する", "インプットする", "投入する" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "【電算】(入力欄に)入力する", "インプットする" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -74421,7 +74445,7 @@
   }, {
     "entry" : {
       "id" : 3987,
-      "form" : "tege semin"
+      "form" : "semin tege"
     },
     "translations" : [ {
       "title" : "疑問詞",
@@ -74429,8 +74453,11 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
+      "title" : "語法",
+      "text" : "全体で名詞として機能する。"
+    }, {
       "title" : "用例",
-      "text" : "\"Tege seven ef tevankes ze 1u 1ni fankese n?\"「一に一を加えるとどのくらいの量になるか？」"
+      "text" : "\"Semin tegef tevankes ze 1u 1ni fankese n?\"「一に一を加えるとどのくらいの量になるか？」"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -75048,7 +75075,10 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "(人を)私刑に処す", "リンチする", "私的制裁を加える", "【電算】炎上させる" ]
+      "forms" : [ "(人を)私刑に処す", "リンチする", "私的制裁を加える" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "【電算】炎上させる" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -84611,7 +84641,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "一連のもの", "シリーズ", "族", "系列", "系", "体系", "系統" ]
+      "forms" : [ "一連のもの", "シリーズ", "族", "系列", "系", "体系", "系統", "手続き" ]
     }, {
       "title" : "名詞",
       "forms" : [ "【電算】システム" ]
@@ -97277,6 +97307,155 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5174,
+      "form" : "tebabri"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "有名度", "知名度", "名声" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "te+pabrin"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5175,
+      "form" : "ted'od"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "関連度", "関係値" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "関係を持っている度合いのこと。関係が深いことと好感度が高いこととは無関係であることに注意が必要。"
+    }, {
+      "title" : "語源",
+      "text" : "te+code"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5176,
+        "form" : "tereek"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5176,
+      "form" : "tereek"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "好感度", "レピュテーション", "関係良好度" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "好意の度合い、関係性が良好である度合いのこと。"
+    }, {
+      "title" : "語源",
+      "text" : "te+reeke"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5175,
+        "form" : "ted'od"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5177,
+      "form" : "mazaom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "(場所を明示するための)マーカー", "ポイント", "点" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "指し示すためのもののこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5178,
+      "form" : "senome"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "【電算】リネームする", "名称変更する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "se+nome"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5179,
+      "form" : "gezoromin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "マルチプレイヤーの", "多人数参加の", "集団競技の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "ge+sore"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5180,
+      "form" : "vamame"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "(対象に)焦点を当てる", "フォーカスする" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5181,
+      "form" : "fanfavansas"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "燃料" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "fanfa+fansas"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "同意",
+      "entry" : {
+        "id" : 1339,
+        "form" : "fanfaa"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

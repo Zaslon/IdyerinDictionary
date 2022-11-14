@@ -18128,7 +18128,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "【天】太陽", "惑星系中心の星" ]
+      "forms" : [ "【天】太陽", "惑星系中心の星", "恒星" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -27649,14 +27649,17 @@
   }, {
     "entry" : {
       "id" : 1471,
-      "form" : "fedena samun"
+      "form" : "samuvedena"
     },
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "小惑星" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "samun+fedena"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -28670,12 +28673,18 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "ミス", "失敗", "誤り", "過ち", "しくじり", "間違い" ]
+      "forms" : [ "誤り", "過ち", "しくじり" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5165,
+        "form" : "amguguh"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 1526,
@@ -28745,7 +28754,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "対格にとった物事を、正しくない方向に解釈して行動すること。間違えることそのものを指す。"
+      "text" : "対格にとった物事を、正しくない方向に解釈して行動すること。間違えることそのものを指す。この結果としての失敗はamguguheで表す。また、この語にはうまく行きそうであったものを失敗させるニュアンスが含まれる。"
     }, {
       "title" : "語源",
       "text" : "a"
@@ -28756,6 +28765,18 @@
       "entry" : {
         "id" : 2496,
         "form" : "maze"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5163,
+        "form" : "guguhe"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5164,
+        "form" : "amguguhe"
       }
     } ]
   }, {
@@ -44651,7 +44672,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "元々あった場所へ引き戻すこと。"
+      "text" : "元々あった場所へ引き戻すこと。対格を与格へ戻すこと。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -56500,7 +56521,10 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "(製品や物品を)穴あけする", "穴を開ける", "穴掘する", "穿孔する", "掘る", "掘削する", "【軍】徹甲する", "射貫する", "開く", "開ける" ]
+      "forms" : [ "(製品や物品を)穴あけする", "穴を開ける", "穴掘する", "穿孔する", "掘る", "掘削する" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "【軍】徹甲する", "射貫する", "開く", "開ける" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -57302,12 +57326,18 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "(計画などを)キャンセルする", "凍結する", "棚上げする", "中断する", "休止する", "(交通機関を)欠航する", "欠便する" ]
+      "forms" : [ "(計画などを)キャンセルする", "凍結する", "棚上げする", "中断する", "休止する" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "(交通機関を)欠航する", "欠便する" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "【軍】(射撃などを)中止する", "ホールドする", "待てとする" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "語源",
-      "text" : "padoz>"
+      "title" : "用例",
+      "text" : "\"Padoza, s'odu!\"「撃ち方やめ！」"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -59971,7 +60001,7 @@
       "forms" : [ "(人", "行動", "物事を)好く", "好む", "興味を持つ", "興味がある" ]
     }, {
       "title" : "動詞",
-      "forms" : [ "(動詞)ファボる", "お気に入り登録する" ]
+      "forms" : [ "【電算】いいねする", "ナイスする", "ファボる", "お気に入り登録する" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -68791,7 +68821,13 @@
       "text" : "sim+zik"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5154,
+        "form" : "guzikin"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 3685,
@@ -88868,7 +88904,13 @@
       "text" : "aker+sasee+targunevadu"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "省略",
+      "entry" : {
+        "id" : 5159,
+        "form" : "AZD"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 4776,
@@ -96807,7 +96849,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "ショートカットキー", "ホットキー", "短縮ボタン" ]
+      "forms" : [ "【電算】ショートカットキー", "ホットキー", "短縮ボタン" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -96848,6 +96890,390 @@
     }, {
       "title" : "語源",
       "text" : "te+kiz"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5153,
+      "form" : "mod"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "モード", "相" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "en"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5154,
+      "form" : "guzikin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "(タイミングが)交互に", "相互に", "互い違いに" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "時間的に同時にならないような様。"
+    }, {
+      "title" : "語源",
+      "text" : "gu+zik"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 3684,
+        "form" : "simzikin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5155,
+      "form" : "veesuieom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "補助加速器", "補助推進装置" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【航空】アフターバーナー", "オーグメンター", "オグメンタ" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(ロケットの)ブースター" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "主となる加速手段に追加して加速させる装置のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "vees+uiee"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5156,
+      "form" : "EMP"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "電磁パルス", "EMP" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "en"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5157,
+      "form" : "bardicaker"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "トラクタービーム" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "bare+dicaker"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5158,
+      "form" : "ion"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "イオン" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "en"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5159,
+      "form" : "AZD"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "プリズム" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "省略",
+      "entry" : {
+        "id" : 4775,
+        "form" : "akerzasedargunevadu"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5160,
+      "form" : "skigunee"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "(設備を)初期化する", "イニシャライズする" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "(人を)ウォームアップする", "準備する", "準備運動させる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "1. 設備やプログラムの変数の開始時セットアップを行うこと。\n2. 人間や組織が本来の行動の前に準備を行うこと。"
+    }, {
+      "title" : "語源",
+      "text" : "ski+kunee"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5161,
+      "form" : "simzike"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "【電算】同期させる", "シンクさせる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "simzikin>"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5162,
+      "form" : "asderesk"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "記録物", "セーブデータ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5163,
+      "form" : "guguhe"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "(物事を)成功させる", "達成させる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "対格に取った物事をうまくいかせること。"
+    }, {
+      "title" : "語源",
+      "text" : "r"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 1529,
+        "form" : "fide"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5164,
+      "form" : "amguguhe"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "(物事を)失敗させる", "ミスらせる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "要因が何であるかは別として、成功ではない状態になること。fideは仕損じるというニュアンスが強いため、単に成功しなかったという事実を明示したい場合はこちらが用いられる傾向にある。"
+    }, {
+      "title" : "語源",
+      "text" : "am+guguhe"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 1529,
+        "form" : "fide"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5165,
+      "form" : "amguguh"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "失敗", "不成功" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【電算】エラー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 1525,
+        "form" : "fid"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5166,
+      "form" : "guguh"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "成功" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5167,
+      "form" : "guguhin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "(物事が)成功した", "成功の", "うまくいった" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5168,
+      "form" : "amguguhin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "(物事が)失敗した", "失敗の", "うまくいかなかった" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5169,
+      "form" : "krik"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【電算】クリック", "クリックボタン" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "en"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5170,
+      "form" : "ozonen"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "異国の" ]
+    }, {
+      "title" : "記述詞",
+      "forms" : [ "(SFの)エイリアンの", "地球外生命体の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5171,
+      "form" : "dizesvansas"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "資源", "リソース", "原料" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "資源の内、特に物質として系外から採取して取得するもののこと。単にdizeseskと言うと資源化されたものを漠然と指すが、これを物質的側面に特に限定したい場合に用いる。"
+    }, {
+      "title" : "語源",
+      "text" : "dizese+fansas"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5172,
+      "form" : "mas'vifne"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "シグナル", "信号" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "救難信号など、対象を限定せずにブロードキャストされている類の信号のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "mas'ue+fifne"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5173,
+      "form" : "tekka"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "任務", "ミッション" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "命令や契約として遂行すべきとされる業務や指示のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "r>i.k"
     } ],
     "variations" : [ ],
     "relations" : [ ]

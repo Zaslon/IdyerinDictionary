@@ -62494,7 +62494,13 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "進出", "躍進", "跳梁", "【軍】進撃", "進軍" ]
+      "forms" : [ "進出", "躍進", "跳梁" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "乗り物などを前に進めること", "推進" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【軍】進撃", "進軍" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -62526,7 +62532,7 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "(人や部隊や事業を)(目標に向かって)進める", "躍進させる", "跳梁させる", "発展させる" ]
+      "forms" : [ "(人や部隊や事業を)(目標に向かって)進める", "躍進させる", "跳梁させる", "発展させる", "推進させる", "推進する" ]
     }, {
       "title" : "動詞",
       "forms" : [ "【軍】進撃させる", "進軍させる" ]
@@ -80427,6 +80433,9 @@
     "translations" : [ {
       "title" : "記述詞",
       "forms" : [ "良く", "頻繁に", "結構な頻度で", "よく" ]
+    }, {
+      "title" : "記述詞",
+      "forms" : [ "(珍しさが)ありふれた", "一般的な", "普通の" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -97456,6 +97465,38 @@
         "form" : "fanfaa"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 5182,
+      "form" : "sakzom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "推進機", "スラスター" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5183,
+      "form" : "semaves"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【軍】指揮所", "CIC", "中央指揮所", "艦橋" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "指揮官が指揮を行う中枢となる事務所のこと。"
+    }, {
+      "title" : "語法",
+      "text" : "seme+aves"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

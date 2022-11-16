@@ -1522,7 +1522,7 @@
   }, {
     "entry" : {
       "id" : 78,
-      "form" : "AD'-FoD"
+      "form" : "AD'-FoDn"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -3287,7 +3287,7 @@
   }, {
     "entry" : {
       "id" : 175,
-      "form" : "akergorgiresk"
+      "form" : "akergorgirom"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -3296,7 +3296,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語源",
-      "text" : "akergor+giresk"
+      "text" : "akergor+gire"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -9232,7 +9232,7 @@
       "title" : "省略",
       "entry" : {
         "id" : 78,
-        "form" : "AD'-FoD"
+        "form" : "AD'-FoDn"
       }
     } ]
   }, {
@@ -9861,6 +9861,12 @@
       "entry" : {
         "id" : 3372,
         "form" : "samun"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5194,
+        "form" : "diban"
       }
     } ]
   }, {
@@ -24397,7 +24403,7 @@
   }, {
     "entry" : {
       "id" : 1297,
-      "form" : "fadiragvansasgiresk"
+      "form" : "fadiragvansasgirom"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -24406,7 +24412,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語源",
-      "text" : "fa+tirag+fansas+giresk"
+      "text" : "fa+tirag+fansas+gire"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -35247,22 +35253,6 @@
         "form" : "fize"
       }
     } ]
-  }, {
-    "entry" : {
-      "id" : 1875,
-      "form" : "iamesk"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "的", "ポイント", "点" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "【軍】標的", "ターゲット" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
   }, {
     "entry" : {
       "id" : 1876,
@@ -52714,11 +52704,14 @@
     "translations" : [ {
       "title" : "動詞",
       "forms" : [ "(人や物を)(作業内容に)作業させる", "処理させる", "作動させる", "動作させる", "稼働させる", "従事させる" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "【電算】演算させる", "処理させる" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "与格に取った作業内容に対格を従事させること。"
+      "text" : "1. 与格に取った作業内容に対格を従事させること。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -59358,7 +59351,7 @@
   }, {
     "entry" : {
       "id" : 3175,
-      "form" : "rarfadingzave"
+      "form" : "rarfadinggzave"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -59367,7 +59360,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語源",
-      "text" : "rarfa+dingzave"
+      "text" : "rarfa+dinggzave"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -65561,6 +65554,9 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "応答", "反応", "呼応", "対応", "回答", "返答", "レスポンス" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "検知" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -65583,11 +65579,14 @@
     "translations" : [ {
       "title" : "動詞",
       "forms" : [ "(人や物を)(物事や作用に対して)反応させる", "呼応させる", "応えさせる", "応じさせる", "応答させる" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "(装置などが)(対象を)検知する", "反応する" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "対格を与格に対して応答する状態にすること。与格には「光」や「呼びかけ」のほかに、「彼」のように人物を直接取ることも出来る。"
+      "text" : "1. 対格を与格に対して応答する状態にすること。与格には「光」や「呼びかけ」のほかに、「彼」のように人物を直接取ることも出来る。"
     }, {
       "title" : "語源",
       "text" : "*se+kude"
@@ -65600,6 +65599,9 @@
       "form" : "sekudom"
     },
     "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "反応させるもの", "検出器", "検出装置" ]
+    }, {
       "title" : "名詞",
       "forms" : [ "【電算】サーバー" ]
     } ],
@@ -89966,7 +89968,7 @@
     },
     "translations" : [ {
       "title" : "記述詞",
-      "forms" : [ "密度の高い", "密な" ]
+      "forms" : [ "密度の高い", "密な", "濃い" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -89991,7 +89993,7 @@
     },
     "translations" : [ {
       "title" : "記述詞",
-      "forms" : [ "密度が低い", "疎な", "スカスカな" ]
+      "forms" : [ "密度が低い", "疎な", "スカスカな", "薄い" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -92416,7 +92418,13 @@
       "text" : "fenzen+fansas"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "省略",
+      "entry" : {
+        "id" : 5187,
+        "form" : "FZV"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 4949,
@@ -96997,23 +97005,13 @@
       "text" : "vees+uiee"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 5156,
-      "form" : "EMP"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "電磁パルス", "EMP" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語源",
-      "text" : "en"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 5195,
+        "form" : "veeszakzom"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 5157,
@@ -97494,6 +97492,244 @@
     }, {
       "title" : "語法",
       "text" : "seme+aves"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5184,
+      "form" : "kietik dingo-fiatin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "電磁パルス", "EMP" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "省略",
+      "entry" : {
+        "id" : 5185,
+        "form" : "KDF"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5185,
+      "form" : "KDF"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "電磁パルス", "EMP" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "省略",
+      "entry" : {
+        "id" : 5184,
+        "form" : "kietik dingo-fiatin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5186,
+      "form" : "nemanservave"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "溶鉱炉" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "nemanse+fave"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5187,
+      "form" : "FZV"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "素子", "エレメント" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "省略",
+      "entry" : {
+        "id" : 4948,
+        "form" : "fenzenvansas"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5188,
+      "form" : "fenzenvansas nadun"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【電算】演算素子", "プロセッサー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "省略",
+      "entry" : {
+        "id" : 5189,
+        "form" : "FZVN"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5189,
+      "form" : "FZVN"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "演算素子", "プロセッサー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "省略",
+      "entry" : {
+        "id" : 5188,
+        "form" : "fenzenvansas nadun"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5190,
+      "form" : "invame"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "濃縮する", "濃くする", "密度を高める" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5191,
+      "form" : "dicion"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "イオンビーム" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "dic+ion"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5192,
+      "form" : "horamurom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【軍】装填器", "装填装置", "ローダー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "砲弾を装填する装置のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "hor+amure"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5193,
+      "form" : "abravaanserin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "楔形の", "くさび形の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "abrava+ansere"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5194,
+      "form" : "diban"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "巨大な", "非常に大きな" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "r"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 522,
+        "form" : "bakin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5195,
+      "form" : "veeszakzom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "補助推進機", "補助推進装置" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "補助的に用いられる推進装置全般のこと。これのうち、特に加速に限定して用いられるものがveesuieomとなる。"
+    }, {
+      "title" : "語源",
+      "text" : "vees+sakze"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 5155,
+        "form" : "veesuieom"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5196,
+      "form" : "gofzekudom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "接近検出装置", "近接センサー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "gofin+sekude"
     } ],
     "variations" : [ ],
     "relations" : [ ]

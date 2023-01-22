@@ -97773,6 +97773,81 @@
         "form" : "toknen"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 5198,
+      "form" : "budagai"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【言】借用語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "外来語から借用した語のこと。外来語の音をベースに借用する音訳借用と、意味をベースに借用する翻訳借用とがある。この語自体が英語からの翻訳借用である。"
+    }, {
+      "title" : "語源",
+      "text" : "en:loan word"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 5199,
+        "form" : "budagai sendan"
+      }
+    }, {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 5200,
+        "form" : "budagai toretubin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5199,
+      "form" : "budagai sendan"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【言】音訳借用" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "外来語の音声を基に借用した語のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 5198,
+        "form" : "budagai"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5200,
+      "form" : "budagai toretubin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【言】翻訳借用" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "構成要素を逐語訳してイジェール語に置き換える形で導入された外来語のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 5198,
+        "form" : "budagai"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

@@ -29871,7 +29871,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "人", "人物", "奴", "マン" ]
+      "forms" : [ "人", "人物", "ヒト", "奴", "マン" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -55049,7 +55049,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "エレベーター" ]
+      "forms" : [ "エレベーター", "昇降機" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -59164,7 +59164,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "(科)医学" ]
+      "forms" : [ "医学" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -70051,6 +70051,9 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "侵略", "侵攻", "攻め" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【医】侵襲" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -80150,12 +80153,12 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "繊維" ]
+      "forms" : [ "繊維", "ファイバー" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "繊維産業の繊維はki。"
+      "text" : "細い糸状の組織のこと。"
     }, {
       "title" : "語源",
       "text" : "usoin+ki"
@@ -97848,6 +97851,92 @@
         "form" : "budagai"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 5201,
+      "form" : "fomanseresk"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "人型", "ヒト型" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(ヒト型の)人形" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "fom+ansere"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5202,
+      "form" : "torteska"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "余裕", "余った場所", "許容範囲", "マージン" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "物事やスケジュールや配置が成立するための必要最低限の状態から見て、設けられた空間や時間のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5203,
+      "form" : "tetorteska"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "クリアランス", "余裕度", "許容度" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "te+torteska"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5204,
+      "form" : "faru"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "(建物の)階", "フロア" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "a"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5205,
+      "form" : "dingzeduf"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "停電", "ブラックアウト" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "電気が停止すること。"
+    }, {
+      "title" : "語源",
+      "text" : "ding+sedufe"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

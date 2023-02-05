@@ -4905,7 +4905,7 @@
     },
     "translations" : [ {
       "title" : "記述詞",
-      "forms" : [ "仮の", "仮に", "仮初の", "かりそめの", "一時的な", "間に合わせの", "暫定の" ]
+      "forms" : [ "仮の", "仮に", "仮初の", "かりそめの", "一時的な", "間に合わせの", "暫定の", "仮設の" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -29241,7 +29241,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "2つで1つの物1組。"
+      "text" : "2つで1つの物の1組のこと。"
     }, {
       "title" : "文化",
       "text" : "夫婦とカップルで語が同じだが、法律上婚姻関係にあるかどうかの差なので、イジェール人はあまり心情的に区別しない。結婚したfiiか、結婚していないfiiかで区別する。"
@@ -33144,7 +33144,10 @@
     },
     "translations" : [ {
       "title" : "記述詞",
-      "forms" : [ "(可逆的な)不活性の", "不使用状態の", "無効な", "(電源等が)オフの", "【軍】(婉曲)無力化された" ]
+      "forms" : [ "(可逆的な)不活性の", "不使用状態の", "無効な", "(電源等が)オフの" ]
+    }, {
+      "title" : "記述詞",
+      "forms" : [ "【軍】(婉曲)無力化された" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -82899,7 +82902,10 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "(上着の上から付ける)ベルト", "【軍】ガンベルト", "装飾帯", "装帯", "装備用ベルト" ]
+      "forms" : [ "(上着の上から付ける)ベルト", "装飾帯" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【軍】ガンベルト", "装帯", "装備用ベルト" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -83687,7 +83693,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "武器や危険な物に対する覆いのこと。"
+      "text" : "1. 武器や危険な物に対する覆いのこと。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -91469,13 +91475,22 @@
       "forms" : [ "同じの～", "同質の～" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "simとの区別は明確ではないが、oの対義語としての側面が強い場合にこちらが選択されがちである。"
+    } ],
     "variations" : [ ],
     "relations" : [ {
       "title" : "対義語",
       "entry" : {
         "id" : 4897,
         "form" : "o-"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5038,
+        "form" : "sim-"
       }
     } ]
   }, {
@@ -94506,7 +94521,13 @@
       "text" : "simin"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4898,
+        "form" : "be-"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 5039,
@@ -97274,7 +97295,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5214,
+        "form" : "bezonen"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 5171,
@@ -97913,6 +97940,9 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
+      "title" : "語法",
+      "text" : "複数階層に分かれた建築物の、同一の高さに位置する部分のこと。"
+    }, {
       "title" : "語源",
       "text" : "a"
     } ],
@@ -97953,6 +97983,248 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5207,
+      "form" : "dimens'en"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "次元", "ディメンション" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "en"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5208,
+      "form" : "moginkan"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "坊主頭の", "坊主の", "ハゲの", "禿の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "頭髪が無いこと。"
+    }, {
+      "title" : "文化",
+      "text" : "頭髪をすべて剃ることは一般的ではないが、宗教的に無毛は無欲を意味し、禁欲の象徴であるため、無毛は敬虔で生真面目さの象徴である。"
+    }, {
+      "title" : "語源",
+      "text" : "mo+kinka"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5209,
+        "form" : "mogien"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5209,
+      "form" : "mogien"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "無毛の" ]
+    }, {
+      "title" : "記述詞",
+      "forms" : [ "無欲な" ]
+    }, {
+      "title" : "記述詞",
+      "forms" : [ "(婉曲)ハゲの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "1. 毛がないこと。\n2. 欲がないこと。\n3. 2から転じて、禿げていることの婉曲表現。"
+    }, {
+      "title" : "文化",
+      "text" : "望んで髪がなくなったわけではない場合の痩せ我慢や、揶揄する場合に用いられることがある。「ほら、俺って『無欲』だからさ。」というような使い方である。"
+    }, {
+      "title" : "語源",
+      "text" : "mo+kie"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5208,
+        "form" : "moginkan"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5210,
+      "form" : "iugor"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "(仮の)足場", "作業床" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "高所作業のため、仮に置かれた土台のこと。積み上げられたものというイメージがあるため、吊り足場としてのゴンドラは含まれない。"
+    }, {
+      "title" : "語源",
+      "text" : "r>i.t"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5211,
+        "form" : "sirtarvaru"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5211,
+      "form" : "sirtarvaru"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "(作業用の)ゴンドラ", "吊り床", "吊り足場" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "吊るされる形で設置されたフロアのこと。"
+    }, {
+      "title" : "語源",
+      "text" : "sirtare+faru"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5210,
+        "form" : "iugor"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5212,
+      "form" : "omnomia"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "ニックネーム", "あだ名", "通称", "別名" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "本名とは別に、ある状況における表記や呼称のために設けられた別の名前のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "om+nomia"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5213,
+      "form" : "simas'tan"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "同じ意味の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "sim+as'ta"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5214,
+      "form" : "bezonen"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "同国の", "同じ国に所属する", "同郷の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "o+sone"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5170,
+        "form" : "ozonen"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5215,
+      "form" : "kai simas'tan"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【言】同意語", "同義語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5217,
+        "form" : "kai nidoas'tan"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5216,
+      "form" : "nidoas'tan"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "類義の", "意味が似ている" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "nidoe+as'tae"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5217,
+      "form" : "kai nidoas'tan"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【言】類義語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "kai nidoas'tanの方が、kai simas'tanよりも専門語である。異なる表記である以上、完全に同一とはなり得ないという観点から、こちらの語の使用が好まれる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5215,
+        "form" : "kai simas'tan"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

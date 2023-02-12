@@ -9051,7 +9051,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "共同体と対置される存在としての個人。ネットワークや共同体から切り離された一人の人間。avvomotの形で「個人にとって、人それぞれ、各人、各々、おのおのの人にとって」という意味になる。"
+      "text" : "共同体と対置される存在としての個人。ネットワークや共同体から切り離された一人の人間。"
     }, {
       "title" : "用例",
       "text" : "\"Ze negau fagave ab sien fagave f avvomot tigin.\"「何を赦せて何を赦せないかは人によって異なる。」"
@@ -56330,7 +56330,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "深海艇", "深海船", "【軍】潜水艦", "サブマリン" ]
+      "forms" : [ "深海艇", "深海船", "潜水艦", "サブマリン" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -95404,7 +95404,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "文化",
-      "text" : "現代では全世界を繋いでいるインターネットも、星々をまたぐには光が遅すぎるために、同じ仕組みで拡張していくのは惑星内が限界である。非同期的な仕組みによって惑星間のネットワークも繋がってはいるが、現代の様にほぼリアルタイムで接続できるわけではないため、影響力が現代よりも低い。"
+      "text" : "現代では全世界を繋いでいるインターネットも、星々をまたぐには光が遅すぎるために、同じ仕組みで拡張していくのは惑星内が限界である。非同期的な仕組みによって惑星間のネットワークも繋がってはいるが、現代の様にほぼリアルタイムで接続できるわけではないため、速報性は現代よりも劣る。一方で、星を越えて移動することは殆どの人にとっては現代における海外旅行以上にハードルが高いため、外界の情報を知る唯一の手段であることには変わりがない。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -98119,6 +98119,9 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "ニックネーム", "あだ名", "通称", "別名" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "ハンドルネーム" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -98225,6 +98228,113 @@
         "form" : "kai simas'tan"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 5218,
+      "form" : "siirzgura"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "胸像" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "主に上半身を模った像のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "siir+skura"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5219,
+      "form" : "burzgura"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "トルソー", "胴像" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "四肢と頭部のない像のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "bur+skura"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5220,
+      "form" : "fodzgura"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "座像", "坐像" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "座ったポーズの像のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "fode+skura"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5221,
+        "form" : "tarzgura"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5221,
+      "form" : "tarzgura"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "立像", "スタチュー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "立つポーズの像のこと。\t"
+    }, {
+      "title" : "語源",
+      "text" : "tar+skura"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5220,
+        "form" : "fodzgura"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5222,
+      "form" : "ceidzaran"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "アバター" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "非対面の情報通信において、個人を識別するために用いる画像等による仮初の姿のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "ceid+saran"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

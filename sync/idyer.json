@@ -39515,7 +39515,7 @@
       "text" : "死者の弔いのための儀式。"
     }, {
       "title" : "語源",
-      "text" : "kar+skai"
+      "text" : "kar+skai>"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -45280,7 +45280,7 @@
   }, {
     "entry" : {
       "id" : 2415,
-      "form" : "makzkib"
+      "form" : "makzgib"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -45293,7 +45293,7 @@
   }, {
     "entry" : {
       "id" : 2416,
-      "form" : "makzkibe"
+      "form" : "makzgibe"
     },
     "translations" : [ {
       "title" : "動詞",
@@ -45312,7 +45312,7 @@
   }, {
     "entry" : {
       "id" : 2417,
-      "form" : "makzkibom"
+      "form" : "makzgibom"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -69154,7 +69154,7 @@
   }, {
     "entry" : {
       "id" : 3700,
-      "form" : "sinemazkura"
+      "form" : "sinemazgura"
     },
     "translations" : [ {
       "title" : "名詞",

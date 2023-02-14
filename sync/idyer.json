@@ -37892,6 +37892,12 @@
         "id" : 1224,
         "form" : "esdide"
       }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5223,
+        "form" : "ridabe"
+      }
     } ]
   }, {
     "entry" : {
@@ -40233,7 +40239,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "関連",
+      "title" : "対義語",
       "entry" : {
         "id" : 2550,
         "form" : "ment"
@@ -47730,8 +47736,11 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
+      "title" : "語法",
+      "text" : "1. 思考を司るの主体としての頭のこと。物理的な頭を表すkeinuとはニュアンスが異なる。\n2. 心や魂を受信する器官としての脳のこと。"
+    }, {
       "title" : "文化",
-      "text" : "思考を司るのがmentで、物理的な頭を表すkeinuとは指す範囲が違う。心や魂としてのnirはniruerteにあり、mentはそれを受信している器官として理解されている。"
+      "text" : "心や魂としてのnirはniruerteにあり、mentはそれを受信している器官として理解されている。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -47745,6 +47754,12 @@
       "entry" : {
         "id" : 2956,
         "form" : "nir"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 2146,
+        "form" : "keinu"
       }
     } ]
   }, {
@@ -98332,6 +98347,76 @@
     }, {
       "title" : "語源",
       "text" : "ceid+saran"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5223,
+      "form" : "ridabe"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "(役務や物品を)(人や組織に)提供する", "供与する", "与える" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "与格に対し、何らかの便益を生じるような性質を持つ対格を与えること。"
+    }, {
+      "title" : "語源",
+      "text" : "r"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 2017,
+        "form" : "iue"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5224,
+      "form" : "ridab"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "提供", "供与" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5225,
+      "form" : "ridabesk"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "供与品", "提供物" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5226,
+      "form" : "ridaboven"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "サービス", "役務提供" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "相手に便益を与えるような性質を持った労務提供のこと。英語のserviceの訳語としても用いられる。"
+    }, {
+      "title" : "語源",
+      "text" : "ridave+oven"
     } ],
     "variations" : [ ],
     "relations" : [ ]

@@ -98420,6 +98420,44 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5227,
+      "form" : "gaskuadu"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "(個人装備品の)装甲板" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "防弾チョッキの中身を構成する装甲板のこと。プレートメイルのような甲冑を構成する個々の装甲板も含む。"
+    }, {
+      "title" : "語源",
+      "text" : "gasku+adu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5228,
+      "form" : "gaskuadud'artigom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【軍】プレートキャリアー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "防弾用に装甲板を入れるタイプのベスト状の装備品のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "gaskuadu+cartige"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

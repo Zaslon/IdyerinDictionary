@@ -2027,10 +2027,13 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "乗り換え点", "駅", "港", "空港", "ステーション", "ポート", "エアポート", "バス停", "タクシー乗り場" ]
+      "forms" : [ "交通結節点", "乗り換え点", "駅", "港", "空港", "ステーション", "ポート", "エアポート", "バス停", "タクシー乗り場" ]
     }, {
       "title" : "名詞",
       "forms" : [ "コネクター", "接続器", "プラグ" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【電算】ノード" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -57378,7 +57381,13 @@
       "text" : "\"Padoza, s'odu!\"「撃ち方やめ！」"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5232,
+        "form" : "samedie"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 3069,
@@ -58765,7 +58774,7 @@
     },
     "translations" : [ {
       "title" : "記述詞",
-      "forms" : [ "おいしい", "おいしく", "(味が)うまい", "うまく" ]
+      "forms" : [ "おいしい", "おいしく", "(味が)うまい", "うまく", "美味しい" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -63040,7 +63049,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "(階級や格の違いを表す)級", "位", "クラス", "レベル", "グレード", "階級", "ランク", "学年" ]
+      "forms" : [ "(階級や格の違いを表す)級", "位", "格", "クラス", "レベル", "グレード", "階級", "ランク", "学年" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -73015,7 +73024,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "(用途や種別の違いを表す)型", "タイプ", "クラス", "級", "学級", "組", "種", "式", "役", "役割" ]
+      "forms" : [ "(用途や種別の違いを表す)型", "種類", "タイプ", "クラス", "級", "学級", "組", "種", "式", "役", "役割" ]
     }, {
       "title" : "名詞",
       "forms" : [ "【電算】型" ]
@@ -98455,6 +98464,140 @@
     }, {
       "title" : "語源",
       "text" : "gaskuadu+cartige"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5229,
+      "form" : "gutiak"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "レイアウト", "配置" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "*gu+*tia>"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5230,
+      "form" : "gutiake"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "(物体を)レイアウトする", "配置する", "整然と置く" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "対格を、ある規則や原則に従って設置すること。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5231,
+      "form" : "gutiakin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "レイアウト済みの", "配置された", "整然と置かれた" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5232,
+      "form" : "samedie"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "元に戻す" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "【電算】(対象を)アンドゥする", "取り消しする" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "本来の状態に再び戻すこと。一度実施した後に、元の状態に再び戻すことを指す。実施自体を取りやめる場合はpadozeを用いる。"
+    }, {
+      "title" : "語源",
+      "text" : "se+amedi>"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 3068,
+        "form" : "padoze"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5233,
+      "form" : "samedi"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【電算】アンドゥ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5234,
+      "form" : "tazma harmen"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "車間距離" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5235,
+      "form" : "akoven"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "(調理された)食事", "調理品" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "ake+oven"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5236,
+      "form" : "adeaakoven"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "レトルト", "即席食", "調理済み食品" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "出荷時点で調理済みとなっている食品のこと。原義は完全調理済み食品を指すが、実際にはレンジ調理必須の食品なども指す。"
+    }, {
+      "title" : "語源",
+      "text" : "adean+akoven"
     } ],
     "variations" : [ ],
     "relations" : [ ]

@@ -20077,7 +20077,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "(雅称)諸侯", "貴族" ]
+      "forms" : [ "【雅】諸侯", "貴族" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -27779,7 +27779,7 @@
       "forms" : [ "半分", "半", "ハーフ" ]
     }, {
       "title" : "名詞",
-      "forms" : [ "イジェール人", "純イジェール人" ]
+      "forms" : [ "【雅】イジェール人", "純イジェール人" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -34742,7 +34742,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "(雅称)イジェール人" ]
+      "forms" : [ "【雅】イジェール人" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -38638,7 +38638,7 @@
   }, {
     "entry" : {
       "id" : 2058,
-      "form" : "kaiko"
+      "form" : "kiko"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -38648,6 +38648,9 @@
     "contents" : [ {
       "title" : "文化",
       "text" : "イジェール人にとって思い入れのある花のひとつ。移民船の名前の一つでもあり、探査を担当していた。"
+    }, {
+      "title" : "語源",
+      "text" : "r"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -98741,6 +98744,701 @@
       "entry" : {
         "id" : 4690,
         "form" : "Mahrezone"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5241,
+      "form" : "Arhemara"
+    },
+    "translations" : [ {
+      "title" : "固有名詞",
+      "forms" : [ "【地名】アルヘマーラ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "イジェール王国の星系の一つで、七つある星系の内の一つ。"
+    }, {
+      "title" : "文化",
+      "text" : "イジェール王国の主星系で、最も栄えている星系である。また、イジェール王国が始まった星系でもある。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5245,
+        "form" : "Hamnute"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5244,
+        "form" : "Sariritigo"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5246,
+        "form" : "Zesirasi"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5242,
+        "form" : "Obire"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5247,
+        "form" : "Atmara"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5243,
+        "form" : "Ratora"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5242,
+      "form" : "Obire"
+    },
+    "translations" : [ {
+      "title" : "固有名詞",
+      "forms" : [ "【地名】オビーレ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "イジェール王国の星系の一つで、七つある星系の内の一つ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5245,
+        "form" : "Hamnute"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5241,
+        "form" : "Arhemara"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5244,
+        "form" : "Sariritigo"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5246,
+        "form" : "Zesirasi"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5247,
+        "form" : "Atmara"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5243,
+        "form" : "Ratora"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5243,
+      "form" : "Ratora"
+    },
+    "translations" : [ {
+      "title" : "固有名詞",
+      "forms" : [ "【地名】ラトーラ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "イジェール王国の星系の一つで、七つある星系の内の一つ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5245,
+        "form" : "Hamnute"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5241,
+        "form" : "Arhemara"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5244,
+        "form" : "Sariritigo"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5246,
+        "form" : "Zesirasi"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5242,
+        "form" : "Obire"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5247,
+        "form" : "Atmara"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5244,
+      "form" : "Sariritigo"
+    },
+    "translations" : [ {
+      "title" : "固有名詞",
+      "forms" : [ "【地名】サリリティーゴ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "イジェール王国の星系の一つで、七つある星系の内の一つ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5245,
+        "form" : "Hamnute"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5241,
+        "form" : "Arhemara"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5246,
+        "form" : "Zesirasi"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5242,
+        "form" : "Obire"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5247,
+        "form" : "Atmara"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5243,
+        "form" : "Ratora"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5245,
+      "form" : "Hamnute"
+    },
+    "translations" : [ {
+      "title" : "固有名詞",
+      "forms" : [ "【地名】ハムヌーテ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "イジェール王国の星系の一つで、七つある星系の内の一つ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5241,
+        "form" : "Arhemara"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5244,
+        "form" : "Sariritigo"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5246,
+        "form" : "Zesirasi"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5242,
+        "form" : "Obire"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5247,
+        "form" : "Atmara"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5243,
+        "form" : "Ratora"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5246,
+      "form" : "Zesirasi"
+    },
+    "translations" : [ {
+      "title" : "固有名詞",
+      "forms" : [ "【地名】ゼスィラースィ", "ゼシラーシ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "イジェール王国の星系の一つで、七つある星系の内の一つ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5245,
+        "form" : "Hamnute"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5241,
+        "form" : "Arhemara"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5244,
+        "form" : "Sariritigo"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5242,
+        "form" : "Obire"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5247,
+        "form" : "Atmara"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5243,
+        "form" : "Ratora"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5247,
+      "form" : "Atmara"
+    },
+    "translations" : [ {
+      "title" : "固有名詞",
+      "forms" : [ "【地名】アトマーラ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "イジェール王国の星系の一つ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5245,
+        "form" : "Hamnute"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5241,
+        "form" : "Arhemara"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5244,
+        "form" : "Sariritigo"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5246,
+        "form" : "Zesirasi"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5242,
+        "form" : "Obire"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5243,
+        "form" : "Ratora"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5248,
+      "form" : "Kaiko"
+    },
+    "translations" : [ {
+      "title" : "固有名詞",
+      "forms" : [ "【緯】移民船カイコ号" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "イジェール王国の始祖となった人々が乗っていた世代交代型移民船のうちの一つ。"
+    }, {
+      "title" : "語源",
+      "text" : "r"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5249,
+        "form" : "Titauini"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5250,
+        "form" : "Sekore"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5249,
+      "form" : "Titauini"
+    },
+    "translations" : [ {
+      "title" : "固有名詞",
+      "forms" : [ "【緯】移民船ティタウィーニ号" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "イジェール王国の始祖となった人々が乗っていた世代交代型移民船のうちの一つ。"
+    }, {
+      "title" : "語源",
+      "text" : "titauini"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5248,
+        "form" : "Kaiko"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5250,
+        "form" : "Sekore"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5250,
+      "form" : "Sekore"
+    },
+    "translations" : [ {
+      "title" : "固有名詞",
+      "forms" : [ "【緯】移民船セコーレ号" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "イジェール王国の始祖となった人々が乗っていた世代交代型移民船のうちの一つ。"
+    }, {
+      "title" : "文化",
+      "text" : "移民船はセコーレ号が旗艦で、ティタウィーニ号が資源循環艦、カイコ号が探査艦であった。伝承上は6隻艦隊であったとされるが、実際には3隻であったとされている。"
+    }, {
+      "title" : "語源",
+      "text" : "sekore"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5248,
+        "form" : "Kaiko"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5249,
+        "form" : "Titauini"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5251,
+      "form" : "tut'aun"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "橘", "タチバナ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "r>i.t"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5252,
+      "form" : "meza"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "松", "マツ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "r"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5253,
+      "form" : "Mizo"
+    },
+    "translations" : [ {
+      "title" : "固有名詞",
+      "forms" : [ "【緯】移民船ミーズォ号" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "イジェール王国の始祖となった人々が乗っていた世代交代型移民船のうちの一つとされているが、実在性が怪しまれている船の一つ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5256,
+        "form" : "Nurs'ika"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5254,
+        "form" : "Foza"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5254,
+      "form" : "Foza"
+    },
+    "translations" : [ {
+      "title" : "固有名詞",
+      "forms" : [ "【緯】移民船フォーザ号" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "イジェール王国の始祖となった人々が乗っていた世代交代型移民船のうちの一つとされているが、実在性が怪しまれている船の一つ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5256,
+        "form" : "Nurs'ika"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5253,
+        "form" : "Mizo"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5255,
+      "form" : "ozi"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "藤", "フジ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "r"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5256,
+      "form" : "Nurs'ika"
+    },
+    "translations" : [ {
+      "title" : "固有名詞",
+      "forms" : [ "【緯】移民船ヌルシーカ号" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "イジェール王国の始祖となった人々が乗っていた世代交代型移民船のうちの一つとされているが、実在性が怪しまれている船の一つ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5253,
+        "form" : "Mizo"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5254,
+        "form" : "Foza"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5257,
+      "form" : "Maiu"
+    },
+    "translations" : [ {
+      "title" : "固有名詞",
+      "forms" : [ "【緯】マイーユ", "王家" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "帝国に三つ存在する王家のこと。皇室に属すため、構成員は全て皇族である。皇族は成人した際に宮号を賜り、親王の爵位を得る。ヴァリーゼル帝国においては男女で爵位に差がないため、内親王はなく親王である。宮号は七星系にちなんだ公爵号となる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 5259,
+        "form" : "Maiu Ranen"
+      }
+    }, {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 5260,
+        "form" : "Maiu Socan"
+      }
+    }, {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 5258,
+        "form" : "Maiu Egiran"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5258,
+      "form" : "Maiu Egiran"
+    },
+    "translations" : [ {
+      "title" : "固有名詞",
+      "forms" : [ "【緯】エギーラ家" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "帝国に三つ存在する皇家の一つ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 5257,
+        "form" : "Maiu"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5259,
+      "form" : "Maiu Ranen"
+    },
+    "translations" : [ {
+      "title" : "固有名詞",
+      "forms" : [ "【緯】ラーネ家" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "帝国に三つ存在する皇家の一つ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 5257,
+        "form" : "Maiu"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5260,
+      "form" : "Maiu Socan"
+    },
+    "translations" : [ {
+      "title" : "固有名詞",
+      "forms" : [ "【緯】ソーツァ家" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "帝国に三つ存在する皇家の一つ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 5257,
+        "form" : "Maiu"
       }
     } ]
   } ],

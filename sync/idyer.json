@@ -4365,7 +4365,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "元状態×0を志向する接頭辞。何かが行われないことや、ある状態ではないことを示す派生語を形成する。元の状態遷移とは逆方向に遷移する動詞や、逆方向にされた状態を表す記述詞を作り、あらゆる動詞に対して派生語を形成できる。"
+      "text" : "元状態×0を志向する接頭辞。何かが行われないことや、ある状態ではないことを示す派生語を形成する。元の状態遷移とは逆方向に遷移する動詞や、逆方向にされた状態を表す記述詞を作り、あらゆる動詞に対して派生語を形成できる。反意語形成の際は、元の動詞の与格で指示する要素は奪格で指示する。"
     }, {
       "title" : "語源",
       "text" : "u"
@@ -20569,7 +20569,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "元状態×-1を志向する接頭辞。ある状態を表す語に付いて、その状態を超越して更に反対側にまで押し返そうという外力が働いている状態を指す語を作る。例えば、adeigo「安定」に対して、enadeigo「反安定＝不安定」、という造語は可能ではあるが、普通はmoadeigo「不安定」を用いるか、amadeigo「安定が崩された状態」を用いる。"
+      "text" : "元状態×-1を志向する接頭辞。ある状態を表す語に付いて、その状態を超越して更に反対側にまで押し返そうという外力が働いている状態を指す語を作る。例えば、adeigo「安定」に対して、enadeigo「反安定＝不安定」、という造語は可能ではあるが、普通はmoadeigo「不安定」を用いるか、amadeigo「安定が崩された状態」を用いる。反意語形成の際は、元の動詞の与格で指示する要素は奪格で指示する。"
     }, {
       "title" : "語源",
       "text" : "r>"
@@ -20720,7 +20720,7 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "解体する", "分解する", "ばらす", "バラバラにする" ]
+      "forms" : [ "(部品を)(完成品から)解体する", "分解する", "ばらす", "バラバラにする" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -36801,13 +36801,25 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "皇帝が治める国。帝政の国であるかどうかは関係がない。比喩的に帝国主義の国をこのように呼称することがあるのは現代と変わらない。"
+      "text" : "皇帝が治める国。帝政の国であるかどうかは関係がない。比喩的に帝国主義の国をこのように呼称することがあるのは現代と変わらない。専制君主国の一形態であるため、単語としてはremiuzoneの下位語である。"
     }, {
       "title" : "語源",
       "text" : "impir'atar+sone"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 5237,
+        "form" : "remiuzone"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4690,
+        "form" : "Mahrezone"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 1956,
@@ -84969,7 +84981,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "垢", "老廃物", "表面汚れ", "【俗】堆積物", "表面析出物" ]
+      "forms" : [ "垢", "老廃物", "表面汚れ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -87324,13 +87336,34 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "Mahreの治める国のこと。"
+      "text" : "Mahreの治める国のこと。つまり、ヴァリーゼル帝国のこと。"
+    }, {
+      "title" : "文化",
+      "text" : "Mahreは「皇帝」と訳されるが、ヴァリーゼル帝国以外の皇帝はImpir'atarと訳される。Mahreは唯一の存在であり、従ってVarizerinと説明をつけずともMahrezoneだけでMahreの国たるヴァリーゼル帝国を指す。"
     }, {
       "title" : "語源",
       "text" : "Mahre+sone"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5239,
+        "form" : "Remiuzone Id'erin"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 1955,
+        "form" : "impir'atarzone"
+      }
+    }, {
+      "title" : "同意",
+      "entry" : {
+        "id" : 5240,
+        "form" : "Mahrezone tau Varizer"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 4691,
@@ -98601,6 +98634,115 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5237,
+      "form" : "remiuzone"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "専制君主国", "王国", "大公国", "君主国" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【俗】国", "大きな国" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "1. 単独主権者により統治される国のこと。国民に主権があり、その国民がトップを選定するタイプの国のことは含まず、血縁などの非民主主義手続きが元首の選出に介在するタイプの国のことを指す。\n2. 俗に大統領や総統、王などの強大な権限を持った元首が存在する国全般のこと。"
+    }, {
+      "title" : "文化",
+      "text" : "remiuは日本語の王と異なり、大統領や総統などを含む。イジェール人は大統領のことを、民主主義に基づいた独裁者であると捉えているため、元首が大統領であってもremiuzoneと呼びがちである。国の政体に寄らず代表者としての元首は存在するので、結局イジェール人にとっては殆どすべての国がremiuzoneである。"
+    }, {
+      "title" : "語源",
+      "text" : "remiu+sone"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 1955,
+        "form" : "impir'atarzone"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5238,
+      "form" : "Bardremiuzone"
+    },
+    "translations" : [ {
+      "title" : "固有名詞",
+      "forms" : [ "【緯】構成王国" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "ヴァリーゼル帝国を構成する王国のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "barde+remiuzone"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5239,
+        "form" : "Remiuzone Id'erin"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5239,
+      "form" : "Remiuzone Id'erin"
+    },
+    "translations" : [ {
+      "title" : "固有名詞",
+      "forms" : [ "【緯】イジェール王国" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "イジェール王国はヴァリーゼル帝国を構成する王国のひとつである。イジェール王国の王がヴァリーゼル帝国の皇帝を兼任するため、他の構成王国に対して優越した地位にある代償として、イジェール王国としてのアイデンティティが帝国のアイデンティティと融合して曖昧になってきていることが、一部の愛国者にとって問題となっている。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5238,
+        "form" : "Bardremiuzone"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4690,
+        "form" : "Mahrezone"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5240,
+      "form" : "Mahrezone tau Varizer"
+    },
+    "translations" : [ {
+      "title" : "固有名詞",
+      "forms" : [ "帝国たるヴァリーゼル", "ヴァリーゼル帝国" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "ヴァリーゼル帝国のより説明的な名称。"
+    }, {
+      "title" : "文化",
+      "text" : "Mahrezoneは唯一の皇帝であるMahreの治める国である。Mahrezone Varizerinと記述詞で形容して権威の範囲を限定することを避けた形での表現がこの語である。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "同意",
+      "entry" : {
+        "id" : 4690,
+        "form" : "Mahrezone"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

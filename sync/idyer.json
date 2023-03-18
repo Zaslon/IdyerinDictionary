@@ -99444,6 +99444,22 @@
         "form" : "Maiu"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 5261,
+      "form" : "omeagie"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "つけまつげ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "cal/om+eagie"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

@@ -99460,6 +99460,41 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5262,
+      "form" : "sintgegezom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "ストップウォッチ", "カウントアップ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "秒を数え上げていく装置のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "sint+kegeze"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5263,
+      "form" : "mugidvaram"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "クランクシャフト" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "mugide+varam"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

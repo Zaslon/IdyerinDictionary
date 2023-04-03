@@ -22265,6 +22265,12 @@
         "id" : 2234,
         "form" : "ko"
       }
+    }, {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 5266,
+        "form" : "rangi"
+      }
     } ]
   }, {
     "entry" : {
@@ -23350,6 +23356,12 @@
       "entry" : {
         "id" : 2234,
         "form" : "ko"
+      }
+    }, {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 5266,
+        "form" : "rangi"
       }
     } ]
   }, {
@@ -32463,6 +32475,12 @@
       "entry" : {
         "id" : 2234,
         "form" : "ko"
+      }
+    }, {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 5266,
+        "form" : "rangi"
       }
     } ]
   }, {
@@ -42222,15 +42240,24 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "キッチンナイフ", "包丁", "果物ナイフ" ]
+      "forms" : [ "調理用ナイフ", "キッチンナイフ", "包丁", "果物ナイフ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
+      "title" : "語法",
+      "text" : "調理に用いるナイフのこと。"
+    }, {
       "title" : "語源",
       "text" : "ko+korne"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 2282,
+        "form" : "korne"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 2252,
@@ -42763,7 +42790,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "(片刃の)剣", "刀", "(用途によらず)ナイフ", "包丁" ]
+      "forms" : [ "(片刃の)剣", "刀", "(用途によらず)ナイフ" ]
     }, {
       "title" : "名詞",
       "forms" : [ "【俗】陰茎", "チンコ", "男根" ]
@@ -42771,7 +42798,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "片刃の剣という意味が転じて、食事用のナイフも指す。複合語を作る際、刃のある物に対してはkorneを用いるが、刃が無い刺突目的の物に対してはesparを用いることが多い。"
+      "text" : "1. 片刃の剣のこと。転じて、食事用のナイフも指す。この場合の食事用ナイフとは、喫食時に用いる切断具のことを指し、包丁は含まない。複合語を作る際、刃のある物に対してはkorneを用いるが、刃が無い刺突目的の物に対してはesparを用いることが多い。"
     }, {
       "title" : "文化",
       "text" : "宇宙船内では不用意に銃を使うと穴が開いたり跳弾で大惨事になりかねない。そのため、刃物は一般的な護身具だった。槍は持ち歩くには長すぎるので、ナイフは一般市民にとって最も身近な武器であった。そのため、盾と合わせて防衛のシンボルに使われることがある。また、アルザフィーレ教では扇子と合わせて祭事に使われる重要な道具でもある。"
@@ -42800,6 +42827,18 @@
       "entry" : {
         "id" : 2234,
         "form" : "ko"
+      }
+    }, {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 5266,
+        "form" : "rangi"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 2251,
+        "form" : "kogorne"
       }
     } ]
   }, {
@@ -99495,6 +99534,133 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5264,
+      "form" : "sihada"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "礼砲" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "空砲" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "1. 儀礼として撃つ、弾丸のない射撃のこと。\n2. 1から転じて、弾丸のない射撃一般のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "r>i.a"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5265,
+      "form" : "renbada"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "食器" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "食事に用いる道具の内、手に持って使用しないもののこと。上や中に食事を投入して使う形の道具のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "r>i.s"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5266,
+        "form" : "rangi"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5266,
+      "form" : "rangi"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "カトラリー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "食事に用いる道具の内、手に持って使用する物のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "r>i.s"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5265,
+        "form" : "renbada"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5267,
+        "form" : "rangiri"
+      }
+    }, {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 1729,
+        "form" : "gez"
+      }
+    }, {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 1181,
+        "form" : "enuru"
+      }
+    }, {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 1235,
+        "form" : "esuru"
+      }
+    }, {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 2282,
+        "form" : "korne"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5267,
+      "form" : "rangiri"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "(カテゴリ", "総称としての)カトラリー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "個別のカトラリーのことではなく、カトラリーと言うカテゴリを指す語。"
+    }, {
+      "title" : "語源",
+      "text" : "rangi+ri"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5266,
+        "form" : "rangi"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

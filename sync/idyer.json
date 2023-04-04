@@ -81233,7 +81233,7 @@
       "text" : "内容が箇条書きで記されたもの。一次元的な表。"
     }, {
       "title" : "語源",
-      "text" : "*vam+*srun|統治を維持するもの"
+      "text" : "*vam+*srun"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -81241,6 +81241,12 @@
       "entry" : {
         "id" : 2394,
         "form" : "magu"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5268,
+        "form" : "mina"
       }
     } ]
   }, {
@@ -99659,6 +99665,28 @@
       "entry" : {
         "id" : 5266,
         "form" : "rangi"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5268,
+      "form" : "mina"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "カタログ", "一覧表", "目録" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "a"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4354,
+        "form" : "vanzruno"
       }
     } ]
   } ],

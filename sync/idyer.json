@@ -35747,7 +35747,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "進入", "侵入" ]
+      "forms" : [ "入れること", "進入", "侵入" ]
     }, {
       "title" : "名詞",
       "forms" : [ "【電算】エンターキー", "Enterキー" ]
@@ -35761,7 +35761,13 @@
       "text" : "idoe>"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4200,
+        "form" : "tuzande"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 1899,
@@ -78385,7 +78391,13 @@
       "text" : "r"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 1898,
+        "form" : "ido"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 4201,
@@ -99689,6 +99701,25 @@
         "form" : "vanzruno"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 5269,
+      "form" : "kas'imena"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "侵入者" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "望まざる訪問者のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "r>i.k"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

@@ -99755,6 +99755,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5272,
+      "form" : "vardiir"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "轍", "わだち" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "車輪が残す軌跡のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "var+tiir"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

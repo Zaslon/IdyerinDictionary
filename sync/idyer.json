@@ -4094,11 +4094,14 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "(侵入を防ぐための)壁", "防護壁", "柵", "フェンス", "防壁" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(圧力容器の)壁", "側壁", "サイドウォール" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "侵入を防ぐために設置された壁。構造部材としての壁はsok。"
+      "text" : "1. 侵入を防ぐために設置された壁。構造部材としての壁はsok。"
     }, {
       "title" : "語源",
       "text" : "akser+sok>"
@@ -99771,6 +99774,22 @@
     }, {
       "title" : "語源",
       "text" : "var+tiir"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5273,
+      "form" : "santadiragom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "泥除け", "フェンダー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "santa+tirage"
     } ],
     "variations" : [ ],
     "relations" : [ ]

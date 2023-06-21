@@ -43722,7 +43722,7 @@
       "text" : "軍隊における一般的挨拶。敬礼と共に使う場合が多い。軍隊では話し出しや話し終わりにも使える。その意味では、「以上！」や「よろしく」の意味も含んでいると言える。"
     }, {
       "title" : "語源",
-      "text" : "r:|安全に気を付けて"
+      "text" : "r:"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -92728,7 +92728,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4956,
+        "form" : "tedig tein dingin"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 4956,
@@ -92746,6 +92752,12 @@
       "entry" : {
         "id" : 4954,
         "form" : "dingnigeresk"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4955,
+        "form" : "tei dingin"
       }
     } ]
   }, {

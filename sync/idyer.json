@@ -81287,15 +81287,18 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "車輪", "(ホイールを含む個別の)タイヤ", "(合成語の一部として)車" ]
+      "forms" : [ "輪", "リング", "輪っか" ]
     }, {
       "title" : "名詞",
-      "forms" : [ "輪", "リング", "輪っか" ]
+      "forms" : [ "車輪", "(ホイールを含む個別の)タイヤ" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(合成語の一部として)車" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "車軸を含まず、個別の円形部分を指す。形としては、中空のドーナツ状の形状を連想する。"
+      "text" : "1. 中空のドーナツ状の物体のこと。\n2. 車輪の内、車軸を含まない円形部分のこと。\n3. 車両そのもののこと。"
     }, {
       "title" : "語源",
       "text" : "u:"
@@ -99803,6 +99806,38 @@
       "title" : "語源",
       "text" : "santa+tirage"
     } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5274,
+      "form" : "varencosk"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "ホイール" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "車輪の中心部に存在する硬質の部分のこと。原義はスポークホイールだが、現在はホイール全般を指す。"
+    }, {
+      "title" : "語源",
+      "text" : "var+encosk"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5275,
+      "form" : "var encoskin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "スポークホイール" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   } ],

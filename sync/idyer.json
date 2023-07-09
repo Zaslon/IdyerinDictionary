@@ -99840,6 +99840,25 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5276,
+      "form" : "sadnati"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "発売日" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "販売を開始する日のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "sade+nati"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

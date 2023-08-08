@@ -37125,7 +37125,13 @@
       "text" : "a:"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5277,
+        "form" : "ta/ira"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 1971,
@@ -73038,7 +73044,13 @@
       "text" : "\"Ref ta mirvar'aet.\"「私も笑った。」\n\"S'af ta ref mirvar'aret.\"「彼と私は笑った(接続詞)。」\n\"S'af ta ref ta mirvar'aet.\"「彼も私も笑った(1つ目が接続詞、2つ目が助詞)。」"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5277,
+        "form" : "ta/ira"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 3902,
@@ -99859,6 +99871,31 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5277,
+      "form" : "ta/ira"
+    },
+    "translations" : [ {
+      "title" : "接続詞",
+      "forms" : [ "and/or", "両方またはいずれかの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 3901,
+        "form" : "ta"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 1970,
+        "form" : "ira"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

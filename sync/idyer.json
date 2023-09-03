@@ -132,7 +132,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "動詞に後置する。「HをKする（その結果Sを生じる）」という項の取り方をする動詞において、Sに相当する項は存在しない場合が多い。この時のSを表す語を作成する際に用いる。"
+      "text" : "動詞の語幹に後置する。「HをKする（その結果Sを生じる）」という項の取り方をする動詞において、Sに相当する項は存在しない場合が多い。この時のSを表す語を作成する際に用いる。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -140,6 +140,12 @@
       "entry" : {
         "id" : 32,
         "form" : "-ven"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 5284,
+        "form" : "-oven"
       }
     } ]
   }, {
@@ -44762,7 +44768,7 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "(人や機械や動物を)来させる", "寄せる", "戻す", "返す", "帰す" ]
+      "forms" : [ "(人や機械や動物を)来させる", "寄せる", "戻す", "返す", "帰す", "帰らせる" ]
     }, {
       "title" : "動詞",
       "forms" : [ "(金額を)払い戻す", "リファンドする" ]
@@ -70401,7 +70407,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "得点するための門のこと。したがって、行為としてのシュートやゴール、比喩的にと目標を指す語としては用いることができない。"
+      "text" : "得点するための門のこと。したがって、ゴールを決めるという行為や、比喩的なゴールとしての目標を指す語としては用いることができない。"
     }, {
       "title" : "語源",
       "text" : "skribra+dur"
@@ -99896,6 +99902,158 @@
         "form" : "ira"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 5278,
+      "form" : "irdave"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "目的地", "ゴール", "目標地点", "到達点" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "何かが移動する場合の、移動終了地点のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "r:"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5279,
+        "form" : "tezave"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5279,
+      "form" : "tezave"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "出発点", "出発地点" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "何かが移動する場合の、その出発の場所のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "r:"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5278,
+        "form" : "irdave"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5280,
+      "form" : "asuae"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "(人や物事を)演出する", "飾る", "鑑賞に足る状態にする" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "対格を飾り立ててパフォーマンスとすること。"
+    }, {
+      "title" : "語源",
+      "text" : "r:"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5281,
+      "form" : "asua"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "演出", "パフォーマンス", "飾り立てること" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5282,
+      "form" : "asuan"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "演出された", "飾られた" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5283,
+      "form" : "asuaven"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "パフォーマンス", "演出" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "演出の結果生まれるもののこと。飾り立てる行為ではなく、飾り立てた結果生まれた成果物を指す。"
+    }, {
+      "title" : "語源",
+      "text" : "asuae+oven"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5284,
+      "form" : "-oven"
+    },
+    "translations" : [ {
+      "title" : "接尾辞",
+      "forms" : [ "=-(o)ven" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 5,
+        "form" : "-(o)ven"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5285,
+      "form" : "srebaasuaven"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "コンサート", "ライブ", "音楽祭", "音楽会", "演奏会" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "楽器演奏を伴うパフォーマンスのこと。クラシックの演奏会と、ポップカルチャーにおけるライブの区別はない。"
+    }, {
+      "title" : "語源",
+      "text" : "srebae+asuaven"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

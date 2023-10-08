@@ -100066,6 +100066,70 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5286,
+      "form" : "nirmadurgisdaresk"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "鎮魂歌", "レクイエム" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "nir+madure+kisdaresk"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5287,
+      "form" : "guvancoskarin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "交換可能な", "可換な", "入れ替え可能な" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "guvancoske+arin"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5288,
+      "form" : "kaizuf guvancoskarin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【言】並列節" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "等位接続詞で接続された節のこと。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5289,
+      "form" : "fuzes'in"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "記述詞に関する", "修飾する", "修飾の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "修飾を行う主体であるという性質を指す。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

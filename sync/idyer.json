@@ -84233,16 +84233,19 @@
       "form" : "ze"
     },
     "translations" : [ {
-      "title" : "助詞",
-      "forms" : [ "【前置】～ということ", "～すること", "～であるということ" ]
+      "title" : "名詞",
+      "forms" : [ "～ということ", "～すること", "～であるということ" ]
+    }, {
+      "title" : "接続詞",
+      "forms" : [ "(同格)～ということ", "～すること", "～であるということ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "動詞、記述詞、名詞および文に前置することで、節を作る。省略することも出来る。"
+      "text" : "動詞、記述詞、名詞および文に前置することで、節を作る。省略することも出来る。名詞のzeは、修飾節を伴った名詞節の形成と、記述詞の性質の抽出を行う。接続詞のzeは先行詞と後続の修飾節を同格で接続し、格変化によって先行詞の修飾節内での役割を明示する。"
     }, {
       "title" : "用例",
-      "text" : "\"S'af dirin (dore).\"「それは赤い。」\n\"Ref ze s'af dirin dore u sedoet.\"「私はそれが赤いことを知った。」\n\"Ref sedoet, ze s'af dirin dore u.\"「私は知った、それが赤いことを。(倒置)」"
+      "text" : "\"S'af dirin (dore).\"「それは赤い。」\n\"Ref ze s'af dirin dore n u sedoet.\"「私はそれが赤いことを知った。」\n\"Ref sedoet, ze s'af dirin dore n u.\"「私は知った、それが赤いことを。(倒置)」"
     }, {
       "title" : "語源",
       "text" : "u:"
@@ -96340,13 +96343,31 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "複数の文で構成された文のこと。等位接続詞で接続されたもの、従属接続詞で接続されたものの2つを区別せずに指す。節は内部に文を含むが、節全体が修飾語として解釈されるため、重複文には含めない。"
+      "text" : "複数の節で構成された文のこと。等位接続詞で接続されたもの、従属接続詞で接続されたものの2つを区別せずに指す。"
     }, {
       "title" : "語源",
       "text" : "ge+sabada"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5288,
+        "form" : "veeszabada guvancoskarin"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5290,
+        "form" : "miaveeszabada"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5291,
+        "form" : "sebveeszabada"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 5118,
@@ -100101,7 +100122,7 @@
   }, {
     "entry" : {
       "id" : 5288,
-      "form" : "kaizuf guvancoskarin"
+      "form" : "veeszabada guvancoskarin"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -100110,10 +100131,16 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "等位接続詞で接続された節のこと。"
+      "text" : "重文の構成要素で、等位接続詞で接続された節のこと。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5117,
+        "form" : "gezabada"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 5289,
@@ -100127,6 +100154,66 @@
     "contents" : [ {
       "title" : "語法",
       "text" : "修飾を行う主体であるという性質を指す。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5290,
+      "form" : "miaveeszabada"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【言】主節" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "mia+veeszabada"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5117,
+        "form" : "gezabada"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5291,
+      "form" : "sebveeszabada"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【言】従属節" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "seb+veeszabada"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連",
+      "entry" : {
+        "id" : 5117,
+        "form" : "gezabada"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5292,
+      "form" : "ze-veeszabada"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【緯】【言】ze節" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "zeを用いて生成された節のこと。"
     } ],
     "variations" : [ ],
     "relations" : [ ]

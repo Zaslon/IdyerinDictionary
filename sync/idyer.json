@@ -60253,7 +60253,10 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "ある領地の単独主権者を指す。その体制が盤石か否かは関係がないが、寡占政治のトップには使わない。あくまで独裁的体制のトップである(実態がどうあれ)。また、性別、世襲かどうかを問わないため、日本語の「王」と単純にはリンクできない。"
+      "text" : "ある領地の単独主権者を指す。その体制が盤石か否かは関係がないが、寡占政治のトップには使わない。あくまで独裁的体制のトップを指す。また、性別、世襲かどうかを問わないため、日本語の「王」と単純にはリンクできない。"
+    }, {
+      "title" : "文化",
+      "text" : "日本語において独裁制という言葉には悪印象があるが、権力が集中して独占されていることのみを独裁の要件とするなら、大統領や知事も十分に独裁的である。実際、イジェール人にとっては大統領や知事はremiuに値するほど独裁的だと認識されている。"
     }, {
       "title" : "語源",
       "text" : "r:"
@@ -60264,6 +60267,12 @@
       "entry" : {
         "id" : 3217,
         "form" : "remiunoka"
+      }
+    }, {
+      "title" : "関連",
+      "entry" : {
+        "id" : 4163,
+        "form" : "tucaci"
       }
     } ]
   }, {
@@ -96142,6 +96151,9 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
+      "title" : "語法",
+      "text" : "微細な物体の詳細を拡大するための装置のこと。"
+    }, {
       "title" : "語源",
       "text" : "bemarin+s'enatbeib"
     } ],
@@ -96164,6 +96176,9 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
+      "title" : "語法",
+      "text" : "遠くを見るための装置のこと。従って、双眼鏡なども含む。"
+    }, {
       "title" : "語源",
       "text" : "fin+s'enatbeib"
     } ],
@@ -96173,6 +96188,18 @@
       "entry" : {
         "id" : 5106,
         "form" : "bemarz'enatbeib"
+      }
+    }, {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 5294,
+        "form" : "maz'enatbeib"
+      }
+    }, {
+      "title" : "下位語",
+      "entry" : {
+        "id" : 5295,
+        "form" : "baz'enatbeib"
       }
     } ]
   }, {
@@ -100258,6 +100285,56 @@
       "entry" : {
         "id" : 4629,
         "form" : "skiin'uki"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5294,
+      "form" : "maz'enatbeib"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "単眼鏡" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "遠くを見るための装置のうち、単眼で見るもののこと。"
+    }, {
+      "title" : "語源",
+      "text" : "ma+s'enatbeib"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 5107,
+        "form" : "fiz'enatbeib"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5295,
+      "form" : "baz'enatbeib"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "双眼鏡" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "遠くを見るための装置の内、両方の眼で見るもののこと。"
+    }, {
+      "title" : "語源",
+      "text" : "ba+s'enatbeib"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "上位語",
+      "entry" : {
+        "id" : 5107,
+        "form" : "fiz'enatbeib"
       }
     } ]
   } ],

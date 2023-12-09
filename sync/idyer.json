@@ -13183,7 +13183,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "運ぶ者", "運搬車", "カーゴ", "搬送車", "輸送機", "輸送船", "貨物列車" ]
+      "forms" : [ "運ぶ者", "運搬車", "カーゴ", "搬送車", "輸送機", "輸送船", "貨物列車", "トレーラ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -31465,7 +31465,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "(人間を含む生物用の)甲冑", "鎧", "アーマー", "プロテクター", "殻", "甲羅" ]
+      "forms" : [ "(人間を含む生物用の)甲冑", "鎧", "アーマー", "プロテクター", "殻", "甲羅", "追加装甲" ]
     }, {
       "title" : "名詞",
       "forms" : [ "【電算】シェル" ]
@@ -31473,7 +31473,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "1. 生物のための装甲のこと。車両や建物に対する装甲はaume。\n2. カーネルとのやり取りを行うためのプログラムのこと。"
+      "text" : "1. 本来は生物のための装甲のこと。車両や建物に対する装甲はaumeだが、車両用であっても外付けの追加装甲にはgaskuを用いる場合がある。\n2. カーネルとのやり取りを行うためのプログラムのこと。"
     }, {
       "title" : "語源",
       "text" : "r:"
@@ -77789,7 +77789,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "ある目的のために編成される集団のこと。元々は軍事用語だが、転じて民間でも「グループ」程度の意味合いで使用される。"
+      "text" : "1. ある目的のために臨時に編成される集団のこと。\n2. 転じて民間でも「グループ」程度の意味合いで使用される。"
     }, {
       "title" : "文化",
       "text" : "王国においては、軍事用語が民間転用される傾向が強い。"
@@ -95535,9 +95535,15 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "チェーンメイル", "鎖帷子" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【軍】スラットアーマー", "ケージ装甲" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
+      "title" : "語法",
+      "text" : "2. 成形炸薬弾対策などを目的として、主に金属製の網を車体に外付けすることで防御力向上を目指す装置のこと。"
+    }, {
       "title" : "語源",
       "text" : "barki+gasku"
     } ],
@@ -100337,6 +100343,371 @@
         "form" : "fiz'enatbeib"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 5296,
+      "form" : "mauerten"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "グローバルな", "グローバルに", "全世界的な", "全世界的に", "世界中で" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "man+uerte>"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5300,
+        "form" : "neraven"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5297,
+      "form" : "mehe"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "(場所等を)限界とする", "限界点とする" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "対格を限界として定める、限界として認める、限界として認識すること。"
+    }, {
+      "title" : "語源",
+      "text" : "meh>"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5298,
+      "form" : "nerae"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "(通路や幅を)狭める", "縮める", "小さくする" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "(議論の対象や枠組みから)(対象を)絞る", "限定する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "1. 対格が一度に通過できる容量を制限すること。\n2. 何らかの仕組みの対象や、注目の対象を特定の範囲に限定すること。絞る元となる対象を奪格に、絞った結果の特定の対象を対格に取る。"
+    }, {
+      "title" : "語源",
+      "text" : "a:>i.t:"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5299,
+      "form" : "neran"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "(通路等が)狭まった", "狭くされた", "縮小された" ]
+    }, {
+      "title" : "記述詞",
+      "forms" : [ "(議論が)対象を限定された", "特定の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 5298,
+        "form" : "nerae"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5300,
+      "form" : "neraven"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "局所的な", "ローカルな" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "特定の地域や対象に限定された状態であること。"
+    }, {
+      "title" : "語源",
+      "text" : "nerae+ve>"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5296,
+        "form" : "mauerten"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5301,
+      "form" : "skianserin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "プリセットの", "初期設定の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "ski+ansere>"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5302,
+      "form" : "remaz'i"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "故障" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "特にハードウェアが、何らかの損傷により本来の機能を発揮できない状態へ陥っていること。"
+    }, {
+      "title" : "語源",
+      "text" : "a:>i.t:"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5303,
+      "form" : "remaz'in"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "故障した" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5304,
+      "form" : "badera"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "損傷", "ダメージ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "r:>i.a:"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5305,
+      "form" : "dungie"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "長くする", "延ばす", "伸ばす", "延長する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "対象を長い状態にすること。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5306,
+      "form" : "sakzom butaengukiretigin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "ウォータージェット推進機", "ウォータージェット" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5307,
+      "form" : "tufae tekkan"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【軍】タスクフォース" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5308,
+      "form" : "dua"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【軍】組", "チーム" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "軍隊編制の最小単位として扱われ、英語のTeamの訳語として充てられる。"
+    }, {
+      "title" : "文化",
+      "text" : "帝国軍はこの編制単位を常設したことは無い。"
+    }, {
+      "title" : "語源",
+      "text" : "r:>i.a:"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5309,
+      "form" : "sado"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【軍】(陸軍の)班", "分隊", "スクワッド" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【軍】(空軍の)分隊", "班", "エレメント", "セクション" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "英語のSquadに相当する編制単位のこと。イジェール語においては、小隊を分割したものというニュアンスが強い。"
+    }, {
+      "title" : "文化",
+      "text" : "帝国軍においては、分隊長によって指揮される公式の最小編制単位である。これ以下の編成はduaと呼ばれる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5310,
+      "form" : "faricig"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【軍】(陸軍の)小隊", "プラトーン" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【軍】(空軍の)フライト" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "複数の分隊からなる、軍隊の編制単位のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "a:>i.a:"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5311,
+      "form" : "sagfia"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【軍】(陸軍の)中隊" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【軍】(空軍の)スコードロン" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "a:>i.a:"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5312,
+      "form" : "uterian"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【軍】大隊", "バタリオン" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "a:>i.a:"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5313,
+      "form" : "duraren"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【軍】連隊" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "a:>i.a:"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5314,
+      "form" : "barin'ida"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【軍】旅団", "ブリゲード", "ブリゲイド" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "a:>i.k:"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5315,
+      "form" : "bahorun"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【軍】師団" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "a:>i.a:"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

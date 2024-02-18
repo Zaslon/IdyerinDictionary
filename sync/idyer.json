@@ -16896,6 +16896,12 @@
         "id" : 4279,
         "form" : "ur'an"
       }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5317,
+        "form" : "uan"
+      }
     } ]
   }, {
     "entry" : {
@@ -79907,6 +79913,12 @@
         "id" : 893,
         "form" : "diman"
       }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 5317,
+        "form" : "uan"
+      }
     } ]
   }, {
     "entry" : {
@@ -81621,6 +81633,9 @@
     "contents" : [ {
       "title" : "語源",
       "text" : "a:"
+    }, {
+      "title" : "用例",
+      "text" : "\"Ref hivepe sien tein, ze vasief sien are ur'an du.\"「希望がないという理由だけで諦めたくない。」"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -100705,6 +100720,110 @@
     "contents" : [ {
       "title" : "語源",
       "text" : "a:>i.a:"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5316,
+      "form" : "odekin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "時には", "時々", "時折" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "o+teki>"
+    }, {
+      "title" : "用例",
+      "text" : "\"Odekin, amdiref car’ain muren.\"「時には黙っていた方が良いこともある。」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5317,
+      "form" : "uan"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "ですら", "でさえ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "否定を示す語句と共に用い、修飾対象に届かないというニュアンスを付与する。この語単体では否定文を形成しないことに注意が必要。"
+    }, {
+      "title" : "語源",
+      "text" : "\"Ref koe uan sien sorin\"「私には食べることすらできない。」\n\"Venu sampan uan u sien uikee.\"「簡単なことすらわからない。」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 4279,
+        "form" : "ur'an"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 893,
+        "form" : "diman"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5318,
+      "form" : "rep"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "【音】ラップ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "en:"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5319,
+      "form" : "guguhoven"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "成果", "成功の結果", "成果物" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "達成した結果の成果物のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "guguh+oven"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5320,
+      "form" : "deanguguhoven"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "ノルマ", "基準成果量" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "ある一定の期間や評価方法において、基準とされる成果の量のこと。"
+    }, {
+      "title" : "語源",
+      "text" : "deanin+guguhoven"
     } ],
     "variations" : [ ],
     "relations" : [ ]

@@ -28564,9 +28564,18 @@
       "forms" : [ "レシプロエンジン", "往復ピストンエンジン" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "往復するピストンによって動力を得るタイプの原動機のこと。"
+    } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5326,
+        "form" : "feveom fanfan"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 1516,
@@ -52312,6 +52321,9 @@
     }, {
       "title" : "名詞",
       "forms" : [ "【天】公転" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【機械】(ピストンなどの)ストローク" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -60818,9 +60830,15 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "電波塔", "放送塔", "配信塔" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "アンテナ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
+      "title" : "語法",
+      "text" : "1. 電波の送受信を行う塔のこと。\n2. 電波の送受信を行う素子のこと。"
+    }, {
       "title" : "語源",
       "text" : "riida+rog"
     } ],
@@ -81566,7 +81584,10 @@
       "forms" : [ "駐車場", "パーキング" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "var+fode+ave"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -100827,6 +100848,102 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5321,
+      "form" : "fenzenvansas riidarogin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "アンテナ素子", "空中線" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5322,
+      "form" : "envasrone"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "(占領されたものを)奪還する", "奪回する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "en+fasrone"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5323,
+      "form" : "envasron"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "奪還", "奪回" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5324,
+      "form" : "envasronin"
+    },
+    "translations" : [ {
+      "title" : "記述詞",
+      "forms" : [ "奪還された", "奪回された" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5325,
+      "form" : "noskanseresk"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "模型", "モデル" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "実物の形状を再現して形作られたもののこと。"
+    }, {
+      "title" : "語源",
+      "text" : "noske+ansere"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5326,
+      "form" : "feveom fanfan"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "燃料式原動機", "レシプロエンジン" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "燃料によって動力を得るエンジンのこと。feveom fasdeninよりも範囲が広く、こちらはガスタービンエンジンなどを含む点が異なる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 1515,
+        "form" : "feveom fasdenin"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "eaoiuhkstcnrmpfgzdbv",

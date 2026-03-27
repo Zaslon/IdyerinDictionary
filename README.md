@@ -5,6 +5,7 @@
 このリポジトリはイジェール語のOTM-jsonファイルを管理するためのものです。
 
 一体となって管理するべきものなので、[凡例](https://github.com/Zaslon/IdyerinDictionary/blob/9e774e223ae5f384beb65717fd94fff9d68ebd5a/%E5%87%A1%E4%BE%8B.md)も含めています。
+20260327から、jsonの中に凡例も含めるよう変更。
 
 ## 参照
 [文法書](https://zaslon.info/idyer/)

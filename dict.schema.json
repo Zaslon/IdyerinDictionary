@@ -1,0 +1,126 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Dictionary Schema",
+  "type": "object",
+  "properties": {
+    "words": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "entry": {
+            "type": "object",
+            "properties": {
+              "id": { "type": "integer" },
+              "form": { "type": "string" }
+            },
+            "required": ["id", "form"]
+          },
+          "translations": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "title": { "type": "string" },
+                "forms": {
+                  "type": "array",
+                  "items": { "type": "string" }
+                }
+              },
+              "required": ["title", "forms"]
+            }
+          },
+          "tags": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "contents": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "title": { "type": "string" },
+                "text": { "type": "string" }
+              },
+              "required": ["title", "text"]
+            }
+          },
+          "variations": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "title": { "type": "string" },
+                "form": { "type": "string" }
+              },
+              "required": ["title", "form"]
+            }
+          },
+          "relations": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "title": { "type": "string" },
+                "entry": {
+                  "type": "object",
+                  "properties": {
+                    "id": { "type": "integer" },
+                    "form": { "type": "string" }
+                  },
+                  "required": ["id", "form"]
+                }
+              },
+              "required": ["title", "entry"]
+            }
+          }
+        },
+        "required": ["entry"]
+      }
+    },
+
+    "examples": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": { "type": "number" },
+          "sentence": { "type": "string" },
+          "translation": { "type": "string" },
+          "supplement": { "type": "string" },
+          "tags": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "words": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": { "type": "number" }
+              },
+              "required": ["id"]
+            }
+          },
+          "offer": {
+            "type": "object",
+            "properties": {
+              "catalog": { "type": "string" },
+              "number": { "type": "number" }
+            },
+            "required": ["catalog", "number"]
+          }
+        },
+        "required": ["id", "sentence", "translation", "tags", "words", "offer"]
+      }
+    },
+
+    "legend": { "type": "string" },
+
+    "version": {
+      "type": "integer",
+      "enum": [1, 2]
+    }
+  },
+  "required": ["words"]
+}

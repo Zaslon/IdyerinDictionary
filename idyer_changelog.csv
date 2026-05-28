@@ -89,3 +89,6 @@ timestamp,type,form,details
 2026-05-27,CHANGE,iheme,
 2026-05-27,CHANGE,ihemin,
 2026-05-27,ADD,sedidan,
+2026-05-28,CHANGE,nasetdura,
+2026-05-28,ADD,-dura,
+2026-05-28,ADD,sindura,

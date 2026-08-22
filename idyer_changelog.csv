@@ -210,3 +210,8 @@ timestamp,type,form,details
 2026-08-21,ADD,verido,
 2026-08-21,ADD,verido,
 2026-08-21,DELETE,verido,
+2026-08-22,ADD,barene,
+2026-08-22,ADD,barene,
+2026-08-22,CHANGE,barenin,旧: barene
+2026-08-22,ADD,hirgeve,
+2026-08-22,ADD,hirgevin,

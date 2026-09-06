@@ -7141,6 +7141,33 @@
     },
     {
       "entry": {
+        "id": 5883,
+        "form": "ernas"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "安心"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [
+        {
+          "title": "語法",
+          "text": "脅威を感じていない、安全な状態に守られた心の状態のこと。"
+        },
+        {
+          "title": "語源",
+          "text": "er+nesnas>"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
         "id": 1210,
         "form": "erraara"
       },
@@ -21605,6 +21632,93 @@
     },
     {
       "entry": {
+        "id": 5881,
+        "form": "amvanzem"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "クビ",
+            "懲戒免職",
+            "罷免",
+            "解任"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 5880,
+        "form": "amvanzeme"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "(人を)(組織から)解雇する",
+            "クビにする",
+            "免職する",
+            "罷免する",
+            "解任する"
+          ]
+        },
+        {
+          "title": "動詞",
+          "forms": [
+            "(人を)(試合や場所から)退場させる",
+            "追い出す",
+            "叩き出す",
+            "蹴り出す",
+            "キックする"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [
+        {
+          "title": "語法",
+          "text": "1. 本人にとって不名誉、あるいは意向に反して組織から追い出すこと。\r\n2. 反則等のペナルティによって、その場から追い出すこと。"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        {
+          "title": "対義語",
+          "entry": {
+            "id": 1394,
+            "form": "fanzeme"
+          }
+        }
+      ]
+    },
+    {
+      "entry": {
+        "id": 5882,
+        "form": "amvanzemin"
+      },
+      "translations": [
+        {
+          "title": "記述詞",
+          "forms": [
+            "クビにされた",
+            "解雇された",
+            "罷免された",
+            "解任された"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
         "id": 5444,
         "form": "amvarenave"
       },
@@ -24694,6 +24808,30 @@
     },
     {
       "entry": {
+        "id": 5884,
+        "form": "abskamuzom"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "株主",
+            "株式保有者"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [
+        {
+          "title": "語源",
+          "text": "abskaesk+muze"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
         "id": 60,
         "form": "abskadizet"
       },
@@ -24819,6 +24957,33 @@
     },
     {
       "entry": {
+        "id": 5878,
+        "form": "abzem"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "退職",
+            "離職",
+            "退社",
+            "卒業",
+            "退団"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [
+        {
+          "title": "語法",
+          "text": "本人の希望に従って、集団から抜けること。"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
         "id": 65,
         "form": "abzeme"
       },
@@ -24864,6 +25029,27 @@
           }
         }
       ]
+    },
+    {
+      "entry": {
+        "id": 5879,
+        "form": "abzemin"
+      },
+      "translations": [
+        {
+          "title": "記述詞",
+          "forms": [
+            "(本人の希望で)退職した",
+            "卒業した",
+            "退団した",
+            "脱退した"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
     },
     {
       "entry": {
@@ -48560,6 +48746,43 @@
     },
     {
       "entry": {
+        "id": 5876,
+        "form": "koveren"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "(食事の)メニュー",
+            "献立",
+            "食事計画"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [
+        {
+          "title": "語法",
+          "text": "今後の食事の計画のこと。"
+        },
+        {
+          "title": "語源",
+          "text": "ko+feren"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        {
+          "title": "関連",
+          "entry": {
+            "id": 5877,
+            "form": "kovanzruno"
+          }
+        }
+      ]
+    },
+    {
+      "entry": {
         "id": 2293,
         "form": "kova"
       },
@@ -48623,6 +48846,41 @@
       ],
       "variations": [],
       "relations": []
+    },
+    {
+      "entry": {
+        "id": 5877,
+        "form": "kovanzruno"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "(食事の)メニュー"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [
+        {
+          "title": "語法",
+          "text": "レストラン等における、提供可能な食事の一覧表のこと。"
+        },
+        {
+          "title": "語源",
+          "text": "ko+vanzruno"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        {
+          "title": "関連",
+          "entry": {
+            "id": 5876,
+            "form": "koveren"
+          }
+        }
+      ]
     },
     {
       "entry": {
@@ -128132,6 +128390,13 @@
             "id": 65,
             "form": "abzeme"
           }
+        },
+        {
+          "title": "対義語",
+          "entry": {
+            "id": 5880,
+            "form": "amvanzeme"
+          }
         }
       ]
     },
@@ -168849,12 +169114,24 @@
       ],
       "contents": [
         {
+          "title": "語法",
+          "text": "先行する語が所有するものを修飾する記述詞を形成する。muzinとは所有、被所有の関係が逆の語。"
+        },
+        {
           "title": "語源",
           "text": "muze"
         }
       ],
       "variations": [],
-      "relations": []
+      "relations": [
+        {
+          "title": "対義語",
+          "entry": {
+            "id": 4697,
+            "form": "-muzin"
+          }
+        }
+      ]
     },
     {
       "entry": {
@@ -168863,6 +169140,13 @@
       },
       "tags": [],
       "translations": [
+        {
+          "title": "接尾辞",
+          "forms": [
+            "～を持つ",
+            "～を所有する"
+          ]
+        },
         {
           "title": "接尾辞",
           "forms": [
@@ -168881,7 +169165,7 @@
       "contents": [
         {
           "title": "語法",
-          "text": "積極的にある性質を持った状態とさせられていること。この語が無くても記述詞は単独でほぼ同じ意味を指すため、わざわざこの語を後置する意義として、2つ目の意味が強調される。"
+          "text": "1. 修飾対象が、この語に前置されるものの所有者であるような性質を持つこと。\r\n2. 積極的にある性質を持った状態とさせられていること。\r\n3. 積極的にある性質を持った状態にするような、人工的な加工が施されていること。"
         },
         {
           "title": "語源",
@@ -168889,7 +169173,15 @@
         }
       ],
       "variations": [],
-      "relations": []
+      "relations": [
+        {
+          "title": "対義語",
+          "entry": {
+            "id": 21,
+            "form": "-muzomin"
+          }
+        }
+      ]
     },
     {
       "entry": {

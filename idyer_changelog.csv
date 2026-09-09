@@ -1,4 +1,4 @@
-﻿timestamp,type,form,details
+timestamp,type,form,details
 2026-01-05,ADD,ueg tinvamin,
 2026-01-07,ADD,utrikeskis fanvomruzemesk,
 2026-01-07,ADD,UsFR,
@@ -269,3 +269,8 @@
 2026-09-06,CHANGE,-muzin,
 2026-09-06,CHANGE,-muzomin,
 2026-09-06,CHANGE,-muzin,
+2026-09-09,ADD,marvoze,
+2026-09-09,ADD,marvozin,
+2026-09-09,ADD,marvoz,
+2026-09-09,ADD,ski,
+2026-09-09,CHANGE,itt,

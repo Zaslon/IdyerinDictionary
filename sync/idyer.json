@@ -52724,6 +52724,60 @@
     },
     {
       "entry": {
+        "id": 5896,
+        "form": "kuzaesk"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "保管対象",
+            "保存対象",
+            "維持対象"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [
+        {
+          "title": "語法",
+          "text": "保管や維持の対象となる対象物のこと。"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        {
+          "title": "類義語",
+          "entry": {
+            "id": 5895,
+            "form": "kuzaven"
+          }
+        }
+      ]
+    },
+    {
+      "entry": {
+        "id": 5894,
+        "form": "kuzan"
+      },
+      "translations": [
+        {
+          "title": "記述詞",
+          "forms": [
+            "メンテナンスされた",
+            "維持された",
+            "保存された",
+            "保管品の"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
         "id": 2355,
         "form": "kuzave"
       },
@@ -52752,6 +52806,43 @@
           "entry": {
             "id": 5523,
             "form": "igus kuzan"
+          }
+        }
+      ]
+    },
+    {
+      "entry": {
+        "id": 5895,
+        "form": "kuzaven"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "備蓄品",
+            "保存品",
+            "保管品"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [
+        {
+          "title": "語法",
+          "text": "保存されたもののこと。kuzaeskが単に保存対象を指すことと比較して、kuzavenは既に保管されて年月が経ったものであることが含意される。"
+        },
+        {
+          "title": "語源",
+          "text": "kuzae+oven"
+        }
+      ],
+      "variations": [],
+      "relations": [
+        {
+          "title": "類義語",
+          "entry": {
+            "id": 5896,
+            "form": "kuzaesk"
           }
         }
       ]

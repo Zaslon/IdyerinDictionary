@@ -21889,7 +21889,7 @@
         },
         {
           "title": "語源",
-          "text": "*ab+*fe*+ave|異なる運び方をもたらすところ"
+          "text": "*ab+*fe+ave"
         }
       ],
       "variations": [],
@@ -43014,14 +43014,14 @@
         {
           "title": "名詞",
           "forms": [
-            "【言】語根"
+            "【言】自由形態素"
           ]
         }
       ],
       "contents": [
         {
           "title": "語法",
-          "text": "as'tavansasの内、単語の意味の中心となるもののこと。有意味な自由形態素のこと。"
+          "text": "as'tavansasの内、単独で語を形成できるもの。"
         }
       ],
       "variations": [],
@@ -67575,10 +67575,6 @@
         {
           "title": "語法",
           "text": "一箇所に高密度で集積されたひとかたまりの物体のこと。"
-        },
-        {
-          "title": "語源",
-          "text": "*sind"
         }
       ],
       "variations": [],
@@ -74297,7 +74293,7 @@
         },
         {
           "title": "語源",
-          "text": "r:*s'en+oma"
+          "text": "*s'en+oma"
         }
       ],
       "variations": [],
@@ -112986,7 +112982,7 @@
         },
         {
           "title": "語源",
-          "text": "ma*edok>"
+          "text": "ma+edok>"
         }
       ],
       "variations": [],
@@ -119031,7 +119027,7 @@
       "tags": [],
       "translations": [
         {
-          "title": "接頭辞",
+          "title": "名詞",
           "forms": [
             "ミリメートル"
           ]
@@ -119054,7 +119050,7 @@
       "tags": [],
       "translations": [
         {
-          "title": "接頭辞",
+          "title": "名詞",
           "forms": [
             "ミリグラム"
           ]

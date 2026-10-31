@@ -1,0 +1,152 @@
+name: デプロイ
+
+# sync/ の中身を、辞書（webDictionary）のサーバ上のフォルダへそのまま上書きで送る。
+# webDictionary のデプロイは idyer.json を触らないので、サーバ上の辞書データは
+# このワークフローだけが更新する。
+# サーバからは何も消さない。同じフォルダに webDictionary の本体が置かれているため。
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - "sync/**"
+      - ".github/workflows/deploy.yml"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "ドライラン（転送せず、送るファイルの一覧だけ表示する）"
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    # workflow_dispatch はブランチを選んで起動できてしまうため、master 以外は弾く
+    if: github.ref == 'refs/heads/master'
+    runs-on: ubuntu-24.04
+    # Secrets は production 環境に置き、環境側でも master ブランチ限定にしておくこと
+    environment: production
+    concurrency:
+      group: deploy-production
+      # 古い内容が新しい内容を上書きしないよう、実行中のものは止めず順番に流す
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: ツールのインストール
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq lftp
+
+      - name: 転送
+        env:
+          # push で起動したときは inputs が空になる
+          DRY_RUN: ${{ inputs.dry_run || 'false' }}
+          PROTOCOL: ${{ vars.DEPLOY_PROTOCOL || 'sftp' }}
+          PORT: ${{ vars.DEPLOY_PORT }}
+          # パスは Secret にしないこと。GitHub はシークレット値と同じ文字列をログ中で
+          # すべて伏せるため、"/" などを入れるとログ全体が読めなくなる
+          REMOTE_ROOT: ${{ vars.DEPLOY_PATH }}
+          HOST: ${{ secrets.DEPLOY_HOST }}
+          USER_NAME: ${{ secrets.DEPLOY_USER }}
+          KNOWN_HOSTS: ${{ secrets.DEPLOY_KNOWN_HOSTS }}
+          SSH_KEY: ${{ secrets.DEPLOY_SSH_KEY }}
+          # lftp の --env-password はこの名前の環境変数を読む。
+          # コマンドラインに載せるとログやプロセス一覧に出るため、この経路で渡す。
+          LFTP_PASSWORD: ${{ secrets.DEPLOY_PASSWORD }}
+        run: |
+          set -euo pipefail
+
+          echo "接続方式: $PROTOCOL（Variables の DEPLOY_PROTOCOL。未設定なら sftp）"
+
+          if [ -z "$HOST" ];        then echo "::error::Secret が未設定: DEPLOY_HOST"; exit 1; fi
+          if [ -z "$USER_NAME" ];   then echo "::error::Secret が未設定: DEPLOY_USER"; exit 1; fi
+          if [ -z "$REMOTE_ROOT" ]; then echo "::error::Variable が未設定: DEPLOY_PATH"; exit 1; fi
+          # 空のままでも lftp は空パスワードでログインしに行き、530 としか出ないため先に弾く
+          if [ -z "$LFTP_PASSWORD" ] && { [ "$PROTOCOL" != "sftp" ] || [ -z "$SSH_KEY" ]; }; then
+            echo "::error::Secret が未設定: DEPLOY_PASSWORD（production 環境か、リポジトリの Secrets に置くこと）"; exit 1
+          fi
+          REMOTE_ROOT="${REMOTE_ROOT%/}"
+          REMOTE_ROOT="${REMOTE_ROOT:-/}"
+
+          # lftp のスクリプトにはパスを "..." で囲んで書く。" と \ があると囲みを抜けられ、
+          # mput はワイルドカードを展開するので * ? [ ] があると別のファイルを巻き込む。
+          # そういう名前が来たら何もせず止める。
+          check_name() {
+            case "$1" in
+              *'"'* | *'\'* | *'*'* | *'?'* | *'['* | *']'* | *$'\n'*)
+                echo "::error::lftp で安全に扱えない文字を含むファイル名: $1"; exit 1 ;;
+            esac
+          }
+
+          # sync/ 配下を、sync/ を外した相対パスで送る
+          uploads=()
+          while IFS= read -r -d '' path; do
+            path="${path#sync/}"
+            check_name "$path"
+            uploads+=("$path")
+          done < <(git -c core.quotepath=off ls-files -z -- sync)
+
+          if [ "${#uploads[@]}" -eq 0 ]; then
+            echo "::error::sync/ に送るファイルが無い"; exit 1
+          fi
+          echo "== 送るファイル（${#uploads[@]}件）=="
+          printf '  %s\n' "${uploads[@]}"
+
+          if [ "$DRY_RUN" = "true" ]; then echo "ドライランのため転送しない"; exit 0; fi
+
+          port_opt=""
+          if [ -n "$PORT" ]; then port_opt=":$PORT"; fi
+          {
+            if [ "$PROTOCOL" = "sftp" ]; then
+              if [ -z "$KNOWN_HOSTS" ]; then echo "::error::Secret が未設定: DEPLOY_KNOWN_HOSTS" >&2; exit 1; fi
+              mkdir -p ~/.ssh && chmod 700 ~/.ssh
+              printf '%s\n' "$KNOWN_HOSTS" > ~/.ssh/known_hosts
+              ssh_cmd="ssh -a -x -o StrictHostKeyChecking=yes"
+              if [ -n "$SSH_KEY" ]; then
+                printf '%s\n' "$SSH_KEY" > ~/.ssh/deploy_key
+                chmod 600 ~/.ssh/deploy_key
+                ssh_cmd="$ssh_cmd -o IdentitiesOnly=yes -i $HOME/.ssh/deploy_key"
+              fi
+              echo "set sftp:connect-program \"$ssh_cmd\""
+              echo "set sftp:auto-confirm no"
+              url="sftp://$HOST$port_opt"
+            elif [ "$PROTOCOL" = "ftps" ]; then
+              echo "set ftp:ssl-force true"
+              echo "set ftp:ssl-protect-data true"
+              echo "set ssl:verify-certificate true"
+              url="ftp://$HOST$port_opt"
+            else
+              echo "::error::DEPLOY_PROTOCOL は sftp か ftps: $PROTOCOL" >&2; exit 1
+            fi
+            echo "set net:max-retries 3"
+            echo "set net:timeout 30"
+            if [ "$PROTOCOL" = "sftp" ] && [ -n "$SSH_KEY" ]; then
+              # 末尾のカンマは「パスワード空」の指定。無いと鍵認証でもパスワードを聞きに行く
+              echo "open -u \"$USER_NAME,\" \"$url\""
+            else
+              echo "open --env-password -u \"$USER_NAME\" \"$url\""
+            fi
+            echo "cd \"$REMOTE_ROOT\" || exit 1"
+            echo "lcd sync || exit 1"
+            # 1行が長くなりすぎないよう50件ずつに分ける
+            for ((i = 0; i < ${#uploads[@]}; i += 50)); do
+              printf 'mput -d -P 4'
+              for f in "${uploads[@]:i:50}"; do printf ' "%s"' "$f"; done
+              echo ' || exit 1'
+            done
+          } > "$RUNNER_TEMP/run.lftp"
+
+          if ! lftp -f "$RUNNER_TEMP/run.lftp"; then
+            echo "::error::サーバに接続・ログインできない、DEPLOY_PATH の場所へ移動できない、または転送に失敗した（理由はログの直前の lftp のメッセージ）"
+            exit 1
+          fi
+          echo "完了"
+
+      - name: 後始末
+        if: always()
+        run: rm -f ~/.ssh/deploy_key "$RUNNER_TEMP"/run.lftp

@@ -26394,6 +26394,32 @@
     },
     {
       "entry": {
+        "id": 5904,
+        "form": "oskurmizer forguzedin"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "セリフ体"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [],
+      "variations": [],
+      "relations": [
+        {
+          "title": "対義語",
+          "entry": {
+            "id": 5064,
+            "form": "oskurmizer deanin"
+          }
+        }
+      ]
+    },
+    {
+      "entry": {
         "id": 5064,
         "form": "oskurmizer deanin"
       },
@@ -26414,7 +26440,15 @@
         }
       ],
       "variations": [],
-      "relations": []
+      "relations": [
+        {
+          "title": "対義語",
+          "entry": {
+            "id": 5904,
+            "form": "oskurmizer forguzedin"
+          }
+        }
+      ]
     },
     {
       "entry": {
@@ -133863,6 +133897,37 @@
         {
           "title": "語源",
           "text": "for+hiresk"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 5903,
+        "form": "forguzedin"
+      },
+      "translations": [
+        {
+          "title": "記述詞",
+          "forms": [
+            "(書体が)セリフ体の"
+          ]
+        }
+      ],
+      "tags": [],
+      "contents": [
+        {
+          "title": "語法",
+          "text": "西洋書体における先端につく装飾のこと。"
+        },
+        {
+          "title": "文化",
+          "text": "もともとイジェール語の文字においてはセリフ体は無く、本文も含めてサンセリフ体で組む方が主流である。しかし、西洋国家群の情報が流入するにつれ、ロゴや見出しとしてはセリフ体を使用する例が増えてきている。"
+        },
+        {
+          "title": "語源",
+          "text": "for+kuzede"
         }
       ],
       "variations": [],
